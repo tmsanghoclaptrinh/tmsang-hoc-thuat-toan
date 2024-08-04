@@ -84,15 +84,17 @@
 
 ### Cấp số cộng
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Cấp số cộng](https://vi.wikipedia.org/wiki/C%E1%BA%A5p_s%E1%BB%91_c%E1%BB%99ng)
+    - [Suy luận logic về công thức tính tổng Cấp số cộng](https://viblo.asia/p/suy-luan-logic-ve-cong-thuc-tinh-tong-cap-so-cong-5OXLAv7xVGr)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Cấp số cộng](https://www.youtube.com/watch?v=tKNNGgdjpOU)
+    - [Algorithm - Bài 5 - Cấp số cộng trực quan với animation](https://www.youtube.com/watch?v=dggeHK3mWPQ&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=5)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Arithmetic progression](https://en.wikipedia.org/wiki/Arithmetic_progression)
+    - [Arithmetic Progression - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-arithmetic-progression/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Arithmetic Sequences and Arithmetic Series - Basic Introduction](https://www.youtube.com/watch?v=XZJdyPkCxuE)
+    - [Intro to arithmetic progressions](https://www.khanacademy.org/math/in-in-grade-10-ncert/x573d8ce20721c073:arithmetic-progressions/x573d8ce20721c073:intro-to-arithmetic-progressions/v/intro-to-arithmetic-progressions-arithmetic-progressions)
 
 ### Cấp số nhân
 - Bài viết tiếng Việt:
