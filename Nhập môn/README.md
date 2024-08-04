@@ -1,4 +1,4 @@
-# [Tờ Mờ Sáng học Thuật toán và Lập trình thi đấu](https://github.com/tmsanghoclaptrinh/tmsang-hoc-thuat-toan/blob/main/README.md)
+# [Tờ Mờ Sáng học Thuật toán và Lập trình thi đấu](/README.md)
 
 # Nhập môn
 
