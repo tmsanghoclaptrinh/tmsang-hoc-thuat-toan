@@ -44,18 +44,18 @@
 
 ## Nhập môn
 
-- [Thuật toán là gì?](https)
-- [Lập trình thi đấu là gì?](https)
-- [Những kỳ thi Lập trình thi đấu nổi tiếng](https)
-- [Các trang web luyện tập Thuật toán và Lập trình thi đấu](https)
-- [Lợi ích của việc tham gia Lập trình thi đấu](https)
+- [Thuật toán là gì?](/Nhập%20môn/README.md#thuật-toán-là-gì)
+- [Lập trình thi đấu là gì?](/Nhập%20môn/README.md#lập-trình-thi-đấu-là-gì)
+- [Những kỳ thi Lập trình thi đấu nổi tiếng](/Nhập%20môn/README.md#những-kỳ-thi-lập-trình-thi-đấu-nổi-tiếng)
+- [Các trang web luyện tập Thuật toán và Lập trình thi đấu](/Nhập%20môn/README.md#các-trang-web-luyện-tập-thuật-toán-và-lập-trình-thi-đấu)
+- [Lợi ích của việc tham gia Lập trình thi đấu](/Nhập%20môn/README.md#lợi-ích-của-việc-tham-gia-lập-trình-thi-đấu)
 
 ## Sách hay về Thuật toán và Lập trình thi đấu
 
-- [Competitive Programming - Steven Halim](https://drive.google.com/file/d/0B2B4YFwy4LhWWl9NV2pyQno1S0U/view?resourcekey=0-soNqn2omBd1JNaDUZSsh5g)
+- [Competitive Programming - Steven Halim](https://files.gitter.im/SamZhangQingChuan/sam/DA1g/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf)
 - [Introduction to Algorithms - Bản dịch tiếng Việt](https://drive.google.com/file/d/0B2B4YFwy4LhWWl9NV2pyQno1S0U/view?resourcekey=0-soNqn2omBd1JNaDUZSsh5g)
 - [Giải thuật và lập trình (DSAP) - thầy Lê Minh Hoàng](https://drive.google.com/file/d/0BwcTB8a10LBwV1J3T2xDTGhQNmM/view?resourcekey=0-R4tnYInPWCKb5W_DK_JQwQ)
-- [Tài liệu giáo khoa chuyên Tin](https)
+- Tài liệu giáo khoa chuyên Tin
   - [Quyển 1](https://drive.google.com/file/d/0BwcTB8a10LBweWxNcExnVzF5dG8/view?resourcekey=0-WKR6p7r5Djmi--uvQnT-pg)
   - [Quyển 2](https://drive.google.com/file/d/0BwcTB8a10LBwY2kzV0dTMEhYb0E/view?resourcekey=0-jwmNe4E3bBtidsboHXQPSA)
   - [Quyển 3 - phần 1](https://drive.google.com/file/d/0BwcTB8a10LBwTFBGREdfbnNFYXM/view?resourcekey=0-xVwjQFoXV4OFwpoVHWywyg)
@@ -63,7 +63,7 @@
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 - [Guide To Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
 - [The Art Of Computer Programming - Donald Knuth](https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books)
-- [KC Book](https)
+- KC Book
   - [Quyển 1](https://drive.google.com/file/d/0B6O77opfHxDDV1lxdF9jWHVUZDA/view?resourcekey=0-bLURXsP9BNX7O6W1izMEjQ)
   - [Quyển 3](https://drive.google.com/file/d/0BwcTB8a10LBwSmZFdGhSY1lMNVU/view?resourcekey=0-POIEScAwD22aQFyr2mBfaw)
 - [Một số vấn đề đáng chú ý trong môn Tin học](https://drive.google.com/file/d/0BwcTB8a10LBwZHh0c3p0M2NqZ1E/view?resourcekey=0-sGBMwRWJQF0-oV27ula5Mg)
