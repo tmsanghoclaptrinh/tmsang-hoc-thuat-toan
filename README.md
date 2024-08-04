@@ -6,12 +6,13 @@
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftmsanghoclaptrinh%2Ftmsang-hoc-thuat-toan.json&label=visitors&color=blue"></a>
+  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tmsanghoclaptrinh/tmsang-hoc-thuat-toan"></a>
+</p>
+<p align="left">
   <a href="https://github.com/tmsanghoclaptrinh"><img src="https://img.shields.io/badge/author-tmsanghoclaptrinh-41454A?logo=github&labelColor=grey"></a>
   <a href="https://facebook.com/clb.it.ngoctao"><img src="https://img.shields.io/badge/facebook-clb.it.ngoctao-41454A?logo=facebook&logoColor=white&labelColor=blue"></a>
   <a href="https://www.youtube.com/@tmsanghoclaptrinh"><img src="https://img.shields.io/badge/youtube-tmsanghoclaptrinh-41454A?logo=youtube&logoColor=white&labelColor=red"></a>
-  <a href="https://discord.gg/ajXr5kRKkk">
-        <img src="https://img.shields.io/discord/994125923819458590?logo=discord&logoColor=white&labelColor=5865F2&color=green" alt="chat on Discord">
-  </a>
+  <a href="https://discord.gg/ajXr5kRKkk"><img src="https://img.shields.io/discord/994125923819458590?logo=discord&logoColor=white&labelColor=5865F2&color=green" alt="chat on Discord"></a>
 </p>
 <p align="left">
   <a href="https://tmsanghoclaptrinh.com"><img src="https://img.shields.io/badge/blog-tmsanghoclaptrinh.com-white"></a>
@@ -50,7 +51,7 @@
 - [Các trang web luyện tập Thuật toán và Lập trình thi đấu](/Nhập%20môn/README.md#các-trang-web-luyện-tập-thuật-toán-và-lập-trình-thi-đấu)
 - [Lợi ích của việc tham gia Lập trình thi đấu](/Nhập%20môn/README.md#lợi-ích-của-việc-tham-gia-lập-trình-thi-đấu)
 
-## [Sách hay về Thuật toán và Lập trình thi đấu](#-sách-hay-về-thuật-toán-và-lập-trình-thi-đấu)
+## [Sách hay về Thuật toán và Lập trình thi đấu](#sách-hay-về-thuật-toán-và-lập-trình-thi-đấu)
 
 - [Competitive Programming - Steven Halim](https://files.gitter.im/SamZhangQingChuan/sam/DA1g/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf)
 - [Introduction to Algorithms - Bản dịch tiếng Việt](https://drive.google.com/file/d/0B2B4YFwy4LhWWl9NV2pyQno1S0U/view?resourcekey=0-soNqn2omBd1JNaDUZSsh5g)
@@ -69,49 +70,49 @@
 - [Một số vấn đề đáng chú ý trong môn Tin học](https://drive.google.com/file/d/0BwcTB8a10LBwZHh0c3p0M2NqZ1E/view?resourcekey=0-sGBMwRWJQF0-oV27ula5Mg)
 - [Chuyên đề bồi dưỡng học sinh giỏi Toán Trung học phổ thông - Số học](https://drive.google.com/file/d/1DfMulADwC9DWOW6aFGtnxykGfWY6YD7Y/view)
 
-## Toán học trong lập trình thi đấu
+## [Toán học trong lập trình thi đấu](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md)
 
 Đang cập nhật...
 
-- [Kiến thức nền tảng](#)
-  - [Hệ cơ số](#)
-  - [Cấp số cộng](#)
-  - [Cấp số nhân](#)
-  - [Lý thuyết tập hợp](#)
-  - [Đại số logic](#)
-  - [Logarithm](#)
-- [Số học](#)
-  - [Modulo và Ước chung lớn nhất](#)
-  - [Nghịch đảo modulo](#)
-  - [Số nguyên tố](#)
-  - [Sàng nguyên tố](#)
-  - [Giải thuật Euclid](#)
-  - [Lũy thừa modulo](#)
-  - [Lũy thừa nhị phân](#)
-  - [Phi hàm Euler](#)
-  - [Giải phương trình](#)
-  - [Định lý Wilson](#)
-  - [Hàm Mobius](#)
-  - [Hàm nhân tính](#)
-- [Tổ hợp](#)
-  - [Hệ số nhị thức](#)
-  - [Dãy số Catalan](#)
-  - [Bao hàm - Loại trừ](#)
-  - [Bổ đề Burnside](#)
-  - [Công thức Cayley](#)
-  - [Biến đổi Fourier nhanh - FFT](#)
-- [Ma trận](#)
-  - [Nhân ma trận](#)
-  - [Khử nhân ma trận](#)
-  - [Truy hồi tuyển tính](#)
-  - [Ma trận kề](#)
-  - [Phép khử Gauss](#)
-- [Xác suất](#)
+- [Kiến thức nền tảng](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#kiến-thức-nền-tảng)
+  - [Hệ cơ số](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#hệ-cơ-số)
+  - [Cấp số cộng](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#cấp-số-cộng)
+  - [Cấp số nhân](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#cấp-số-nhân)
+  - [Lý thuyết tập hợp](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#lý-thuyết-tập-hợp)
+  - [Đại số logic](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#đại-số-logic)
+  - [Logarithm](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#logarithm)
+- [Số học](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#số-học)
+  - [Modulo và Ước chung lớn nhất](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#modulo-và-ước-chung-lớn-nhất)
+  - [Nghịch đảo modulo](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#nghịch-đảo-modulo)
+  - [Số nguyên tố](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#số-nguyên-tố)
+  - [Sàng nguyên tố](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#sàng-nguyên-tố)
+  - [Giải thuật Euclid](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#giải-thuật-euclid)
+  - [Lũy thừa modulo](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#lũy-thừa-modulo)
+  - [Lũy thừa nhị phân](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#lũy-thừa-nhị-phân)
+  - [Phi hàm Euler](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#phi-hàm-euler)
+  - [Giải phương trình](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#giải-phương-trình)
+  - [Định lý Wilson](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#định-lý-wilson)
+  - [Hàm Mobius](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#hàm-mobius)
+  - [Hàm nhân tính](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#hàm-nhân-tính)
+- [Tổ hợp](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#tổ-hợp)
+  - [Hệ số nhị thức](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#hệ-số-nhị-thức)
+  - [Dãy số Catalan](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#dãy-số-catalan)
+  - [Bao hàm - Loại trừ](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#bao-hàm---loại-trừ)
+  - [Bổ đề Burnside](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#bổ-đề-burnside)
+  - [Công thức Cayley](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#công-thức-cayley)
+  - [Biến đổi Fourier nhanh - FFT](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#biến-đổi-fourier-nhanh---fft)
+- [Ma trận](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#ma-trận)
+  - [Nhân ma trận](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#nhân-ma-trận)
+  - [Khử nhân ma trận](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#khử-nhân-ma-trận)
+  - [Truy hồi tuyến tính](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#truy-hồi-tuyến-tính)
+  - [Ma trận kề](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#ma-trận-kề)
+  - [Phép khử Gauss](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#phép-khử-gauss)
+- [Xác suất](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#xác-suất)
   - [Cấp](#)
-- [Lý thuyết trò chơi](#)
-  - [Game State](#)
-  - [Trò chơi Nim](#)
-  - [Định lý Sprague–Grundy](#)
+- [Lý thuyết trò chơi](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#lý-thuyết-trò-chơi)
+  - [Game State](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#game-state)
+  - [Trò chơi Nim](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#trò-chơi-nim)
+  - [Định lý Sprague–Grundy](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#định-lý-spraguegrundy)
 
 
 ## Kỹ thuật lập trình
