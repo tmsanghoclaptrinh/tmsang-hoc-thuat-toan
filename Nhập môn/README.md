@@ -2,7 +2,7 @@
 
 # Nhập môn
 
-> Danh sách những tài liệu hay và bổ ích về **Thuật toán và Lập trình thi đấu**
+> Tổng hợp danh sách những tài liệu hay và bổ ích về **Thuật toán và Lập trình thi đấu**
 > 
 > Người tổng hợp: **[Trần Minh Sáng](https://www.facebook.com/sangtran.04/)**
 
