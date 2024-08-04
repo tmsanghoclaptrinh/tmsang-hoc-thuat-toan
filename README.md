@@ -1,8 +1,8 @@
-# Tờ Mờ Sáng học Thuật toán và Lập trình thi đấu
+# [Tờ Mờ Sáng học Thuật toán và Lập trình thi đấu](https://github.com/tmsanghoclaptrinh/tmsang-hoc-thuat-toan/blob/main/README.md)
 
-Danh sách những tài liệu hay về **Thuật toán và Lập trình thi đấu**
-
-Người tổng hợp: **Trần Minh Sáng**
+> Danh sách những tài liệu hay và bổ ích về **Thuật toán và Lập trình thi đấu**
+> 
+> Người tổng hợp: **[Trần Minh Sáng](https://www.facebook.com/sangtran.04/)**
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Ftmsanghoclaptrinh%2Ftmsang-hoc-thuat-toan.json&label=visitors&color=blue"></a>
@@ -47,7 +47,7 @@ Người tổng hợp: **Trần Minh Sáng**
 - [Thuật toán là gì?](https)
 - [Lập trình thi đấu là gì?](https)
 - [Những kỳ thi Lập trình thi đấu nổi tiếng](https)
-- [Các trang web luyện tập Lập trình thi đấu](https)
+- [Các trang web luyện tập Thuật toán và Lập trình thi đấu](https)
 - [Lợi ích của việc tham gia Lập trình thi đấu](https)
 
 ## Sách hay về Thuật toán và Lập trình thi đấu
@@ -67,10 +67,11 @@ Người tổng hợp: **Trần Minh Sáng**
   - [Quyển 1](https://drive.google.com/file/d/0B6O77opfHxDDV1lxdF9jWHVUZDA/view?resourcekey=0-bLURXsP9BNX7O6W1izMEjQ)
   - [Quyển 3](https://drive.google.com/file/d/0BwcTB8a10LBwSmZFdGhSY1lMNVU/view?resourcekey=0-POIEScAwD22aQFyr2mBfaw)
 - [Một số vấn đề đáng chú ý trong môn Tin học](https://drive.google.com/file/d/0BwcTB8a10LBwZHh0c3p0M2NqZ1E/view?resourcekey=0-sGBMwRWJQF0-oV27ula5Mg)
+- [Chuyên đề bồi dưỡng học sinh giỏi Toán Trung học phổ thông - Số học](https://drive.google.com/file/d/1DfMulADwC9DWOW6aFGtnxykGfWY6YD7Y/view)
 
 ## Toán học trong lập trình thi đấu
 
-- Kiến thức nền tảng
+- [Kiến thức nền tảng]()
   - [Hệ cơ số](https)
   - [Cấp số cộng](https)
   - [Cấp số nhân](https)
@@ -119,7 +120,7 @@ Người tổng hợp: **Trần Minh Sáng**
 
 - Đang cập nhật
 
-## Các thuật toán tìm kiếm]
+## Các thuật toán tìm kiếm
 
 - Đang cập nhật
 
