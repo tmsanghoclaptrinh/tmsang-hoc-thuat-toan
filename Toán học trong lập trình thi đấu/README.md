@@ -112,15 +112,17 @@
 
 ### Lý thuyết tập hợp
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Lý thuyết tập hợp](https://vi.wikipedia.org/wiki/L%C3%BD_thuy%E1%BA%BFt_t%E1%BA%ADp_h%E1%BB%A3p)
+    - [Lý thuyết tập hợp (Set theory)](https://viblo.asia/p/ly-thuyet-tap-hop-set-theory-EbNVQwOWJvR)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Algorithm - Bài 7 - Lý thuyết tập hợp (Set theory)](https://www.youtube.com/watch?v=4Nfj_dwrTn0&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=7)
+    - [Georg Cantor - “Cha Đẻ” Của Lý Thuyết Tập Hợp Trầm Cảm Vì Công Trình Bị Phản Đối](https://www.youtube.com/watch?v=hAalyeV_ty4)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Set theory](https://en.wikipedia.org/wiki/Set_theory)
+    - [Set Theory - Đại học Stanford](https://plato.stanford.edu/entries/set-theory/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Exploring Mathematics: Set Theory - Eddie Woo](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N)
+    - [Introduction to Set theory - Discrete mathematics](https://www.youtube.com/watch?v=tyDKR4FG3Yw)
 
 ### Đại số logic
 - Bài viết tiếng Việt:
