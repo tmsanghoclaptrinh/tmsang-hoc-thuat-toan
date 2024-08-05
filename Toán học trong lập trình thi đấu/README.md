@@ -126,15 +126,17 @@
 
 ### Đại số logic
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Đại số Boole](https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_s%E1%BB%91_Boole)
+    - [Slide bài giảng Đại số logic và ứng dụng thiết kế máy tính điện tử - Đại học Công nghệ - Đại học Quốc gia](http://uet.vnu.edu.vn/~nguyenhathanh/lectures/thcs2/slides/Bai%205%20Dai%20so%20logic%20va%20ung%20dung.pdf)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Algorithm - Bài 8 - Đại số Logic / Logic Algebra / Boolean Algebra](https://www.youtube.com/watch?v=mo9H5JFfCYE&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=8)
+    - [Đại số Boolean & cổng logic](https://www.youtube.com/watch?v=feR-Ex5yZjU)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
+    - [The Mathematics of Boolean Algebra - Đại học Stanford](https://plato.stanford.edu/entries/boolalg-math/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Boolean Logic & Logic Gates](https://www.youtube.com/watch?v=gI-qXk7XojA)
+    - [The Laws of Boolean Algebra Explained](https://www.youtube.com/watch?v=RMe69AdlFdI)
 
 ### Logarithm
 - Bài viết tiếng Việt:
