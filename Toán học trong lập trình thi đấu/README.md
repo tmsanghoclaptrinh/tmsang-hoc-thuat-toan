@@ -163,6 +163,7 @@
     - [Số học : Extended euclid (Euclid mở rộng), nghịch đảo modulo, phi hàm Euler [C++]](https://www.youtube.com/watch?v=7s-zFNzzmt8)
     - [[Toán Đại học] Định nghĩa và tính chất đồng dư thức - lý thuyết số](https://www.youtube.com/watch?v=zODG4gxh9Po)
 - Bài viết tiếng Anh:
+    - [Modular Arithmetic - USACO Guide](https://usaco.guide/gold/modular?lang=cpp)
     - [Number Theory - 1](https://www.hackerearth.com/practice/notes/number-theory-1/)
     - [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
     - [Modular Arithmetic - GeeksforGeeks](https://www.geeksforgeeks.org/modular-arithmetic/)
@@ -177,8 +178,9 @@
     - [Modular Inverse | Nghịch đảo module](https://vnspoj.github.io/wikivn/algebra/module-inverse)
     - [Số học đồng dư (Phần 1): Đồng dư thức và Nghịch đảo modulo](https://viblo.asia/p/so-hoc-dong-du-phan-1-dong-du-thuc-va-nghich-dao-modulo-Az45b0aqZxY)
 - Video tiếng Việt:
-    - [Số học : Extended euclid (Euclid mở rộng), nghịch đảo modulo, phi hàm Euler [C++]](https://www.youtube.com/watch?v=7s-zFNzzmt8)
+    - [Số học: Extended euclid (Euclid mở rộng), nghịch đảo modulo, phi hàm Euler [C++]](https://www.youtube.com/watch?v=7s-zFNzzmt8)
 - Bài viết tiếng Anh:
+    - [Modular Inverse - USACO Guide](https://usaco.guide/gold/modular?lang=cpp#modular-inverse)
     - [Modular Multiplicative Inverse - cp-algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
     - [Modular multiplicative inverse](https://en.wikipedia.org/wiki/Modular_multiplicative_inverse)
 - Video tiếng Anh:
