@@ -98,15 +98,17 @@
 
 ### Cấp số nhân
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Cấp số nhân](https://vi.wikipedia.org/wiki/C%E1%BA%A5p_s%E1%BB%91_nh%C3%A2n)
+    - [Cấp số nhân hiểu ngay không cần nhớ công thức](https://viblo.asia/p/cap-so-nhan-hieu-ngay-khong-can-nho-cong-thuc-3RlL5glw4bB)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Algorithm - Bài 6 - Cấp số nhân hiểu ngay không cần nhớ công thức](https://www.youtube.com/watch?v=nVw9dYGlXbc&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=6)
+    - [Cấp Số Nhân (Toán 11)](https://www.youtube.com/watch?v=GV40xpC56Ts)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Geometric progression](https://en.wikipedia.org/wiki/Geometric_progression)
+    - [Geometric progression - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-geometric-progression/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Intro to Geometric Progressions - Eddie Woo](https://www.youtube.com/watch?v=yo2DtZDYzKY)
+    - [Geometric Series and Geometric Sequences](https://www.youtube.com/watch?v=zRKZ0-kOUZM)
 
 ### Lý thuyết tập hợp
 - Bài viết tiếng Việt:
