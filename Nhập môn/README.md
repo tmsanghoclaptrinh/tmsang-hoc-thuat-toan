@@ -37,11 +37,11 @@
 
 - Bài viết tiếng Việt:
     - [Thuật toán – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Thu%E1%BA%ADt_to%C3%A1n)
-    - [Tầm Quan Trọng Của Thuật Toán](https://wiki.vnoi.info/translate/topcoder/The-Importance-of-Algorithm)
+    - [Tầm Quan Trọng Của Thuật Toán - VNOI Wiki](https://wiki.vnoi.info/translate/topcoder/The-Importance-of-Algorithm)
 - Video tiếng Việt:
     - [Giới thiệu về Thuật toán và Lập trình thi đấu](https://www.youtube.com/watch?v=AgwnOQbJVvU&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=1)
     - [Thuật toán là gì?](https://www.youtube.com/watch?v=2ENmRL7pTSg)
-    - [Học thuật toán để làm cái vẹo gì??](https://www.youtube.com/watch?v=v1OzKljVHtc)
+    - [Học thuật toán để làm cái vẹo gì?? - Tôi đi code dạo](https://www.youtube.com/watch?v=v1OzKljVHtc)
 - Bài viết tiếng Anh:
     - [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
     - [What is Algorithm | Introduction to Algorithms](https://www.geeksforgeeks.org/introduction-to-algorithms/)

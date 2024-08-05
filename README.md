@@ -82,7 +82,7 @@
   - [Đại số logic](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#đại-số-logic)
   - [Logarithm](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#logarithm)
 - [Số học](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#số-học)
-  - [Modulo và Ước chung lớn nhất](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#modulo-và-ước-chung-lớn-nhất)
+  - [Modulo](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#modulo)
   - [Nghịch đảo modulo](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#nghịch-đảo-modulo)
   - [Số nguyên tố](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#số-nguyên-tố)
   - [Sàng nguyên tố](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#sàng-nguyên-tố)

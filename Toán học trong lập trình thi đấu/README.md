@@ -35,7 +35,7 @@
   - [Đại số logic](#đại-số-logic)
   - [Logarithm](#logarithm)
 - [Số học](#số-học)
-  - [Modulo và Ước chung lớn nhất](#modulo-và-ước-chung-lớn-nhất)
+  - [Modulo](#modulo)
   - [Nghịch đảo modulo](#nghịch-đảo-modulo)
   - [Số nguyên tố](#số-nguyên-tố)
   - [Sàng nguyên tố](#sàng-nguyên-tố)
@@ -154,29 +154,36 @@
 
 ## Số học
 
-### Modulo và Ước chung lớn nhất
+### Modulo
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Modulo & GCD - VNOI Wiki](https://wiki.vnoi.info/translate/he/So-hoc-Phan-1-Modulo-gcd)
+    - [Số học đồng dư (Phần 1): Đồng dư thức và Nghịch đảo modulo](https://viblo.asia/p/so-hoc-dong-du-phan-1-dong-du-thuc-va-nghich-dao-modulo-Az45b0aqZxY)
+    - [Số học đồng dư (Phần 2): Phương trình đồng dư tuyến tính](https://viblo.asia/p/so-hoc-dong-du-phan-2-phuong-trinh-dong-du-tuyen-tinh-3RlL5Y6gLbB)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Số học : Extended euclid (Euclid mở rộng), nghịch đảo modulo, phi hàm Euler [C++]](https://www.youtube.com/watch?v=7s-zFNzzmt8)
+    - [[Toán Đại học] Định nghĩa và tính chất đồng dư thức - lý thuyết số](https://www.youtube.com/watch?v=zODG4gxh9Po)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Number Theory - 1](https://www.hackerearth.com/practice/notes/number-theory-1/)
+    - [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
+    - [Modular Arithmetic - GeeksforGeeks](https://www.geeksforgeeks.org/modular-arithmetic/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [This completely changed the way I see numbers | Modular Arithmetic Visually Explained](https://www.youtube.com/watch?v=lJ3CD9M3nEQ)
+    - [What does a ≡ b (mod n) mean? Basic Modular Arithmetic, Congruence](https://www.youtube.com/watch?v=6dZLq77gSGU)
+    - [What is Modular Arithmetic - Introduction to Modular Arithmetic - Cryptography](https://www.youtube.com/watch?v=Eg6CTCu8iio)
 
 ### Nghịch đảo modulo
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Nghịch đảo modulo - VNOI Wiki](https://wiki.vnoi.info/algo/math/modular-inverse)
+    - [Modular Inverse | Nghịch đảo module](https://vnspoj.github.io/wikivn/algebra/module-inverse)
+    - [Số học đồng dư (Phần 1): Đồng dư thức và Nghịch đảo modulo](https://viblo.asia/p/so-hoc-dong-du-phan-1-dong-du-thuc-va-nghich-dao-modulo-Az45b0aqZxY)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Số học : Extended euclid (Euclid mở rộng), nghịch đảo modulo, phi hàm Euler [C++]](https://www.youtube.com/watch?v=7s-zFNzzmt8)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Modular Multiplicative Inverse - cp-algorithms](https://cp-algorithms.com/algebra/module-inverse.html)
+    - [Modular multiplicative inverse](https://en.wikipedia.org/wiki/Modular_multiplicative_inverse)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [How To Find The Inverse of a Number ( mod n ) - Inverses of Modular Arithmetic - Example](https://www.youtube.com/watch?v=shaQZg8bqUM)
+    - [Multiplicative Inverse Mod n](https://www.youtube.com/watch?v=lh51Ww46Rng)
 
 ### Số nguyên tố
 - Bài viết tiếng Việt:
