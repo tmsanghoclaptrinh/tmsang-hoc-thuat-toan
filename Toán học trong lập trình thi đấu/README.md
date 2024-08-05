@@ -140,15 +140,17 @@
 
 ### Logarithm
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Logarit](https://vi.wikipedia.org/wiki/Logarit)
+    - [Chương II. Hàm số lũy thừa hàm số mũ và hàm số lôgarit - Toán 12](https://loigiaihay.com/chuong-ii-ham-so-luy-thua-ham-so-mu-va-ham-so-logarit-e1775.html)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Logarit : Hành trình từ cực tiểu đến cực đại](https://www.youtube.com/watch?v=nTuBytg_5m8)
+    - [Ứng dụng Logarit trong thực tế - Thước đo động đất](https://www.youtube.com/watch?v=w4AP_kb2lmk)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Logarithm](https://en.wikipedia.org/wiki/Logarithm)
+    - [Intro to Logarithms - Khan Academy](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:logs/x2ec2f6f830c9fb89:log-intro/a/intro-to-logarithms)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Logarithms, explained - Steve Kelly](https://www.youtube.com/watch?v=zzu2POfYv0Y)
+    - [Logarithms explained Bob Ross style](https://www.youtube.com/watch?v=up21mvokyQ4)
 
 ## Số học
 
