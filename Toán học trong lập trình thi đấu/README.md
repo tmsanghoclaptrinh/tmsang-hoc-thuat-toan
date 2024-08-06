@@ -195,7 +195,7 @@
     - [Số nguyên tố : Con số kỳ bí và huyền diệu](https://www.youtube.com/watch?v=KMPAxJtmpl8) - LƯU Ý: Tác giả của kênh Youtube Khoa Học và Chúng Ta này có nhiều video về khoa học ứng dụng hay. Tuy nhiên, ông này đã từng bị trục xuất khỏi nước vì phản động. Vì vậy, hãy thật tỉnh táo khi xem video trên kênh này. Nếu bạn phát hiện ra bất kỳ dấu hiệu nào về việc ông này truyền bá tư tưởng lệch lạc xen kẽ vào trong video, thì hãy thông báo với mình để mình loại bỏ video ra khỏi danh sách nhé.
     - [Thuật Toán Kiểm Tra Số Nguyên Tố](https://www.youtube.com/watch?v=oIUueKdmRo8)
 - Bài viết tiếng Anh:
-    - Mục 11.1.1 trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - Mục ***11.1.1. Primes and Factors*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Primality tests - cp-algorithms](https://cp-algorithms.com/algebra/primality_tests.html#fermat-primality-test)
     - [Primality test](https://en.wikipedia.org/wiki/Primality_test)
     - [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
@@ -213,7 +213,7 @@
 - Video tiếng Việt:
     - [Thuật Toán Sàng Số Nguyên Tố Eratosthenes](https://www.youtube.com/watch?v=YqT9grg_M60)
 - Bài viết tiếng Anh:
-    - Mục 11.1.2 trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - Mục ***11.1.2. Sieve of Eratosthenes*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Sieve of Eratosthenes - cp-algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
     - [Sieve of Eratosthenes - Wikipedia](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
     - Ngoài Sàng Eratosthenes, còn có một số sàng nguyên tố khác như:
@@ -235,7 +235,7 @@
     - [Số học: Extended euclid (Euclid mở rộng), nghịch đảo modulo, phi hàm Euler [C++]](https://youtu.be/7s-zFNzzmt8?si=U8kMD2yVuxpLE5HO&t=1624)
     - [Giải thuật Euclid - Tìm ƯCLN - Giải thích thuật toán](https://www.youtube.com/watch?v=agrVghBxYUw)
 - Bài viết tiếng Anh:
-    - Mục 11.1.3 trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - Mục ***11.1.3. Euclid's Algorithm*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
     - [Euclidean algorithms (Basic and Extended) - GeeksforGeeks](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
     - [The Euclidean Algorithm - Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
@@ -249,15 +249,18 @@
 
 ### Lũy thừa modulo
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Thắc mắc về thuật toán (a^b)%c](https://daynhauhoc.com/t/thac-mac-ve-thuat-toan-a-b-c/81205)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [GATBMTT Hướng dẫn Tính lũy thừa modulo 4 cách tínhiới](https://www.youtube.com/watch?v=7UgxGjZX3Yw)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.1.4. Modular Exponentiation*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Modular exponentiation](https://en.wikipedia.org/wiki/Modular_exponentiation)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Modular Exponentiation (Part 1)](https://www.youtube.com/watch?v=_gYUlvcnjs0)
+    - [Modular Exponentiation (Part 2)](https://www.youtube.com/watch?v=bg0P_3UiG5I)
+    - [Modular exponentiation](https://www.youtube.com/watch?v=EHUgNLN8F1Y)
+    - [[Discrete Math] Modular Exponentiation](https://www.youtube.com/watch?v=sL-YtCqDS90)
+    - [Modular exponentiation made easy](https://www.youtube.com/watch?v=tTuWmcikE0Q)
 
 ### Lũy thừa nhị phân
 - Bài viết tiếng Việt:
