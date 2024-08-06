@@ -143,7 +143,7 @@
     - [Logarit](https://vi.wikipedia.org/wiki/Logarit)
     - [Chương II. Hàm số lũy thừa hàm số mũ và hàm số lôgarit - Toán 12](https://loigiaihay.com/chuong-ii-ham-so-luy-thua-ham-so-mu-va-ham-so-logarit-e1775.html)
 - Video tiếng Việt:
-    - [Logarit : Hành trình từ cực tiểu đến cực đại](https://www.youtube.com/watch?v=nTuBytg_5m8)
+    - [Logarit : Hành trình từ cực tiểu đến cực đại](https://www.youtube.com/watch?v=nTuBytg_5m8) - LƯU Ý: Tác giả của kênh Youtube Khoa Học và Chúng Ta này có nhiều video về khoa học ứng dụng hay. Tuy nhiên, ông này đã từng bị trục xuất khỏi nước vì phản động. Vì vậy, hãy thật tỉnh táo khi xem video trên kênh này. Nếu bạn phát hiện ra bất kỳ dấu hiệu nào về việc ông này truyền bá tư tưởng lệch lạc xen kẽ vào trong video, thì hãy thông báo với mình để mình loại bỏ video ra khỏi danh sách nhé.
     - [Ứng dụng Logarit trong thực tế - Thước đo động đất](https://www.youtube.com/watch?v=w4AP_kb2lmk)
 - Bài viết tiếng Anh:
     - [Logarithm](https://en.wikipedia.org/wiki/Logarithm)
@@ -192,7 +192,7 @@
     - [Kiểm tra số nguyên tố - VNOI Wiki](https://wiki.vnoi.info/algo/algebra/primality_check.md)
     - [Số học 2 - Số nguyên tố, Sàng Eratosthenes - VNOI Wiki](https://wiki.vnoi.info/translate/he/Number-Theory-2)
 - Video tiếng Việt:
-    - [Số nguyên tố : Con số kỳ bí và huyền diệu](https://www.youtube.com/watch?v=KMPAxJtmpl8)
+    - [Số nguyên tố : Con số kỳ bí và huyền diệu](https://www.youtube.com/watch?v=KMPAxJtmpl8) - LƯU Ý: Tác giả của kênh Youtube Khoa Học và Chúng Ta này có nhiều video về khoa học ứng dụng hay. Tuy nhiên, ông này đã từng bị trục xuất khỏi nước vì phản động. Vì vậy, hãy thật tỉnh táo khi xem video trên kênh này. Nếu bạn phát hiện ra bất kỳ dấu hiệu nào về việc ông này truyền bá tư tưởng lệch lạc xen kẽ vào trong video, thì hãy thông báo với mình để mình loại bỏ video ra khỏi danh sách nhé.
     - [Thuật Toán Kiểm Tra Số Nguyên Tố](https://www.youtube.com/watch?v=oIUueKdmRo8)
 - Bài viết tiếng Anh:
     - [Primality tests - cp-algorithms](https://cp-algorithms.com/algebra/primality_tests.html#fermat-primality-test)
