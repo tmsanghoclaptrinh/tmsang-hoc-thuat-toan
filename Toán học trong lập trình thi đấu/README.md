@@ -264,15 +264,17 @@
 
 ### Lũy thừa nhị phân
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Lũy thừa nhị phân](https://wiki.vnoi.info/algo/algebra/binary_exponentation.md)
+    - [Binary Exponentiation | Luỹ thừa nhị phân](https://vnspoj.github.io/wikivn/algebra/binary-exp)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Thuật toán nhân lũy thừa nhị phân(Binary Exponentiation)](https://www.youtube.com/watch?v=OZufZz1J_ls)
+    - [Lũy Thừa Nhị Phân | Thuật Toán Tính Lũy Thừa Trong O(LogN)](https://www.youtube.com/watch?v=29tdEwMlCd4)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Binary Exponentiation - cp-algorithms](https://cp-algorithms.com/algebra/binary-exp.html)
+    - [Binary Exponentiation for Competitive Programming](https://www.geeksforgeeks.org/binary-exponentiation-for-competitive-programming/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Binary Exponentiation - Errichto Algorithms](https://www.youtube.com/watch?v=L-Wzglnm4dM)
+    - [Binary Exponentiation](https://www.youtube.com/watch?v=9VEqjAZxmeA)
 
 ### Phi hàm Euler
 - Bài viết tiếng Việt:
