@@ -71,7 +71,7 @@
 
 ### Hệ cơ số
 - Bài viết tiếng Việt:
-    - [Danh sách hệ đếm](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_h%E1%BB%87_%C4%91%E1%BA%BFm)
+    - [Danh sách hệ đếm - Wikipedia](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_h%E1%BB%87_%C4%91%E1%BA%BFm)
     - [Hệ cơ số (Hệ đếm)](https://viblo.asia/p/he-co-so-he-dem-m68Z0e72lkG)
 - Video tiếng Việt:
     - [Biểu diễn số & chữ cái bằng nhị phân](https://www.youtube.com/watch?v=0OThQYFnilU)
@@ -195,6 +195,7 @@
     - [Số nguyên tố : Con số kỳ bí và huyền diệu](https://www.youtube.com/watch?v=KMPAxJtmpl8) - LƯU Ý: Tác giả của kênh Youtube Khoa Học và Chúng Ta này có nhiều video về khoa học ứng dụng hay. Tuy nhiên, ông này đã từng bị trục xuất khỏi nước vì phản động. Vì vậy, hãy thật tỉnh táo khi xem video trên kênh này. Nếu bạn phát hiện ra bất kỳ dấu hiệu nào về việc ông này truyền bá tư tưởng lệch lạc xen kẽ vào trong video, thì hãy thông báo với mình để mình loại bỏ video ra khỏi danh sách nhé.
     - [Thuật Toán Kiểm Tra Số Nguyên Tố](https://www.youtube.com/watch?v=oIUueKdmRo8)
 - Bài viết tiếng Anh:
+    - Mục 11.1.1 trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Primality tests - cp-algorithms](https://cp-algorithms.com/algebra/primality_tests.html#fermat-primality-test)
     - [Primality test](https://en.wikipedia.org/wiki/Primality_test)
     - [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
@@ -212,6 +213,7 @@
 - Video tiếng Việt:
     - [Thuật Toán Sàng Số Nguyên Tố Eratosthenes](https://www.youtube.com/watch?v=YqT9grg_M60)
 - Bài viết tiếng Anh:
+    - Mục 11.1.2 trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Sieve of Eratosthenes - cp-algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
     - [Sieve of Eratosthenes - Wikipedia](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
     - Ngoài Sàng Eratosthenes, còn có một số sàng nguyên tố khác như:
@@ -227,15 +229,23 @@
 
 ### Giải thuật Euclid
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Thuật toán Euclid - VNOI Wiki](https://wiki.vnoi.info/vi/algo/algebra/euclid)
+    - [Giải thuật Euclid - Wikipedia](https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_thu%E1%BA%ADt_Euclid)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Số học: Extended euclid (Euclid mở rộng), nghịch đảo modulo, phi hàm Euler [C++]](https://youtu.be/7s-zFNzzmt8?si=U8kMD2yVuxpLE5HO&t=1624)
+    - [Giải thuật Euclid - Tìm ƯCLN - Giải thích thuật toán](https://www.youtube.com/watch?v=agrVghBxYUw)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục 11.1.3 trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+    - [Euclidean algorithms (Basic and Extended) - GeeksforGeeks](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
+    - [The Euclidean Algorithm - Khan Academy](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
+    - [The Euclidean Algorithm - W3Schools](https://www.w3schools.com/dsa/dsa_ref_euclidean_algorithm.php)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [How to Find the Greatest Common Divisor by Using the Euclidian Algorithm](https://www.youtube.com/watch?v=JUzYl1TYMcU)
+    - [Euclidean Algorithm - An example](https://www.youtube.com/watch?v=fwuj4yzoX1o)
+    - [GCD - Euclidean Algorithm (Method 1)](https://www.youtube.com/watch?v=yHwneN6zJmU)
+    - [GCD - Euclidean Algorithm (Method 2)](https://www.youtube.com/watch?v=svBx8u5bMEg)
+    - [Euclidean algorithm - Discrete Mathematics](https://www.youtube.com/watch?v=cOwyHTiW4KE)
 
 ### Lũy thừa modulo
 - Bài viết tiếng Việt:
