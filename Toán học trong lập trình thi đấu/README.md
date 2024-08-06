@@ -189,27 +189,41 @@
 
 ### Số nguyên tố
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Kiểm tra số nguyên tố - VNOI Wiki](https://wiki.vnoi.info/algo/algebra/primality_check.md)
+    - [Số học 2 - Số nguyên tố, Sàng Eratosthenes - VNOI Wiki](https://wiki.vnoi.info/translate/he/Number-Theory-2)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Số nguyên tố : Con số kỳ bí và huyền diệu](https://www.youtube.com/watch?v=KMPAxJtmpl8)
+    - [Thuật Toán Kiểm Tra Số Nguyên Tố](https://www.youtube.com/watch?v=oIUueKdmRo8)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Primality tests - cp-algorithms](https://cp-algorithms.com/algebra/primality_tests.html#fermat-primality-test)
+    - [Primality test](https://en.wikipedia.org/wiki/Primality_test)
+    - [Miller–Rabin primality test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
+    - [Carmichael number](https://en.wikipedia.org/wiki/Carmichael_number)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Primality (1 of 2: Fermat's Test) - Eddie Woo](https://www.youtube.com/watch?v=RcjxwCHRYfE)
+    - [Fermat primality test - Khan Academy Labs](https://www.youtube.com/watch?v=oUMotDWVLpw)
+    - [Fool-Proof Test for Primes - Numberphile](https://www.youtube.com/watch?v=HvMSRWTE2mI)
 
 ### Sàng nguyên tố
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Sàng nguyên tố - VNOI Wiki](https://wiki.vnoi.info/algo/algebra/prime_sieve.md)
+    - [Số học 2 - Số nguyên tố, Sàng Eratosthenes - VNOI Wiki](https://wiki.vnoi.info/translate/he/Number-Theory-2)
+    - [Sàng Eratosthenes - Wikipedia](https://vi.wikipedia.org/wiki/S%C3%A0ng_Eratosthenes)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Thuật Toán Sàng Số Nguyên Tố Eratosthenes](https://www.youtube.com/watch?v=YqT9grg_M60)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Sieve of Eratosthenes - cp-algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
+    - [Sieve of Eratosthenes - Wikipedia](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+    - Ngoài Sàng Eratosthenes, còn có một số sàng nguyên tố khác như:
+        - [Sàng nguyên tố Atkin](https://en.wikipedia.org/wiki/Sieve_of_Atkin) với ĐPT $O(n)$
+        - [Sàng nguyên tố Sundaram](https://en.wikipedia.org/wiki/Sieve_of_Sundaram) với ĐPT $O(n\log n)$
+        - [Sàng Pritchard](https://en.wikipedia.org/wiki/Sieve_of_Pritchard) với ĐPT $O\left( \dfrac{n}{\log \log n} \right)$
+        - ...
+        - Tuy nhiên, khi gặp các bộ dữ liệu $n$ vào khoảng $10^6$ thì các sàng này hầu như chạy chậm hơn so với Sàng Eratosthenes thông thường.
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [The Sieve of Eratosthenes - Eddie Woo](https://www.youtube.com/watch?v=Lj_SzTGr-G4)
+    - [Sieve of Eratosthenes - Khan Academy](https://www.youtube.com/watch?v=klcIklsWzrY)
+    - [Sieve Of Eratosthenes (visualized)](https://www.youtube.com/watch?v=dhfhu9Q5g8U)
 
 ### Giải thuật Euclid
 - Bài viết tiếng Việt:
