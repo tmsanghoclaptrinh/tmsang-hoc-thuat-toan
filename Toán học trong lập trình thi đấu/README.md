@@ -333,15 +333,17 @@
 
 ### Định lý Wilson
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Định lý Wilson - VNOI Wiki](https://wiki.vnoi.info/translate/he/Wilsons-theorem)
+    - [Định lý Wilson - Wikipedia](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_l%C3%BD_Wilson)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Chứng minh p là số nguyên tố khi và chỉ khi (p-1)! + 1 ⋮ p | Chứng minh Định lý Wilson](https://www.youtube.com/watch?v=4b4SomBO7ZM)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Wilson's Theorem - Wolfram MathWorld](https://mathworld.wolfram.com/WilsonsTheorem.html)
+    - [Wilson’s Theorem - GeeksforGeeks](https://www.geeksforgeeks.org/wilsons-theorem/)
+    - [Wilson's theorem - Wikipedia](https://en.wikipedia.org/wiki/Wilson%27s_theorem)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Wilson's Theorem](https://www.youtube.com/watch?v=VLFjOP7iFI0)
+    - [Number Theory | Wilson's Theorem](https://www.youtube.com/watch?v=uWoKhyKcEH4)
 
 ### Hàm Mobius
 - Bài viết tiếng Việt:
