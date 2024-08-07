@@ -357,15 +357,14 @@
 
 ### Hàm nhân tính
 - Bài viết tiếng Việt:
-    - [Lập](https)
-- Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Hàm nhân tính - VNOI Wiki](https://wiki.vnoi.info/algo/math/multiplicative-function)
+    - [Hàm nhân tính - Wikipedia](https://vi.wikipedia.org/wiki/H%C3%A0m_nh%C3%A2n_t%C3%ADnh)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Multiplicative Functions - Đại học Stanford](https://crypto.stanford.edu/pbc/notes/numbertheory/mult.html)
+    - [Multiplicative function - Wikipedia](https://en.wikipedia.org/wiki/Multiplicative_function)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Multiplicative Function](https://www.youtube.com/watch?v=E6S2_22CLWI)
+    - [Introduction to number theory lecture 6. Multiplicative functions](https://www.youtube.com/watch?v=skTslDpxeL8)
 
 ## Tổ hợp
 
