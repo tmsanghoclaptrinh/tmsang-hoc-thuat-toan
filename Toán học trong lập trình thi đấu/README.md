@@ -298,16 +298,38 @@
     - [Euler's phi function |Solved examples |Cryptography](https://youtu.be/JcAxWlWgAY4?si=vzGKxRPZN9UnbulT)
 
 ### Giải phương trình
+#### Phương trình nghiệm nguyên
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Phương trình Diophantos](https://vi.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_tr%C3%ACnh_Diophantos)
+    - [Bàn thêm về phương trình Diophantine](https://docvui-suynghi.net/nghien-cuu/kqnc5/)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Chuyên đề phương pháp giải phương trình nghiệm nguyên](https://www.youtube.com/watch?v=f_RZcxzRxqo&list=PL6hMtHwzUM0iqAow2IIj14Kftq3GjHA2n)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.1.6 Solving Equations*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Linear Diophantine Equation - cp-algorithms](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
+    - [Diophantine Equation - Wolfram MathWorld](https://mathworld.wolfram.com/DiophantineEquation.html)
+    - [Diophantine equation](https://en.wikipedia.org/wiki/Diophantine_equation)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Diophantine Equation: ax+by=gcd(a,b)](https://youtu.be/FjliV5u2IVw?si=Al_VAFz6D_tClSWq)
+    - [Diophantine Equations: Strategies and Examples](https://youtu.be/3U3PbYnkkAM?si=myU7OcML2sCt4L3c)
+    - [Solving a+2ab+b=8 | A Diophantine Equation](https://youtu.be/jgD6DXRfCpE?si=QI2LjccGnYOAHZ7J)
+#### Định lý số dư Trung Hoa
+- Bài viết tiếng Việt:
+    - [Định lý số dư Trung Quốc](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_l%C3%BD_s%E1%BB%91_d%C6%B0_Trung_Qu%E1%BB%91c)
+    - [Định lý số dư Trung Hoa – Chinese Remainder Theorem](https://drx.home.blog/2018/07/25/dinh-ly-so-du-trung-hoa/)
+- Video tiếng Việt:
+    - [Bài toán Hàn Tín điểm binh và ứng dụng - Phần 1](https://youtu.be/sGvVle-LTNY?si=uQRuGyGSAGk0C0RK) - LƯU Ý: Tác giả của kênh Youtube Khoa Học và Chúng Ta này có nhiều video về khoa học ứng dụng hay. Tuy nhiên, ông này đã từng bị trục xuất khỏi nước vì phản động. Vì vậy, hãy thật tỉnh táo khi xem video trên kênh này. Nếu bạn phát hiện ra bất kỳ dấu hiệu nào về việc ông này truyền bá tư tưởng lệch lạc xen kẽ vào trong video, thì hãy thông báo với mình để mình loại bỏ video ra khỏi danh sách nhé.
+    - [Bài toán Hàn Tín điểm binh và ứng dụng vào công nghệ cao - Phần 2](https://youtu.be/_wj1Io1MTzQ?si=J2r6dzrl7SdV_kcI) - LƯU Ý: Tác giả của kênh Youtube Khoa Học và Chúng Ta này có nhiều video về khoa học ứng dụng hay. Tuy nhiên, ông này đã từng bị trục xuất khỏi nước vì phản động. Vì vậy, hãy thật tỉnh táo khi xem video trên kênh này. Nếu bạn phát hiện ra bất kỳ dấu hiệu nào về việc ông này truyền bá tư tưởng lệch lạc xen kẽ vào trong video, thì hãy thông báo với mình để mình loại bỏ video ra khỏi danh sách nhé.
+- Bài viết tiếng Anh:
+    - Mục ***11.1.6 Solving Equations*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Chinese remainder theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem)
+    - [Chinese Remainder Theorem - cp-algorithms](https://cp-algorithms.com/algebra/chinese-remainder-theorem.html)
+    - [The Chinese Remainder Theorem - Đại học Stanford](https://crypto.stanford.edu/pbc/notes/numbertheory/crt.html)
+    - [Introduction to Chinese Remainder Theorem - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-chinese-remainder-theorem/)
+- Video tiếng Anh:
+    - [The Chinese Remainder Theorem (Solved Example 1)](https://youtu.be/e8DtzQkjOMQ?si=xxuOCq52uq1M1bYj)
+    - [The Chinese Remainder Theorem (Solved Example 2)](https://youtu.be/zd1_iY0FSEo?si=tiEDde95BFxmGpag)
+    - [The Chinese Remainder Theorem made easy](https://youtu.be/ru7mWZJlRQg?si=KmrztdraFt_1VrsT)
 
 ### Định lý Wilson
 - Bài viết tiếng Việt:
