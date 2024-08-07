@@ -278,15 +278,24 @@
 
 ### Phi hàm Euler
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Số học 4 - Phi hàm Euler](https://wiki.vnoi.info/translate/he/Number-Theory-4)
+    - [Hàm phi Euler](https://vi.wikipedia.org/wiki/H%C3%A0m_phi_Euler)
 - Video tiếng Việt:
-    - [Giới](https)
+    - [Số học: Extended euclid (Euclid mở rộng), nghịch đảo modulo, phi hàm Euler [C++]](https://youtu.be/7s-zFNzzmt8?si=YAJwclJB7-HfTBCW&t=3807)
+    - [Phi Hàm Euler | Kiểm Tra 2 Số Nguyên Tố Cùng Nhau](https://www.youtube.com/watch?v=aqW91x9Gi3k)
+    - [Phi Hàm Euler Sử Dụng Sàng Số Nguyên Tố Biến Đổi](https://www.youtube.com/watch?v=8Wh54MRZH_U)
     - [VNOI](https)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.1.5. Euler’s Theorem*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Euler's totient function - Wikipedia](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
+    - [Euler's totient function - hackerearth](https://www.hackerearth.com/practice/notes/number-theory-iii/)
+    - [Euler's totient function - cp-algorithms](https://cp-algorithms.com/algebra/phi-function.html)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Euler's totient function | Khan Academy](https://youtu.be/qa_hksAzpSg?si=F99tFn-yhRZ0A1c_)
+    - [Euler’s Totient Function (Phi Function)](https://youtu.be/DwQ7-k9LkJ4?si=C_5EpMlQMFWA_hNQ)
+    - [Euler’s Totient Function (Solved Examples)](https://youtu.be/osge0_lZTaY?si=zYwOb6Efss3GgX_Y)
+    - [Euler totient function made easy](https://youtu.be/EcAT1XmHouk?si=9-epQP_o6BMoGGfb)
+    - [Euler's phi function |Solved examples |Cryptography](https://youtu.be/JcAxWlWgAY4?si=vzGKxRPZN9UnbulT)
 
 ### Giải phương trình
 - Bài viết tiếng Việt:
