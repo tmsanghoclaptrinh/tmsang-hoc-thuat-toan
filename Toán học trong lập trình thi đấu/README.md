@@ -347,15 +347,13 @@
 
 ### Hàm Mobius
 - Bài viết tiếng Việt:
-    - [Lập](https)
-- Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Hàm Mobius - VNOI Wiki](https://wiki.vnoi.info/translate/quora/mobius-function.md)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Möbius function - Wikipedia](https://en.wikipedia.org/wiki/M%C3%B6bius_function)
+    - [Möbius Function - Wolfram MathWorld](https://mathworld.wolfram.com/MoebiusFunction.html)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [What is the Moebius function?](https://www.youtube.com/watch?v=fGbJrY75LU8)
+    - [Introduction to Mobius Function](https://www.youtube.com/watch?v=XKjQcPNWMo0)
 
 ### Hàm nhân tính
 - Bài viết tiếng Việt:
