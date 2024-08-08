@@ -375,15 +375,16 @@
 
 ### Hệ số nhị thức
 - Bài viết tiếng Việt:
-    - [Lập](https)
-- Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [1. Hệ số nhị thức (Binomial coefficients)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-(combinatorics)-QxkGEP2pJZb)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.1.6 Solving Equations*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Binomial coefficient - Wikipedia](https://en.wikipedia.org/wiki/Binomial_coefficient)
+    - [Binomial Coefficient - Wolfram MathWorld](https://mathworld.wolfram.com/BinomialCoefficient.html)
+    - [Binomial Coefficient | DP-9 - GeeksforGeeks](https://www.geeksforgeeks.org/binomial-coefficient-dp-9/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [How To Evaluate Binomial Coefficients](https://www.youtube.com/watch?v=EKN51vLKves)
+    - [Binomial Coefficient](https://www.youtube.com/watch?v=WHztDZECzlM)
+    - [6. Binomial coefficient](https://www.khanacademy.org/computing/pixar/crowds/crowds2/v/combinatorics11)
 
 ### Dãy số Catalan
 - Bài viết tiếng Việt:
