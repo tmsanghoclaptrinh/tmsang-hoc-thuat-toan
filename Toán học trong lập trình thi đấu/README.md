@@ -423,15 +423,18 @@
 
 ### Bổ đề Burnside
 - Bài viết tiếng Việt:
-    - [Lập](https)
-- Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Bổ đề Burnside](https://vi.wikipedia.org/wiki/B%E1%BB%95_%C4%91%E1%BB%81_Burnside)
+    - [4. Bổ đề Burnside (Burnside lemma)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-(combinatorics)-QxkGEP2pJZb)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.2.4 Burnside’s Lemma*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Burnside's lemma - Wikipedia](https://en.wikipedia.org/wiki/Burnside%27s_lemma)
+    - [Burnside's lemma / Pólya enumeration theorem - cp-algorithms](https://cp-algorithms.com/combinatorics/burnside.html)
+    - [Orbit counting theorem or Burnside’s Lemma - GeeksforGeeks](https://www.geeksforgeeks.org/orbit-counting-theorem-or-burnsides-lemma/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Burnside's Lemma (Part 1) - combining group theory and combinatorics](https://www.youtube.com/watch?v=6kfbotHL0fs)
+    - [Burnside's Lemma (Part 2) - combining math, science and music](https://www.youtube.com/watch?v=SLI9fiiObKs)
+    - [Maths Problem: Complete Noughts and Crosses (Burnside's Lemma)](https://www.youtube.com/watch?v=wdDF7_vfLcE)
+    - [Burnside's lemma: counting up to symmetries](https://www.youtube.com/watch?v=D0d9bYZ_qDY)
 
 ### Công thức Cayley
 - Bài viết tiếng Việt:
