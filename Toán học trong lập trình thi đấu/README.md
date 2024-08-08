@@ -377,7 +377,7 @@
 - Bài viết tiếng Việt:
     - [1. Hệ số nhị thức (Binomial coefficients)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-(combinatorics)-QxkGEP2pJZb)
 - Bài viết tiếng Anh:
-    - Mục ***11.1.6 Solving Equations*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - Mục ***11.2.1 Binomial Coefficients*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Binomial coefficient - Wikipedia](https://en.wikipedia.org/wiki/Binomial_coefficient)
     - [Binomial Coefficient - Wolfram MathWorld](https://mathworld.wolfram.com/BinomialCoefficient.html)
     - [Binomial Coefficient | DP-9 - GeeksforGeeks](https://www.geeksforgeeks.org/binomial-coefficient-dp-9/)
@@ -388,15 +388,18 @@
 
 ### Dãy số Catalan
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Số Catalan](https://vi.wikipedia.org/wiki/S%E1%BB%91_Catalan)
+    - [Một số dãy số đặc biệt (Fibonacci, Catalan, Euler)](https://viblo.asia/p/mot-so-day-so-dac-biet-fibonacci-catalan-euler-Az45bq6qlxY)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [[Toán-Vật lý] Số Catalan - Catalan Numbers](https://www.youtube.com/watch?v=PDx1B9GqjIs)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.2.2 Catalan Numbers*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Catalan number - Wikipedia](https://en.wikipedia.org/wiki/Catalan_number)
+    - [Catalan Numbers - cp-algorithms](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
+    - [Catalan Number - Wolfram MathWorld](https://mathworld.wolfram.com/CatalanNumber.html)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Catalan Numbers - Numberphile](https://www.youtube.com/watch?v=fczN0BCx0xs)
+    - [The Most Important Sequence: The Catalan Numbers](https://www.youtube.com/watch?v=TAuJV5eNKLM)
 
 ### Bao hàm - Loại trừ
 - Bài viết tiếng Việt:
