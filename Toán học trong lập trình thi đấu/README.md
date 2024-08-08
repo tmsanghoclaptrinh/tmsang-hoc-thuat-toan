@@ -451,15 +451,22 @@
 
 ### Biến đổi Fourier nhanh - FFT
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Biến đổi Fourier nhanh - Fast Fourier transform - VNOI Wiki](https://wiki.vnoi.info/algo/trick/FFT)
+    - [Biến đổi Fourier nhanh - Wikipedia](https://vi.wikipedia.org/wiki/Bi%E1%BA%BFn_%C4%91%E1%BB%95i_Fourier_nhanh)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Biến đổi Fourier - Xử lý ảnh - TS. Nguyễn Thanh Hải](https://www.youtube.com/watch?v=0z1obWIbj34)
+    - [DFT và FFT DTFt THsxths](https://www.youtube.com/watch?v=BY8F4UAdpTI)
+    - [Tính DFT 8 điểm bằng thuật toán FFT theo thời gian _ PTIT _ XỬ LÝ TÍN HIỆU SỐ](https://www.youtube.com/watch?v=v5fbfwuCOII)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [Fast Fourier transform - cp-algorithms](https://cp-algorithms.com/algebra/fft.html)
+    - [Fast Fourier transform - Wikipedia](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+    - [Fast Fourier Transform - Wolfram MathWorld](https://mathworld.wolfram.com/FastFourierTransform.html)
+    - [Fourier Transform Visualization](https://prajwalsouza.github.io/Experiments/Fourier-Transform-Visualization.html)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [But what is the Fourier Transform? A visual introduction - 3Blue1Brown](https://www.youtube.com/watch?v=spUNpyF58BY)
+    - [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
+    - [Ocean waves simulation with Fast Fourier transform](https://www.youtube.com/watch?v=kGEqaX4Y4bQ)
+    - [Understanding the Discrete Fourier Transform and the FFT](https://www.youtube.com/watch?v=QmgJmh2I3Fw)
 
 ## Ma trận
 
