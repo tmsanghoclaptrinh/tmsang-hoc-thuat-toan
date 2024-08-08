@@ -403,15 +403,23 @@
 
 ### Bao hàm - Loại trừ
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Số học 7 - Bao hàm - Loại trừ (Inclusion-Exclusion) - VNOI Wiki](https://wiki.vnoi.info/translate/he/Number-Theory-7)
+    - [Nguyên lý bao hàm-loại trừ - Wikipedia](https://vi.wikipedia.org/wiki/Nguy%C3%AAn_l%C3%BD_bao_h%C3%A0m-lo%E1%BA%A1i_tr%E1%BB%AB)
+    - [Công thức Bao hàm - Loại trừ](https://viblo.asia/p/cong-thuc-bao-ham-loai-tru-3Q75wNQJlWb)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [BD HSG - PM Tổ Hợp - Bài 3: Nguyên lí bù trừ 1](https://www.youtube.com/watch?v=4Ey4ZY3-7Kk)
+    - [BD HSG - PM Tổ Hợp - Bài 5: Nguyên lý bù trừ 2](https://www.youtube.com/watch?v=kjwwHWIgIQU)
+    - [[Toán rời rạc] - Nguyên lý bù trừ - TS Trần Hoan](https://www.youtube.com/watch?v=F75-DxKqL48)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.2.3 Inclusion-Exclusion*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Inclusion–exclusion principle - Wikipedia](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
+    - [The Inclusion-Exclusion Principle - cp-algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+    - [Inclusion-Exclusion Principle - USACO Guide](https://usaco.guide/plat/PIE?lang=cpp)
+    - [Inclusion-Exclusion and its various Applications - GeeksforGeeks](https://www.geeksforgeeks.org/inclusion-exclusion-various-applications/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Visual Inclusion/Exclusion](https://www.youtube.com/shorts/xLQFOBo71w0)
+    - [Inclusion-exclusion principle made easy](https://www.youtube.com/watch?v=FOfEgJodjXc)
+    - [Ch9Pr4: Inclusion/Exclusion Principle](https://www.youtube.com/watch?v=szUTQRJU76Q)
 
 ### Bổ đề Burnside
 - Bài viết tiếng Việt:
