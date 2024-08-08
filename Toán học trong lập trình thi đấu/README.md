@@ -194,6 +194,7 @@
 - Video tiếng Việt:
     - [Số nguyên tố : Con số kỳ bí và huyền diệu](https://www.youtube.com/watch?v=KMPAxJtmpl8) - LƯU Ý: Tác giả của kênh Youtube Khoa Học và Chúng Ta này có nhiều video về khoa học ứng dụng hay. Tuy nhiên, ông này đã từng bị trục xuất khỏi nước vì phản động. Vì vậy, hãy thật tỉnh táo khi xem video trên kênh này. Nếu bạn phát hiện ra bất kỳ dấu hiệu nào về việc ông này truyền bá tư tưởng lệch lạc xen kẽ vào trong video, thì hãy thông báo với mình để mình loại bỏ video ra khỏi danh sách nhé.
     - [Thuật Toán Kiểm Tra Số Nguyên Tố](https://www.youtube.com/watch?v=oIUueKdmRo8)
+    - [[C++] Cách kiểm tra số nguyên tố nhanh nhất](https://www.youtube.com/watch?v=1mZ7rgqH9RU)
 - Bài viết tiếng Anh:
     - Mục ***11.1.1. Primes and Factors*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Primality tests - cp-algorithms](https://cp-algorithms.com/algebra/primality_tests.html#fermat-primality-test)
@@ -204,6 +205,10 @@
     - [Primality (1 of 2: Fermat's Test) - Eddie Woo](https://www.youtube.com/watch?v=RcjxwCHRYfE)
     - [Fermat primality test - Khan Academy Labs](https://www.youtube.com/watch?v=oUMotDWVLpw)
     - [Fool-Proof Test for Primes - Numberphile](https://www.youtube.com/watch?v=HvMSRWTE2mI)
+    - [Testing for Primality (Miller-Rabin Test)](https://www.youtube.com/watch?v=8i0UnX7Snkc)
+    - [Miller-Rabin Primality Test)](https://www.youtube.com/watch?v=qdylJqXCDGs)
+    - [Carmichael Numbers](https://www.youtube.com/watch?v=ddvkJF1-pL0)
+    - [Liar Numbers - Numberphile](https://www.youtube.com/watch?v=jbiaz_aHHUQ)
 
 ### Sàng nguyên tố
 - Bài viết tiếng Việt:
