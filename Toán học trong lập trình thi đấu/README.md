@@ -438,15 +438,16 @@
 
 ### Công thức Cayley
 - Bài viết tiếng Việt:
-    - [Lập](https)
-- Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [5. Công thức Cayley (Cayley formula)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-(combinatorics)-QxkGEP2pJZb)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.2.5 Cayley’s Formula*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Cayley's formula - Wikipedia](https://en.wikipedia.org/wiki/Cayley%27s_formula)
+    - [Cayley’s Formula - GeeksforGeeks](https://www.geeksforgeeks.org/cayleys-formula/)
+    - [A Visual Telling of Joyal’s Proof Of Cayley’s Formula](https://golem.ph.utexas.edu/category/2019/12/a_visual_telling_of_joyals_pro.html)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Graph Theory: 40. Cayley's Formula and Prufer Seqences part 1/2](https://www.youtube.com/watch?v=Ve447EOW8ww)
+    - [Graph Theory: 41. Cayley's Formula and Prufer Seqences part 2/2](https://www.youtube.com/watch?v=utfW-xsDp3Y)
+    - [Cayley's Formula](https://www.youtube.com/watch?v=g-QyzzPM4rU)
 
 ### Biến đổi Fourier nhanh - FFT
 - Bài viết tiếng Việt:
