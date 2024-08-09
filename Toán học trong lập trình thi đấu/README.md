@@ -481,6 +481,7 @@
     - [Nhân hai ma trận-đại số tuyến tính-đơn giản dễ hiểu.](https://www.youtube.com/watch?v=trn_AgQ-DPU)
     - [Đại số tuyến tính - Phép nhân hai ma trận](https://www.youtube.com/watch?v=ySo2819l0HE)
 - Bài viết tiếng Anh:
+    - Mục ***11.3 Matrices*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [How to Multiply Matrices](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
     - [Matrix Multiplication - GeeksforGeeks](https://www.geeksforgeeks.org/matrix-multiplication/)
     - [Matrix multiplication - Wikipedia](https://en.wikipedia.org/wiki/Matrix_multiplication)
@@ -491,15 +492,9 @@
 
 ### Khử nhân ma trận
 - Bài viết tiếng Việt:
-    - [Lập](https)
-- Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Khử nhân ma trận - VNOI Wiki](https://wiki.vnoi.info/algo/trick/counting-without-matrix-multiplication)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
-- Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [An efficient way to solve some counting problems without matrix multiplication](https://codeforces.com/blog/entry/14385)
 
 ### Truy hồi tuyến tính
 - Bài viết tiếng Việt:
