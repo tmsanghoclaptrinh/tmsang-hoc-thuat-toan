@@ -521,15 +521,20 @@
 
 ### Phép khử Gauss
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Phép khử Gauss - Wikipedia](https://vi.wikipedia.org/wiki/Ph%C3%A9p_kh%E1%BB%AD_Gauss)
+    - [Giải hệ phương trình theo phương pháp Gauss - Cách hiệu quả và đơn giản](https://rdsic.edu.vn/blog/toan/buoc-dac-diem-giai-he-phuong-trinh-theo-phuong-phap-gauss-vi-cb.html)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Phép khử Gauss (Gauss Elimination)](https://www.youtube.com/watch?v=FL_oFFdkdkI)
+    - [Toán cao cấp - Giải hệ phương trình tuyến tính bằng phương pháp Gauss](https://www.youtube.com/watch?v=0XeU4Li5p9M)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.3.4 Gaussian Elimination*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Gaussian elimination - Wikipedia](https://en.wikipedia.org/wiki/Gaussian_elimination)
+    - [Gaussian Elimination - Wolfram MathWorld](https://mathworld.wolfram.com/GaussianElimination.html)
+    - [Gaussian Elimination to Solve Linear Equations - GeeksforGeeks](https://www.geeksforgeeks.org/gaussian-elimination/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Gaussian Elimination & Row Echelon Form](https://www.youtube.com/watch?v=eDb6iugi6Uk)
+    - [Gaussian Elimination.. How?](https://www.youtube.com/watch?v=1IHsX1lgpRI)
+    - [Gaussian Elimination](https://www.youtube.com/watch?v=2j5Ic2V7wq4)
 
 ## Xác suất
 
