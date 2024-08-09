@@ -506,15 +506,18 @@
 
 ### Ma trận kề
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Ma trận kề - Wikipedia](https://vi.wikipedia.org/wiki/Ma_tr%E1%BA%ADn_k%E1%BB%81)
+    - [Ma trận kề – Biểu diễn đồ thị, danh sách kề và bài tập](https://ttnguyen.net/ma-tran-ke/)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Biểu Diễn Đồ Thị Trên Máy Tính | Ma Trận Kề | Danh Sách Kề | Danh Sách Cạnh](https://www.youtube.com/watch?v=JtWcUHRyqkA)
+    - [Biểu diễn đồ thị với ma trận kề và danh sách kề](https://www.youtube.com/watch?v=XbG8unze83s)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.3.3 Graphs and Matrices*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Adjacency matrix - Wikipedia](https://en.wikipedia.org/wiki/Adjacency_matrix)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Graph Representation with an Adjacency Matrix](https://www.youtube.com/watch?v=7AhHGp7EzZ8)
+    - [Graph Representation part 02 - Adjacency Matrix](https://www.youtube.com/watch?v=9C2cpQZVRBA)
+    - [Adjacency Matrices | Example | Graph representation | Data Structures](https://www.youtube.com/watch?v=1h2BoCtobXw)
 
 ### Phép khử Gauss
 - Bài viết tiếng Việt:
