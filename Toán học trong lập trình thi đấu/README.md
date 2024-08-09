@@ -497,16 +497,12 @@
     - [An efficient way to solve some counting problems without matrix multiplication](https://codeforces.com/blog/entry/14385)
 
 ### Truy hồi tuyến tính
-- Bài viết tiếng Việt:
-    - [Lập](https)
-- Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.3.2 Linear Recurrences*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [[Tutorial] Solving Linear Recurrences with various methods, Including O(N logN logK) using FFT](https://codeforces.com/blog/entry/97627)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Solving Linear Recurrence Relations 1](https://www.youtube.com/watch?v=aHw7hAAjbD0)
+    - [Solving Linear Recurrence Relations 2](https://www.youtube.com/watch?v=moQvLm8JlIc)
 
 ### Ma trận kề
 - Bài viết tiếng Việt:
