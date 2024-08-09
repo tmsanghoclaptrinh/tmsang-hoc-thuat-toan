@@ -472,15 +472,22 @@
 
 ### Nhân ma trận
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Nhân ma trận (Matrix multiplication) - VNOI Wiki](https://wiki.vnoi.info/algo/trick/matrix-multiplication)
+    - [Phép nhân ma trận - Wikipedia](https://vi.wikipedia.org/wiki/Ph%C3%A9p_nh%C3%A2n_ma_tr%E1%BA%ADn)
+    - [Ứng dụng nhân ma trận trong các bàI toán tin học](https://storage-vnportal.vnpt.vn/lci-ubnd-responsive/sitefolders/thptchuyen-laocai/5251/chuyen-de/nhan-ma-tran.pdf)
+    - [Kiểm tra kết quả nhân ma trận](https://matrixcalc.org/vi/)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Đại số 1.1 Ma trận và các phép toán với ma trận](https://www.youtube.com/watch?v=08p_hP46YeA)
+    - [Nhân hai ma trận-đại số tuyến tính-đơn giản dễ hiểu.](https://www.youtube.com/watch?v=trn_AgQ-DPU)
+    - [Đại số tuyến tính - Phép nhân hai ma trận](https://www.youtube.com/watch?v=ySo2819l0HE)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - [How to Multiply Matrices](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
+    - [Matrix Multiplication - GeeksforGeeks](https://www.geeksforgeeks.org/matrix-multiplication/)
+    - [Matrix multiplication - Wikipedia](https://en.wikipedia.org/wiki/Matrix_multiplication)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Multiplying matrices - Khan Academy](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/v/multiplying-a-matrix-by-a-matrix)
+    - [Multiplying Matrices](https://www.youtube.com/watch?v=vzt9c7iWPxs)
+    - [How To Multiply Matrices - Quick & Easy!](https://www.youtube.com/watch?v=2spTnAiQg4M)
 
 ### Khử nhân ma trận
 - Bài viết tiếng Việt:
