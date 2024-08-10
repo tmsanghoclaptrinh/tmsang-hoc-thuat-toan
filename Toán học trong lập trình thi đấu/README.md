@@ -61,7 +61,10 @@
   - [Ma trận kề](#ma-trận-kề)
   - [Phép khử Gauss](#phép-khử-gauss)
 - [Xác suất](#xác-suất)
-  - [Cấp](#)
+  - [Biến cố](#biến-cố)
+  - [Biến ngẫu nhiên](#biến-ngẫu-nhiên)
+  - [Chuỗi Markov](#chuỗi-markov)
+  - [Thuật toán ngẫu nhiên](#thuật-toán-ngẫu-nhiên)
 - [Lý thuyết trò chơi](#lý-thuyết-trò-chơi)
   - [Game State](#game-state)
   - [Trò chơi Nim](#trò-chơi-nim)
@@ -538,7 +541,52 @@
 
 ## Xác suất
 
-### Cấp
+### Biến cố
+- Bài viết tiếng Việt:
+    - [Xác suất - VNOI Wiki](https://wiki.vnoi.info/translate/topcoder/Hieu-ve-xac-suat)
+    - [Biến cố (lý thuyết xác suất) - Wikipedia](https://vi.wikipedia.org/wiki/Bi%E1%BA%BFn_c%E1%BB%91_(l%C3%BD_thuy%E1%BA%BFt_x%C3%A1c_su%E1%BA%A5t))
+- Video tiếng Việt:
+    - [Algorithm - Bài 7 - Lý thuyết tập hợp (Set theory)](https://www.youtube.com/watch?v=4Nfj_dwrTn0&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=7)
+    - [Xác Suất Của Biến Cố (Toán 11 và Toán 10 Sgk Mới) - Full Dạng](https://www.youtube.com/watch?v=7n7sbf7G27c)
+    - [Biến cố hợp, biến cố giao, biến cố độc lập - Xác suất - Toán lớp 11](https://www.youtube.com/watch?v=QaKZsE5A8dE)
+    - [Làm quen với biến cố và biến cố ngẫu nhiên | Toán lớp 7 chương trình mới](https://www.youtube.com/watch?v=6iqSlsoP6fc)
+- Bài viết tiếng Anh:
+    - Mục ***11.4.1 Working with Events*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Understanding probabilities - TopCoder](https://www.topcoder.com/thrive/articles/Understanding%20Probabilities)
+    - [Working with Events](https://math.libretexts.org/Courses/Prince_Georges_Community_College/MAT_1130_Mathematical_Ideas_Mirtova_Jones_(PGCC%3A_Fall_2022)/03%3A_Probability/3.04%3A_Working_with_Events)
+    - [Events in Probability - GeeksforGeeks](https://www.geeksforgeeks.org/events-in-probability/)
+- Video tiếng Anh:
+    - [Introduction to Probability, Basic Overview](https://www.youtube.com/watch?v=SkidyDQuupA)
+    - [Probability of Complementary Events & Sample Space](https://www.youtube.com/watch?v=0T-CaQCiSf4)
+    - [Probability of Independent and Dependent Events](https://www.youtube.com/watch?v=LS-_ihDKr2M)
+    - [The Probability of the Union of Events](https://www.youtube.com/watch?v=vqKAbhCqSTc)
+    - [Mutually Exclusive and Exhaustive Events](https://www.youtube.com/watch?v=f7agTv9nA5k)
+
+### Biến ngẫu nhiên
+- Bài viết tiếng Việt:
+    - [Lập](https)
+- Video tiếng Việt:
+    - [Giới](https)
+    - [VNOI](https)
+- Bài viết tiếng Anh:
+    - [Competitive](https)
+- Video tiếng Anh:
+    - [Starting](https)
+    - [Intro](https)
+
+### Chuỗi Markov
+- Bài viết tiếng Việt:
+    - [Lập](https)
+- Video tiếng Việt:
+    - [Giới](https)
+    - [VNOI](https)
+- Bài viết tiếng Anh:
+    - [Competitive](https)
+- Video tiếng Anh:
+    - [Starting](https)
+    - [Intro](https)
+
+### Thuật toán ngẫu nhiên
 - Bài viết tiếng Việt:
     - [Lập](https)
 - Video tiếng Việt:
