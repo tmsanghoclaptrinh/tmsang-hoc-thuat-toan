@@ -583,16 +583,14 @@
     - [Random Variables - Eddie Woo](https://www.youtube.com/playlist?list=PL5KkMZvBpo5C9nhzyacvNtcWHLh3mvXJE)
 
 ### Chuỗi Markov
-- Bài viết tiếng Việt:
-    - [Lập](https)
-- Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.4.3 Markov Chains*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Markov chain - Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
+    - [Markov Chain Explained](https://builtin.com/machine-learning/markov-chain)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Markov Chains Clearly Explained!](https://www.youtube.com/playlist?list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV)
+    - [Introducing Markov Chains](https://www.youtube.com/watch?v=JHwyHIz6a8A)
+    - [Origin of Markov chains - Khan Academy](https://www.youtube.com/watch?v=Ws63I3F7Moc)
 
 ### Thuật toán ngẫu nhiên
 - Bài viết tiếng Việt:
