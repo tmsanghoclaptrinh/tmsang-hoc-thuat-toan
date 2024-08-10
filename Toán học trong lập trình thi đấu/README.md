@@ -546,7 +546,6 @@
     - [Xác suất - VNOI Wiki](https://wiki.vnoi.info/translate/topcoder/Hieu-ve-xac-suat)
     - [Biến cố (lý thuyết xác suất) - Wikipedia](https://vi.wikipedia.org/wiki/Bi%E1%BA%BFn_c%E1%BB%91_(l%C3%BD_thuy%E1%BA%BFt_x%C3%A1c_su%E1%BA%A5t))
 - Video tiếng Việt:
-    - [Algorithm - Bài 7 - Lý thuyết tập hợp (Set theory)](https://www.youtube.com/watch?v=4Nfj_dwrTn0&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=7)
     - [Xác Suất Của Biến Cố (Toán 11 và Toán 10 Sgk Mới) - Full Dạng](https://www.youtube.com/watch?v=7n7sbf7G27c)
     - [Biến cố hợp, biến cố giao, biến cố độc lập - Xác suất - Toán lớp 11](https://www.youtube.com/watch?v=QaKZsE5A8dE)
     - [Làm quen với biến cố và biến cố ngẫu nhiên | Toán lớp 7 chương trình mới](https://www.youtube.com/watch?v=6iqSlsoP6fc)
@@ -564,15 +563,24 @@
 
 ### Biến ngẫu nhiên
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Biến ngẫu nhiên - Wikipedia](https://vi.wikipedia.org/wiki/Bi%E1%BA%BFn_ng%E1%BA%ABu_nhi%C3%AAn)
+    - [Biến ngẫu nhiên](https://staff.agu.edu.vn/dhan/files/2014/07/Chuong-2.pdf)
+    - [Biến Ngẫu nhiên - Toán học cho Học sâu](https://d2l.aivivn.com/chapter_appendix-mathematics-for-deep-learning/random-variables_vn.html)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Biến ngẫu nhiên, hàm phân phối xác suất, biến ngẫu nhiên rời rạc](https://www.youtube.com/watch?v=jK0QVGqmJ9k)
+    - [XSTK0201 - Đại Lượng Ngẫu Nhiên](https://www.youtube.com/watch?v=vZn76z87myE&list=PLGCznU8pVwauIcqqCfsNBUQhFb75p1LYJ&index=8)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.4.2 Random Variables*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Random variable - Wikipedia](https://en.wikipedia.org/wiki/Random_variable)
+    - [Random Variables - ĐH Yale](http://www.stat.yale.edu/Courses/1997-98/101/ranvar.htm)
+    - [Random Variable - GeeksforGeeks](https://www.geeksforgeeks.org/random-variable/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Random variables | Probability and Statistics - Khan Academy](https://www.youtube.com/watch?v=3v9w79NhsfI)
+    - [Random Variables and Probability Distributions](https://www.youtube.com/watch?v=lHCpYeFvTs0)
+    - [Discrete Random Variables: Distributions 2](https://www.youtube.com/watch?v=V_f_WY-9xto)
+    - [Understanding Discrete Random Variables and Probability Distributions - ĐH Harvard](https://www.youtube.com/watch?v=ZoIPuTIPviY)
+    - [Understanding Continuous Random Variables and Probability Distributions - ĐH Harvard](https://www.youtube.com/watch?v=UVQs9zikfe0)
+    - [Random Variables - Eddie Woo](https://www.youtube.com/playlist?list=PL5KkMZvBpo5C9nhzyacvNtcWHLh3mvXJE)
 
 ### Chuỗi Markov
 - Bài viết tiếng Việt:
