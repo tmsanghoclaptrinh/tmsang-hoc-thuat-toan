@@ -583,6 +583,8 @@
     - [Random Variables - Eddie Woo](https://www.youtube.com/playlist?list=PL5KkMZvBpo5C9nhzyacvNtcWHLh3mvXJE)
 
 ### Chuỗi Markov
+- Bài viết tiếng Việt:
+    - [Markov Chain và bài toán 'Sáng nay ăn gì'](https://tuanio.github.io/posts/markov-chain-va-bai-toan-sang-nay-an-gi/)
 - Bài viết tiếng Anh:
     - Mục ***11.4.3 Markov Chains*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Markov chain - Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
@@ -594,15 +596,24 @@
 
 ### Thuật toán ngẫu nhiên
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Phương pháp Monte Carlo - Wikipedia](https://vi.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_ph%C3%A1p_Monte_Carlo)
+    - [Thuật toán ngẫu nhiên - VNOI Wiki](https://wiki.vnoi.info/translate/topcoder/Hieu-ve-xac-suat#thu%E1%BA%ADt-to%C3%A1n-ng%E1%BA%ABu-nhi%C3%AAn)
+    - [Các thuật toán ngẫu nhiên (Randomized algorithms)](https://vallicon.com/post/x%C3%A1c-su%E1%BA%A5t-(probability)-Gb7qzWwzWk8)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Cách tính diện tích hình bất kì. Sử dụng phương pháp Monte Carlo](https://www.youtube.com/watch?v=ddBpdmo7zyk)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.4.4 Randomized Algorithms*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Monte Carlo algorithm - Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_algorithm)
+    - [Monte Carlo Randomized Algorithms](https://www.cs.cmu.edu/~harchol/Probability/chapters/chpt22.pdf)
+    - [Randomized Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/randomized-algorithms-set-2-classification-and-applications/)
+    - [Las Vegas algorithm - Wikipedia](https://en.wikipedia.org/wiki/Las_Vegas_algorithm)
+    - [When to Choose Randomized Algorithms: Understanding Las Vegas and Monte Carlo Algorithms](https://medium.com/@sachin.shreya21/when-to-choose-randomized-algorithms-understanding-las-vegas-and-monte-carlo-algorithms-9324d5e9f996)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Monte Carlo Simulation](https://www.youtube.com/watch?v=7ESK5SaP-bc)
+    - [Monte Carlo Simulation - MIT OpenCourseWare](https://www.youtube.com/watch?v=OgO1gpXSUzU)
+    - [What is Monte Carlo Simulation? - IBM Technology](https://www.youtube.com/watch?v=7TqhmX92P6U)
+    - [A Simple Solution for Really Hard Problems: Monte Carlo Simulation](https://www.youtube.com/watch?v=slbZ-SLpIgg)
+    - [Randomized algorithm Las Vegas and Monte Carlo Algorithm](https://www.youtube.com/watch?v=Nn_Eq7--Rk4)
 
 ## Lý thuyết trò chơi
 
