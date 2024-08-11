@@ -619,37 +619,51 @@
 
 ### Game State
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Lý thuyết trò chơi - VNOI Wiki](https://wiki.vnoi.info/algo/math/game-theory.md)
+    - [Lý thuyết trò chơi - Wikipedia](https://vi.wikipedia.org/wiki/L%C3%BD_thuy%E1%BA%BFt_tr%C3%B2_ch%C6%A1i)
+    - [Lý thuyết trò chơi (Game theory)](https://vallicon.com/post/l%C3%BD-thuy%E1%BA%BFt-tr%C3%B2-ch%C6%A1i-(game-theory)-J3BAz6WpkZM)
+    - [Lý thuyết trò chơi - có phải để chơi?](https://bigocoder.com/articles/Ly-thuyet-tro-choi-co-phai-dje-choi)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Thuật toán Lý thuyết trò chơi phổ biến trong Lập trình thi đấu - anh Phạm Văn Hạnh VNOI](https://www.youtube.com/watch?v=sFaL_AVU-gw)
+    - [Game Theory và Ứng Dụng trong Xã Hội](https://www.youtube.com/watch?v=HxAafpzmQXw)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.5.1 Game States*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Game theory - Wikipedia](https://en.wikipedia.org/wiki/Game_theory)
+    - [Game Theory - GeeksforGeeks](https://www.geeksforgeeks.org/game-theory/)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Game Theory Explained in One Minute](https://www.youtube.com/watch?v=YueJukoFBMU)
+    - [How Decision Making is Actually Science: Game Theory Explained](https://www.youtube.com/watch?v=MHS-htjGgSY)
+    - [What game theory teaches us about war | Simon Sinek](https://www.youtube.com/watch?v=0bFs6ZiynSU)
+    - [3 game theory tactics, explained](https://www.youtube.com/watch?v=PsLaI4jDftA)
 
 ### Trò chơi Nim
 - Bài viết tiếng Việt:
-    - [Lập](https)
+    - [Lý thuyết trò chơi - VNOI Wiki](https://wiki.vnoi.info/algo/math/game-theory.md)
+    - [Lý thuyết trò chơi (Game theory)](https://vallicon.com/post/l%C3%BD-thuy%E1%BA%BFt-tr%C3%B2-ch%C6%A1i-(game-theory)-J3BAz6WpkZM)
 - Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Trò chơi NIM - Giải thuật minimax](https://www.youtube.com/watch?v=2RSBvP1rGyg)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.5.2 Nim Game*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Combinatorial Game Theory | Set 2 (Game of Nim) - GeeksforGeeks](https://www.geeksforgeeks.org/combinatorial-game-theory-set-2-game-nim/)
+    - [Nim - Wikipedia](https://en.wikipedia.org/wiki/Nim)
+    - [Game Theory - USACO Guide](https://usaco.guide/adv/game-theory?lang=cpp)
+    - [Sprague-Grundy theorem. Nim - cp-algorithms](https://cp-algorithms.com/game_theory/sprague-grundy-nim.html)
+    - [Nim](https://brilliant.org/wiki/nim/#:~:text=Nim%20is%20a%20combinatorial%20game,come%20from%20the%20same%20heap.)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [The Game of Nim - a math game of strategy using matchsticks!](https://www.youtube.com/watch?v=SUh8C387BVU)
+    - [Winner in Nim Game || Game theory || Competitive Programming](https://www.youtube.com/watch?v=wzQgidFSzdw) - Lưu ý: Video này của anh Ấn Độ nói tiếng Hindi, có thể sử dụng chức năng dịch tự động của Youtube để hiểu anh ý nói gì
 
 ### Định lý Sprague–Grundy
 - Bài viết tiếng Việt:
-    - [Lập](https)
-- Video tiếng Việt:
-    - [Giới](https)
-    - [VNOI](https)
+    - [Lý thuyết trò chơi - VNOI Wiki](https://wiki.vnoi.info/algo/math/game-theory.md)
+    - [Algorithm: Định lý Sprague – Grundy](https://manhhomienbienthuy.github.io/2017/05/02/algorithm-dinh-ly-sprague-grundy.html)
 - Bài viết tiếng Anh:
-    - [Competitive](https)
+    - Mục ***11.5.3 Sprague–Grundy Theorem*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Sprague-Grundy theorem. Nim - cp-algorithms](https://cp-algorithms.com/game_theory/sprague-grundy-nim.html)
+    - [Sprague–Grundy theorem - Wikipedia](https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem)
+    - [Combinatorial Game Theory | Set 4 (Sprague – Grundy Theorem) - GeeksforGeeks](https://www.geeksforgeeks.org/combinatorial-game-theory-set-4-sprague-grundy-theorem/)
+    - [A blog on the Sprague-Grundy Theorem](https://codeforces.com/blog/entry/63054)
 - Video tiếng Anh:
-    - [Starting](https)
-    - [Intro](https)
+    - [Sprague-Grundy-Theorem](https://www.youtube.com/watch?v=GRlGknQEOW8)
+    - [Sprague Grundy Theorem - Combinatorial Game Theory - II](https://www.youtube.com/watch?v=AbJqhMm8htw)
 
