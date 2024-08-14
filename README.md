@@ -72,8 +72,6 @@
 
 ## [Toán học trong lập trình thi đấu](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md)
 
-Đang cập nhật...
-
 - [Kiến thức nền tảng](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#kiến-thức-nền-tảng)
   - [Hệ cơ số](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#hệ-cơ-số)
   - [Cấp số cộng](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#cấp-số-cộng)
@@ -117,10 +115,15 @@
   - [Trò chơi Nim](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#trò-chơi-nim)
   - [Định lý Sprague–Grundy](/Toán%20học%20trong%20lập%20trình%20thi%20đấu/README.md#định-lý-spraguegrundy)
 
+## [Kỹ thuật lập trình](/Kỹ%20thuật%20lập%20trình/README.md)
 
-## Kỹ thuật lập trình
+Đang cập nhật...
 
-- Đang cập nhật
+- [Ngôn ngữ lập trình C++](/Kỹ%20thuật%20lập%20trình/README.md#ngôn-ngữ-lập-trình-c)
+- [Cách tiếp cận bài toán](/Kỹ%20thuật%20lập%20trình/README.md#cách-tiếp-cận-bài-toán)
+- [Độ phức tạp](/Kỹ%20thuật%20lập%20trình/README.md#độ-phức-tạp)
+- [Đệ quy](/Kỹ%20thuật%20lập%20trình/README.md#đệ-quy)
+- [Thao tác với bit](/Kỹ%20thuật%20lập%20trình/README.md#thao-tác-với-bit)
 
 ## Các thuật toán sắp xếp
 
