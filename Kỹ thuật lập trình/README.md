@@ -41,6 +41,9 @@
     - [Algorithm - Bài 3 - Đặc biệt lưu ý khi làm việc với int, long long, modulo, floating point numbers](https://www.youtube.com/watch?v=8rwyW3VtIAk&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=4)
     - [Algorithm - Bài 4 - Những kiểu code rút gọn mà dân chơi lập trình thi đấu hay sử dụng](https://www.youtube.com/watch?v=8rwyW3VtIAk&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=5)
     - [Lập trình C++ từ cơ bản tới nâng cao](https://www.youtube.com/playlist?list=PL_-VfJajZj0Uo72G_6tSY4NRLpmffeXSA)
+    - [#define int long long - nên hay không? | #ifdef ONLINE_JUDGE là gì mà ai cũng copy?](https://www.youtube.com/watch?v=_OIXGXGt6GI)
+    - [C++ #define: Cách sử dụng an toàn và hiệu quả](https://www.youtube.com/watch?v=JiGL4XP9V_Q)
+    - []()
     - [Ngôn Ngữ Lập trình C++](https://www.youtube.com/playlist?list=PLux-_phi0Rz0Hq9fDP4TlOulBl8APKp79)
     - [Lập trình C++ cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM)
 - Bài viết tiếng Anh:
@@ -57,7 +60,25 @@
 
 ## Cách tiếp cận bài toán
 
-Đang cập nhật...
+- Bài viết tiếng Việt:
+  - [Những cách tiếp cận bài toán: Phần 1 - VNOI Wiki](https://wiki.vnoi.info/translate/topcoder/Planning-an-Approach-to-a-Topcoder-Problem-Part-1)
+  - [Những cách tiếp cận bài toán: Phần 2](https://wiki.vnoi.info/translate/topcoder/Planning-an-Approach-to-a-Topcoder-Problem-Part-2)
+  - [Nghệ thuật giải bài](https://wiki.vnoi.info/translate/topcoder/How-to-Find-a-Solution)
+- Video tiếng Việt:
+  - [VNOI Talkshow #1: Làm thế nào để học tốt Lập trình thi đấu](https://www.youtube.com/watch?v=EPKHm5jrU4o)
+  - [[Algo/Interview] VNOI Giao lưu chém gió - RR & Lăng Trung Hiếu](https://www.youtube.com/watch?v=tkBB-JP47b8)
+  - [Code nhiều subtask khi thi VOI - Phạm Văn Hạnh](https://www.youtube.com/watch?v=3clQUr9Skw0)
+  - [Để học giỏi Tin, cần học giỏi Toán! - Phạm Văn Hạnh](https://www.youtube.com/watch?v=hCwAA3xwv1Q)
+  - [Để học giỏi Tin, cần học giỏi Vật Lý! - Phạm Văn Hạnh](https://www.youtube.com/watch?v=iXT67J2hexU)
+- Bài viết tiếng Anh:
+  - [Planning an Approach to a Topcoder Problem Part 1 - TopCoder](https://www.topcoder.com/thrive/articles/Planning%20an%20Approach%20to%20a%20Topcoder%20Problem%20Part%201)
+  - [Planning an Approach to a Topcoder Problem Part 2 - TopCoder](https://www.topcoder.com/thrive/articles/Planning%20an%20Approach%20to%20a%20Topcoder%20Problem%20Part%202)
+  - [How To Find a Solution - TopCoder](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution)
+- Video tiếng Anh:
+  - [Starting Competitive Programming - Steps and Mistakes - William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc)
+  - [Training for GOLD for US at International Olympiad in Informatics - William Lin](https://www.youtube.com/watch?v=V_Cc4Yk2xe4)
+  - [How he became an IOI medalist](https://www.youtube.com/watch?v=2UUUA36mqsQ)
+  - [How To Become Red Coder? (codeforces.com)](https://www.youtube.com/watch?v=y7169jEvb-Y)
 
 ## Độ phức tạp
 
