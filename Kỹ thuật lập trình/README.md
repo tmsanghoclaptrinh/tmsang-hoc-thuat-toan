@@ -43,7 +43,6 @@
     - [Lập trình C++ từ cơ bản tới nâng cao](https://www.youtube.com/playlist?list=PL_-VfJajZj0Uo72G_6tSY4NRLpmffeXSA)
     - [#define int long long - nên hay không? | #ifdef ONLINE_JUDGE là gì mà ai cũng copy?](https://www.youtube.com/watch?v=_OIXGXGt6GI)
     - [C++ #define: Cách sử dụng an toàn và hiệu quả](https://www.youtube.com/watch?v=JiGL4XP9V_Q)
-    - []()
     - [Ngôn Ngữ Lập trình C++](https://www.youtube.com/playlist?list=PLux-_phi0Rz0Hq9fDP4TlOulBl8APKp79)
     - [Lập trình C++ cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM)
 - Bài viết tiếng Anh:
@@ -82,7 +81,31 @@
 
 ## Độ phức tạp
 
-Đang cập nhật...
+- Bài viết tiếng Việt:
+  - [Độ phức tạp thời gian - VNOI Wiki](https://wiki.vnoi.info/algo/basic/computational-complexity.md)
+  - [Độ phức tạp thời gian BigO là gì?](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/do-phuc-tap-thoi-gian-bigo-la-gi-4270)
+  - [Thuật toán và Phân tích thuật toán](https://viblo.asia/p/bai-11-thuat-toan-va-phan-tich-thuat-toan-bJzKmoxrl9N)
+- Video tiếng Việt:
+  - [Phân Tích Độ Phức Tạp Của Thuật Toán | Độ Phức Tạp Tính Toán Của Thuật Toán](https://www.youtube.com/watch?v=0W060mNbi40)
+  - [Cấu trúc dữ liệu và thuật toán #3: BigO Notation và ví dụ](https://www.youtube.com/watch?v=gIF1WzVvoqk)
+  - [Tính độ phức tạp thời gian theo code](https://www.youtube.com/watch?v=oIAATnt4z3o)
+  - [Giải đáp thắc mắc cách tính độ phức tạp (BigO) của thuật toán trong ví dụ](https://www.youtube.com/watch?v=rytSoWVcWQQ)
+  - [Học Big O - Độ phức tạp thuật toán cùng Anh Lê Chương- Senior Software Engineer Google](https://www.youtube.com/watch?v=U8I1XUgSM3Y)
+- Bài viết tiếng Anh:
+    - Mục ***3. Efficiency*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+  - [Time Complexity - USACO Guide](https://usaco.guide/bronze/time-comp?lang=cpp)
+  - [Big O Cheat Sheet – Time Complexity Chart](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
+  - [Understanding Time Complexity with Simple Examples - GeeksforGeeks](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
+  - [DSA Time Complexity](https://www.w3schools.com/dsa/dsa_timecomplexity_theory.php)
+  - [Time and Space complexity in Data Structure - Ultimate Guide](https://www.simplilearn.com/tutorials/data-structure-tutorial/time-and-space-complexity)
+  - [Understanding Space Complexity](https://www.baeldung.com/cs/space-complexity)
+  - [Space Complexity in Data Structure](https://www.scaler.com/topics/data-structures/space-complexity-in-data-structure/)
+- Video tiếng Anh:
+  - [Time Complexity - Abdul Bari](https://www.youtube.com/watch?v=9TlHvipP5yA)
+  - [Big-O notation in 5 minutes](https://www.youtube.com/watch?v=__vX2sjlpXU)
+  - [What Big-O notation ACTUALLY tells you, and how I almost failed my Google Interview](https://www.youtube.com/watch?v=gCzOhZ_LUps)
+  - [Space Complexity of Algorithms - How to Calculate Space Complexity of Algorithms in Data Structures](https://www.youtube.com/watch?v=yOb0BL-84h8)
+  - [How to calculate time and space complexity from an algorithm...Frequency count method explain](https://www.youtube.com/watch?v=To1LR-Bz-Iw)
 
 ## Đệ quy
 

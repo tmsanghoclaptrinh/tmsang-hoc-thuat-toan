@@ -378,7 +378,7 @@
 
 ### Hệ số nhị thức
 - Bài viết tiếng Việt:
-    - [1. Hệ số nhị thức (Binomial coefficients)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-(combinatorics)-QxkGEP2pJZb)
+    - [1. Hệ số nhị thức (Binomial coefficients)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-%28combinatorics%29-QxkGEP2pJZb)
 - Bài viết tiếng Anh:
     - Mục ***11.2.1 Binomial Coefficients*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Binomial coefficient - Wikipedia](https://en.wikipedia.org/wiki/Binomial_coefficient)
@@ -427,7 +427,7 @@
 ### Bổ đề Burnside
 - Bài viết tiếng Việt:
     - [Bổ đề Burnside](https://vi.wikipedia.org/wiki/B%E1%BB%95_%C4%91%E1%BB%81_Burnside)
-    - [4. Bổ đề Burnside (Burnside lemma)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-(combinatorics)-QxkGEP2pJZb)
+    - [4. Bổ đề Burnside (Burnside lemma)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-%28combinatorics%29-QxkGEP2pJZb)
 - Bài viết tiếng Anh:
     - Mục ***11.2.4 Burnside’s Lemma*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Burnside's lemma - Wikipedia](https://en.wikipedia.org/wiki/Burnside%27s_lemma)
@@ -441,7 +441,7 @@
 
 ### Công thức Cayley
 - Bài viết tiếng Việt:
-    - [5. Công thức Cayley (Cayley formula)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-(combinatorics)-QxkGEP2pJZb)
+    - [5. Công thức Cayley (Cayley formula)](https://vallicon.com/post/t%E1%BB%95-h%E1%BB%A3p-%28combinatorics%29-QxkGEP2pJZb)
 - Bài viết tiếng Anh:
     - Mục ***11.2.5 Cayley’s Formula*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
     - [Cayley's formula - Wikipedia](https://en.wikipedia.org/wiki/Cayley%27s_formula)
@@ -598,7 +598,7 @@
 - Bài viết tiếng Việt:
     - [Phương pháp Monte Carlo - Wikipedia](https://vi.wikipedia.org/wiki/Ph%C6%B0%C6%A1ng_ph%C3%A1p_Monte_Carlo)
     - [Thuật toán ngẫu nhiên - VNOI Wiki](https://wiki.vnoi.info/translate/topcoder/Hieu-ve-xac-suat#thu%E1%BA%ADt-to%C3%A1n-ng%E1%BA%ABu-nhi%C3%AAn)
-    - [Các thuật toán ngẫu nhiên (Randomized algorithms)](https://vallicon.com/post/x%C3%A1c-su%E1%BA%A5t-(probability)-Gb7qzWwzWk8)
+    - [Các thuật toán ngẫu nhiên (Randomized algorithms)](https://vallicon.com/post/x%C3%A1c-su%E1%BA%A5t-%28probability%29-Gb7qzWwzWk8)
 - Video tiếng Việt:
     - [Cách tính diện tích hình bất kì. Sử dụng phương pháp Monte Carlo](https://www.youtube.com/watch?v=ddBpdmo7zyk)
 - Bài viết tiếng Anh:
@@ -621,7 +621,7 @@
 - Bài viết tiếng Việt:
     - [Lý thuyết trò chơi - VNOI Wiki](https://wiki.vnoi.info/algo/math/game-theory.md)
     - [Lý thuyết trò chơi - Wikipedia](https://vi.wikipedia.org/wiki/L%C3%BD_thuy%E1%BA%BFt_tr%C3%B2_ch%C6%A1i)
-    - [Lý thuyết trò chơi (Game theory)](https://vallicon.com/post/l%C3%BD-thuy%E1%BA%BFt-tr%C3%B2-ch%C6%A1i-(game-theory)-J3BAz6WpkZM)
+    - [Lý thuyết trò chơi (Game theory)](https://vallicon.com/post/l%C3%BD-thuy%E1%BA%BFt-tr%C3%B2-ch%C6%A1i-%28game-theory%29-J3BAz6WpkZM)
     - [Lý thuyết trò chơi - có phải để chơi?](https://bigocoder.com/articles/Ly-thuyet-tro-choi-co-phai-dje-choi)
 - Video tiếng Việt:
     - [Thuật toán Lý thuyết trò chơi phổ biến trong Lập trình thi đấu - anh Phạm Văn Hạnh VNOI](https://www.youtube.com/watch?v=sFaL_AVU-gw)
@@ -639,7 +639,7 @@
 ### Trò chơi Nim
 - Bài viết tiếng Việt:
     - [Lý thuyết trò chơi - VNOI Wiki](https://wiki.vnoi.info/algo/math/game-theory.md)
-    - [Lý thuyết trò chơi (Game theory)](https://vallicon.com/post/l%C3%BD-thuy%E1%BA%BFt-tr%C3%B2-ch%C6%A1i-(game-theory)-J3BAz6WpkZM)
+    - [Lý thuyết trò chơi (Game theory)](https://vallicon.com/post/lý-thuyết-trò-chơi-%28game-theory%29-J3BAz6WpkZM)
 - Video tiếng Việt:
     - [Trò chơi NIM - Giải thuật minimax](https://www.youtube.com/watch?v=2RSBvP1rGyg)
 - Bài viết tiếng Anh:
