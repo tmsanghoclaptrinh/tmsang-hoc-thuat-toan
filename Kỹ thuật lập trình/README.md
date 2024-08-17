@@ -92,7 +92,7 @@
   - [Giải đáp thắc mắc cách tính độ phức tạp (BigO) của thuật toán trong ví dụ](https://www.youtube.com/watch?v=rytSoWVcWQQ)
   - [Học Big O - Độ phức tạp thuật toán cùng Anh Lê Chương- Senior Software Engineer Google](https://www.youtube.com/watch?v=U8I1XUgSM3Y)
 - Bài viết tiếng Anh:
-    - Mục ***3. Efficiency*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+  - Mục ***3. Efficiency*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
   - [Time Complexity - USACO Guide](https://usaco.guide/bronze/time-comp?lang=cpp)
   - [Big O Cheat Sheet – Time Complexity Chart](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
   - [Understanding Time Complexity with Simple Examples - GeeksforGeeks](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
@@ -109,7 +109,28 @@
 
 ## Đệ quy
 
-Đang cập nhật...
+- Bài viết tiếng Việt:
+  - [Đệ quy và Thuật toán quay lui - VNOI Wiki](https://wiki.vnoi.info/algo/basic/backtracking.md)
+  - [Đệ quy và giải thuật đệ quy](https://viblo.asia/p/de-quy-va-giai-thuat-de-quy-gGJ5969JKX2)
+  - [Đệ quy (tin học)](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%87_quy_%28tin_h%E1%BB%8Dc%29)
+  - [Hàm Đệ Quy](https://blog.28tech.com.vn/c-ham-de-quy)
+- Video tiếng Việt:
+  - [Giải Thích Cách Hàm Đệ Quy Hoạt Động | Kỹ Thuật Đệ Quy Trong C++](https://www.youtube.com/watch?v=eQ3VpTtc9lE)
+  - [Cấu trúc dữ liệu và thuật toán #9: Recursion | Đệ quy | DS&A](https://www.youtube.com/watch?v=S9QvQ56t9xo)
+  - [Đệ quy là gì? | Hàm đệ quy trong C++]()
+  - [Cấu trúc dữ liệu & Giải thuật [06]: Đệ quy](https://www.youtube.com/watch?v=tHo18sWKqDs)
+- Bài viết tiếng Anh:
+  - Mục ***2.2 Recursive Algorithms*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+  - [Complete Search with Recursion - USACO Guide](https://usaco.guide/bronze/complete-rec)
+  - [Recursion (computer science)](https://en.wikipedia.org/wiki/Recursion_%28computer_science%29)
+  - [Recursion Algorithms](https://www.geeksforgeeks.org/recursion-algorithms/)
+- Video tiếng Anh:
+  - [Recursion in Programming - Full Course](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+  - [Recursion in C](https://www.youtube.com/watch?v=kepBmgvWNDw)
+  - [Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o)
+  - [Introduction to Recursion (Data Structures & Algorithms #6)](https://www.youtube.com/watch?v=B0NtAFf4bvU)
+  - [Towers of Hanoi: A Complete Recursive Visualization](https://www.youtube.com/watch?v=rf6uf3jNjbo)
+  - [why is recursion bad?](https://www.youtube.com/watch?v=mMEmNX6aW_k)
 
 ## Thao tác với bit
 
