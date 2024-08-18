@@ -25,6 +25,12 @@
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/AgwnOQbJVvU)](https://www.youtube.com/watch?v=AgwnOQbJVvU&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=1)
 
+## Cài đặt extension [Random Algorithm Topics](https://chromewebstore.google.com/detail/random-algorithm-topics/cfbnefdpfhohjhehglbjkchobnaknbkm) trên Google Chrome để học ngẫu nhiên một chủ đề trong danh sách mỗi khi mở 1 tab mới trên trình duyệt
+
+<img src="../media/chrome_logo.png" height=16/> [Install on Google Chrome](https://chromewebstore.google.com/detail/random-algorithm-topics/cfbnefdpfhohjhehglbjkchobnaknbkm)
+
+<img src="../media/screenshot.jpeg" alt="Extension Random Algorithm Topics screenshot">
+
 ## Nội dung chính của phần "Kỹ thuật lập trình"
 
 - [Ngôn ngữ lập trình C++](#ngôn-ngữ-lập-trình-c)
