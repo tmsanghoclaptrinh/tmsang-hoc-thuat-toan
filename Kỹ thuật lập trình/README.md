@@ -140,4 +140,26 @@
 
 ## Thao tác với bit
 
-Đang cập nhật...
+- Bài viết tiếng Việt:
+  - [Phép toán bit - VNOI Wiki](https://wiki.vnoi.info/algo/basic/bitwise-operators.md)
+  - [Thao tác xử lý bit và ứng dụng (Bit Manipulation)](https://viblo.asia/p/thao-tac-xu-ly-bit-va-ung-dung-bit-manipulation-3kY4gxl9JAe)
+  - [Phép toán thao tác bit](https://vi.wikipedia.org/wiki/Ph%C3%A9p_to%C3%A1n_thao_t%C3%A1c_bit)
+- Video tiếng Việt:
+  - [Bitwise Operators, Bitset, Bitmask (Các toán tử bit)](https://www.youtube.com/watch?v=t3B2lyhMIp8)
+  - [Kỹ thuật xử lý bit - Các thao tác trên bit](https://www.youtube.com/watch?v=OuTSe21TyPM)
+  - [LeetCode [Tập 66]: 401. Binary Watch | Các thao tác với bit](https://www.youtube.com/watch?v=yITg6Uk-o8Y)
+  - [Toán Tử Bit Trong C++ | Bitwise Operators](https://www.youtube.com/watch?v=sfa7X7TnBzk)
+- Bài viết tiếng Anh:
+  - Mục ***2.3 Bit Manipulation*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+  - [Bit manipulation - cp-algorithms](https://cp-algorithms.com/algebra/bit-manipulation.html)
+  - [Basics of Bit Manipulation - HackerEarth](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/)
+  - [Intro to Bitwise Operators - USACO Guide](https://usaco.guide/silver/intro-bitwise?lang=cpp)
+  - [Bitmask DP](https://usaco.guide/gold/dp-bitmasks?lang=cpp)
+  - [Bits manipulation (Important tactics) - GeeksforGeeks](https://www.geeksforgeeks.org/bits-manipulation-important-tactics/)
+- Video tiếng Anh:
+  - [Algorithms: Bit Manipulation - HackerRank](https://www.youtube.com/watch?v=NLKQEOgBAnw)
+  - [Bitwise Operators and WHY we use them](https://www.youtube.com/watch?v=igIjGxF2J-w)
+  - [Bitwise Operations tutorial #1 | XOR, Shift, Subsets](https://www.youtube.com/watch?v=xXKL9YBWgCY)
+  - [C++ Bitsets in Competitive Programming](https://www.youtube.com/watch?v=jqJ5s077OKo)
+  - [What are Bit Masks, and how do I use them? (examples in C)](https://www.youtube.com/watch?v=Ew2QnDeTCCE)
+  - [DP with Bitmasks](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g)

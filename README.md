@@ -123,8 +123,6 @@
 
 ## [Kỹ thuật lập trình](/Kỹ%20thuật%20lập%20trình/README.md)
 
-Đang cập nhật...
-
 - [Ngôn ngữ lập trình C++](/Kỹ%20thuật%20lập%20trình/README.md#ngôn-ngữ-lập-trình-c)
 - [Cách tiếp cận bài toán](/Kỹ%20thuật%20lập%20trình/README.md#cách-tiếp-cận-bài-toán)
 - [Độ phức tạp](/Kỹ%20thuật%20lập%20trình/README.md#độ-phức-tạp)
