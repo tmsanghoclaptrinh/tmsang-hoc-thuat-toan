@@ -64,12 +64,22 @@
 ## Sắp xếp chèn (Insertion sort)
 
 - Bài viết tiếng Việt:
-
+  - [Sắp xếp chèn (Insertion Sort) - VNOI Wiki](https://wiki.vnoi.info/algo/basic/sorting#s%E1%BA%AFp-x%E1%BA%BFp-ch%C3%A8n-insertion-sort)
+  - [Sắp xếp chèn - Wikipedia](https://vi.wikipedia.org/wiki/S%E1%BA%AFp_x%E1%BA%BFp_ch%C3%A8n)
+  - [Insertion Sort - sắp xếp chèn](https://viblo.asia/p/sap-xep-chen-sap-xep-chon-va-sap-xep-tron-Do754zX4ZM6#_ii-insertion-sort---sap-xep-chen-1)
 - Video tiếng Việt:
-
+  - [Insertion Sort Algorithm | Thuật toán sắp xếp chèn](https://www.youtube.com/watch?v=IWT-Uoz_Sb8)
+  - [Thuật Toán Sắp Xếp Chèn (Insertion Sort)](https://www.youtube.com/watch?v=R5IcI6Ni8IY)
 - Bài viết tiếng Anh:
-
+  - [Insertion sort - Wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
+  - [DSA Insertion Sort - W3Schools](https://www.w3schools.com/dsa/dsa_algo_insertionsort.php)
+  - [Insertion Sort Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/insertion-sort-algorithm/)
+  - [VisuAlgo](https://visualgo.net/en/sorting?slide=9)
 - Video tiếng Anh:
+  - [Insertion sort in 2 minutes](https://www.youtube.com/watch?v=JU767SDMDvA)
+  - [Insertion sort algorithm](https://www.youtube.com/watch?v=i-SKeOcBwko)
+  - [Insertion Sort By Abdul Bari](https://www.youtube.com/watch?v=oTICKmJhLXI)
+  - [Insert-sort with Romanian folk dance](https://www.youtube.com/watch?v=EdIKIf9mHk0)
 
 ## Sắp xếp trộn (Merge sort)
 
