@@ -36,6 +36,7 @@
 - [Sắp xếp nổi bọt (Bubble sort)](#sắp-xếp-nổi-bọt-bubble-sort)
 - [Sắp xếp chèn (Insertion sort)](#sắp-xếp-chèn-insertion-sort)
 - [Sắp xếp trộn (Merge sort)](#sắp-xếp-trộn-merge-sort)
+- [Sắp xếp chọn (Selection sort)](#sắp-xếp-chọn-selection-sort)
 - [Sắp xếp vun đống (Heap sort)](#sắp-xếp-vun-đống-heap-sort)
 - [Sắp xếp nhanh (Quick sort)](#sắp-xếp-nhanh-quick-sort)
 - [Sắp xếp cơ số (Radix sort)](#sắp-xếp-cơ-số-radix-sort)
@@ -103,6 +104,26 @@
   - [Merge sort algorithm](https://www.youtube.com/watch?v=TzeBrDU-JaY)
   - [Merge Sort vs Quick Sort](https://www.youtube.com/watch?v=es2T6KY45cA)
   - [Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/watch?v=dENca26N6V4)
+
+## Sắp xếp chọn (Selection sort)
+
+- Bài viết tiếng Việt:
+  - [Sắp xếp chọn - Wikipedia](https://vi.wikipedia.org/wiki/S%E1%BA%AFp_x%E1%BA%BFp_ch%E1%BB%8Dn)
+  - [Selection Sort](https://viblo.asia/p/selection-sort-AZoJjXG7VY7)
+  - [Thuật toán sắp xếp selection sort minh họa code sử dụng c++](https://blog.luyencode.net/thuat-toan-sap-xep-selection-sort/)
+- Video tiếng Việt:
+  - [Thuật Toán Sắp Xếp Chọn (Selection Sort)](https://www.youtube.com/watch?v=XnwIziGYOFY)
+  - [Thuật Toán Sắp Xếp Chèn | Sắp Xếp Nổi Bọt | Sắp Xếp Chọn | Sắp Xếp Đếm Phân Phối](https://www.youtube.com/watch?v=FllEXZV1Z58)
+- Bài viết tiếng Anh:
+  - [Selection sort - Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
+  - [DSA Selection Sort - W3Schools](https://www.w3schools.com/dsa/dsa_algo_selectionsort.php)
+  - [Selection Sort Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/selection-sort-algorithm-2/)
+  - [VisuAlgo](https://visualgo.net/en/sorting?slide=8)
+- Video tiếng Anh:
+  - [Selection sort in 3 minutes](https://www.youtube.com/watch?v=g-PGLbMth_g)
+  - [Selection sort algorithm](https://www.youtube.com/watch?v=GUDLRan2DWM)
+  - [Learn Selection Sort in 8 minutes](https://www.youtube.com/watch?v=EwjnF7rFLns)
+  - [Select-sort with Gypsy folk dance](https://www.youtube.com/watch?v=0-W8OEwLebQ)
 
 ## Sắp xếp vun đống (Heap sort)
 
