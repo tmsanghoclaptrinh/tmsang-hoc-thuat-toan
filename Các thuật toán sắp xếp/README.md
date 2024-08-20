@@ -84,12 +84,25 @@
 ## Sắp xếp trộn (Merge sort)
 
 - Bài viết tiếng Việt:
-
+  - [Sắp xếp trộn (Merge sort) - VNOI Wiki](https://wiki.vnoi.info/algo/basic/sorting#s%E1%BA%AFp-x%E1%BA%BFp-tr%E1%BB%99n-merge-sort)
+  - [Sắp xếp trộn - Wikipedia](https://vi.wikipedia.org/wiki/S%E1%BA%AFp_x%E1%BA%BFp_tr%E1%BB%99n)
+  - [Merge Sort](https://viblo.asia/p/merge-sort-38X4ENAoJN2)
 - Video tiếng Việt:
-
+  - [Merge Sort Algorithm #1: Giới thiệu CONCEPT | Thuật toán sắp xếp "theo dân gian là Trộn @@"](https://www.youtube.com/watch?v=f2nTwlZiuMI)
+  - [Merge Sort Algorithm #2: Đời HỢP rồi TAN | Thuật toán sắp xếp "theo dân gian là Trộn @@"](https://www.youtube.com/watch?v=Pq5y-MzBdWs)
+  - [Thuật Toán Sắp Xếp Trộn (Merge Sort)](https://www.youtube.com/watch?v=EvmFg_wZMD8)
+  - [Thuật Toán Sắp Xếp Trộn (Merge Sort). Đếm Số Cặp Nghịch Thế Trong Mảng Bằng Merge Sort](https://www.youtube.com/watch?v=hTHO1Mprj8g)
 - Bài viết tiếng Anh:
-
+  - [Merge sort - Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
+  - [DSA Merge Sort - W3Schools](https://www.w3schools.com/dsa/dsa_algo_mergesort.php)
+  - [Merge Sort – Data Structure and Algorithms Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/merge-sort/)
+  - [VisuAlgo](https://visualgo.net/en/sorting?slide=11)
 - Video tiếng Anh:
+  - [Merge sort in 3 minutes](https://www.youtube.com/watch?v=4VqmGXwpLqc)
+  - [Merge Sort Algorithm By Abdul Bari](https://www.youtube.com/watch?v=mB5HXBb_HY8)
+  - [Merge sort algorithm](https://www.youtube.com/watch?v=TzeBrDU-JaY)
+  - [Merge Sort vs Quick Sort](https://www.youtube.com/watch?v=es2T6KY45cA)
+  - [Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/watch?v=dENca26N6V4)
 
 ## Sắp xếp vun đống (Heap sort)
 
