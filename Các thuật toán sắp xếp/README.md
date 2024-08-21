@@ -149,12 +149,25 @@
 ## Sắp xếp nhanh (Quick sort)
 
 - Bài viết tiếng Việt:
-
+  - [Sắp xếp nhanh (QuickSort) - VNOI Wiki](https://wiki.vnoi.info/algo/basic/sorting#s%E1%BA%AFp-x%E1%BA%BFp-nhanh-quicksort)
+  - [Sắp xếp nhanh - Wikipedia](https://vi.wikipedia.org/wiki/S%E1%BA%AFp_x%E1%BA%BFp_nhanh)
+  - [Thuật toán sắp xếp nhanh (Quick sort)](https://viblo.asia/p/thuat-toan-sap-xep-nhanh-quick-sort-eW65G6ROlDO)
 - Video tiếng Việt:
-
+  - [Cấu trúc dữ liệu và giải thuật: Quick Sort - Sắp xếp nhanh](https://www.youtube.com/watch?v=qjvx0Ge7aos)
+  - [Quick Sort Algorithm | Thuật toán sắp xếp nhanh](https://www.youtube.com/watch?v=x1BMc7MEjnk)
+  - [Thuật Toán Sắp Xếp Nhanh QuickSort | Phân Hoạch Lomuto Và Phân Hoạch Hoare](https://www.youtube.com/watch?v=eT9Epyf0XLM)
 - Bài viết tiếng Anh:
-
+  - [Quicksort - Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
+  - [DSA Quicksort - W3Schools](https://www.w3schools.com/dsa/dsa_algo_quicksort.php)
+  - [Quick Sort Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/quick-sort-algorithm/)
+  - [VisuAlgo](https://visualgo.net/en/sorting?slide=12)
 - Video tiếng Anh:
+  - [Quick sort in 4 minutes](https://www.youtube.com/watch?v=Hoixgm4-P4M)
+  - [QuickSort Algorithm By Abdul Bari](https://www.youtube.com/watch?v=7h1s2SojIRw)
+  - [Quicksort algorithm](https://www.youtube.com/watch?v=COk73cpQbFQ)
+  - [Quick Sort - Computerphile](https://www.youtube.com/watch?v=XE4VP_8Y0BU)
+  - [Quick sort with Hungarian, folk dance](https://www.youtube.com/watch?v=3San3uKKHgg)
+  - [Visualization of Quick sort](https://www.youtube.com/watch?v=aXXWXz5rF64)
 
 ## Sắp xếp cơ số (Radix sort)
 
