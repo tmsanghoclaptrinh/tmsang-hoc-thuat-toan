@@ -128,12 +128,23 @@
 ## Sắp xếp vun đống (Heap sort)
 
 - Bài viết tiếng Việt:
-
+  - [Sắp xếp vun đống (HeapSort) - VNOI Wiki](https://wiki.vnoi.info/algo/basic/sorting#s%E1%BA%AFp-x%E1%BA%BFp-vun-%C4%91%E1%BB%91ng-heapsort)
+  - [Sắp xếp vun đống - Wikipedia](https://vi.wikipedia.org/wiki/S%E1%BA%AFp_x%E1%BA%BFp_vun_%C4%91%E1%BB%91ng)
+  - [Sắp xếp vun đống](https://viblo.asia/p/sap-xep-vun-dong-63vKjeYk52R)
 - Video tiếng Việt:
-
+  - [Heap Sort Algorithm | Thuật toán sắp xếp vun đống](https://www.youtube.com/watch?v=Dr6DdLDsE-4)
+  - [Giải Thích Cách Hoạt Động Thuật Toán Sắp Xếp Vun Đống | Thuật Toán Heap Sort](https://www.youtube.com/watch?v=XFI96Z7i3LE)
+  - [Cấu trúc dữ liệu và giải thuật: Heap Sort - Sắp xếp vun đống](https://www.youtube.com/watch?v=-A3AFoS_NDI)
 - Bài viết tiếng Anh:
-
+  - [Heapsort - Wikipedia](https://en.wikipedia.org/wiki/Heapsort)
+  - [Heap Sort – Data Structures and Algorithms Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/heap-sort/)
+  - [Heap Sort - HackerEarth](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/)
+  - [Heap Sort - Visualization](https://www.cs.usfca.edu/~galles/visualization/HeapSort.html)
 - Video tiếng Anh:
+  - [Heap sort in 4 minutes](https://www.youtube.com/watch?v=2DmK_H7IdTo)
+  - [HEAP SORT | Sorting Algorithms | DSA | GeeksforGeeks](https://www.youtube.com/watch?v=MtQL_ll5KhQ)
+  - [Heap - Heap Sort - Heapify - Priority Queues](https://www.youtube.com/watch?v=HqPJF2L5h9U)
+  - [Heaps and Heap Sort - MIT OpenCourseWare](https://www.youtube.com/watch?v=B7hVxCmfPtM)
 
 ## Sắp xếp nhanh (Quick sort)
 
