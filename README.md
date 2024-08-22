@@ -131,8 +131,6 @@
 
 ## [Các thuật toán sắp xếp](/Các%20thuật%20toán%20sắp%20xếp/README.md)
 
-Đang cập nhật
-
 - [Sắp xếp nổi bọt (Bubble sort)](/Các%20thuật%20toán%20sắp%20xếp/README.md#sắp-xếp-nổi-bọt-bubble-sort)
 - [Sắp xếp chèn (Insertion sort)](/Các%20thuật%20toán%20sắp%20xếp/README.md#sắp-xếp-chèn-insertion-sort)
 - [Sắp xếp trộn (Merge sort)](/Các%20thuật%20toán%20sắp%20xếp/README.md#sắp-xếp-trộn-merge-sort)
@@ -142,9 +140,9 @@
 - [Sắp xếp cơ số (Radix sort)](/Các%20thuật%20toán%20sắp%20xếp/README.md#sắp-xếp-cơ-số-radix-sort)
 - [Sắp xếp đếm phân phối (Counting sort)](/Các%20thuật%20toán%20sắp%20xếp/README.md#sắp-xếp-đếm-phân-phối-counting-sort)
 
-## Các thuật toán tìm kiếm
+## [Các thuật toán tìm kiếm](/Các%20thuật%20toán%20tìm%20kiếm/README.md)
 
-- Đang cập nhật
+Đang cập nhật
 
 ## Cấu trúc dữ liệu
 
