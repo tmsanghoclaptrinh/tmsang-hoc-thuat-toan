@@ -144,6 +144,12 @@
 
 Đang cập nhật
 
+- [Tìm kiếm tuần tự (Linear search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-tuần-tự-linear-search)
+- [Tìm kiếm nhị phân (Binary search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-nhị-phân-binary-search)
+- [Tìm kiếm tam phân (Ternary search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-tam-phân-ternary-search)
+- [Tìm kiếm nhảy (Jump search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-nhảy-jump-search)
+- [Tìm kiếm nội suy (Interpolation search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-nội-suy-interpolation-search)
+
 ## Cấu trúc dữ liệu
 
 - Đang cập nhật

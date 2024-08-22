@@ -33,4 +33,43 @@
 
 ## Nội dung chính của phần "Các thuật toán tìm kiếm"
 
+- [Tìm kiếm tuần tự (Linear search)](#tìm-kiếm-tuần-tự-linear-search)
+- [Tìm kiếm nhị phân (Binary search)](#tìm-kiếm-nhị-phân-binary-search)
+- [Tìm kiếm tam phân (Ternary search)](#tìm-kiếm-tam-phân-ternary-search)
+- [Tìm kiếm nhảy (Jump search)](#tìm-kiếm-nhảy-jump-search)
+- [Tìm kiếm nội suy (Interpolation search)](#tìm-kiếm-nội-suy-interpolation-search)
+
+## Tìm kiếm tuần tự (Linear search)
+
+- Bài viết tiếng Việt:
+  - [Tìm kiếm tuần tự - Wikipedia](https://vi.wikipedia.org/wiki/T%C3%ACm_ki%E1%BA%BFm_tu%E1%BA%A7n_t%E1%BB%B1)
+  - [Linear Search - Tìm kiếm tuần tự](https://viblo.asia/p/linear-search-tim-kiem-tuan-tu-5pPLkxO2VRZ)
+  - [Bài toán tìm kiếm và các thuật toán Tìm kiếm thông dụng](https://viblo.asia/p/bai-toan-tim-kiem-va-cac-thuat-toan-tim-kiem-thong-dung-djeZ1dEGKWz)
+- Video tiếng Việt:
+  - [Thuật Toán Tìm Kiếm Tuần Tự (Linear Search)](https://www.youtube.com/watch?v=mDpJMTQcvrA)
+  - [Tìm kiếm tuần tự - Tin học 7](https://www.youtube.com/watch?v=ARhjNWFmozE)
+- Bài viết tiếng Anh:
+  - [Linear search - Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
+  - [DSA Linear Search - W3Schools](https://www.w3schools.com/dsa/dsa_algo_linearsearch.php)
+  - [Introduction to Linear Search Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/linear-search/)
+- Video tiếng Anh:
+  - [Learn Linear Search in 3 minutes](https://www.youtube.com/watch?v=246V51AWwZM)
+  - [Linear Search - CS50 Shorts](https://www.youtube.com/watch?v=TwsgCHYmbbA)
+  - [Best Worst and Average Case Analysis - Abdul Bari](https://www.youtube.com/watch?v=lj3E24nnPjI)
+  - [Linear search vs Binary search](https://www.youtube.com/watch?v=sSYQ1H9-Vks)
+
+## Tìm kiếm nhị phân (Binary search)
+
+Đang cập nhật
+
+## Tìm kiếm tam phân (Ternary search)
+
+Đang cập nhật
+
+## Tìm kiếm nhảy (Jump search)
+
+Đang cập nhật
+
+## Tìm kiếm nội suy (Interpolation search)
+
 Đang cập nhật
