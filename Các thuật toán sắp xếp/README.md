@@ -192,9 +192,18 @@
 ## Sắp xếp đếm phân phối (Counting sort)
 
 - Bài viết tiếng Việt:
-
+  - [Sắp xếp đếm phân phối - Wikipedia](https://vi.wikipedia.org/wiki/S%E1%BA%AFp_x%E1%BA%BFp_%C4%91%E1%BA%BFm_ph%C3%A2n_ph%E1%BB%91i)
+  - [Sắp xếp bằng đếm phân phối (Counting Sort)](https://viblo.asia/p/sap-xep-bang-dem-phan-phoi-counting-sort-Qbq5Q63LKD8)
 - Video tiếng Việt:
-
+  - [Thuật Toán Sắp Xếp Chèn | Sắp Xếp Nổi Bọt | Sắp Xếp Chọn | Sắp Xếp Đếm Phân Phối](https://www.youtube.com/watch?v=FllEXZV1Z58)
+  - [Cài đặt sắp xếp với Counting sort](https://www.youtube.com/watch?v=zNwsjS0PLU8)
 - Bài viết tiếng Anh:
-
+  - [Counting sort - Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)
+  - [DSA Counting Sort - W3Schools](https://www.w3schools.com/dsa/dsa_algo_countingsort.php)
+  - [Counting Sort – Data Structures and Algorithms Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/counting-sort/)
+  - [Counting Sort - HackerEarth](https://www.hackerearth.com/practice/algorithms/sorting/counting-sort/tutorial/)
+  - [VisuAlgo](https://visualgo.net/en/sorting?slide=15)
 - Video tiếng Anh:
+  - [Learn Counting Sort Algorithm in LESS THAN 6 MINUTES!](https://www.youtube.com/watch?v=OKd534EWcdk)
+  - [Counting Sort | GeeksforGeeks](https://www.youtube.com/watch?v=7zuGmKfUt7s)
+  - [Counting Sort](https://www.youtube.com/watch?v=EItdcGhSLf4)
