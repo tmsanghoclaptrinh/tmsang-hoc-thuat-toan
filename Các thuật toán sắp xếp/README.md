@@ -172,12 +172,22 @@
 ## Sắp xếp cơ số (Radix sort)
 
 - Bài viết tiếng Việt:
-
+  - [Sắp xếp cơ số (RadixSort) - VNOI Wiki](https://wiki.vnoi.info/algo/basic/sorting#s%E1%BA%AFp-x%E1%BA%BFp-c%C6%A1-s%E1%BB%91-radixsort)
+  - [Sắp xếp theo cơ số - Wikipedia](https://vi.wikipedia.org/wiki/S%E1%BA%AFp_x%E1%BA%BFp_theo_c%C6%A1_s%E1%BB%91)
+  - [Distribution Sort - Radix Sort](https://www.iostream.co/article/distribution-sort-radix-sort-vqu1H1)
 - Video tiếng Việt:
-
+  - [Radix Sort Algorithm | Thuật toán sắp xếp theo cơ số](https://www.youtube.com/watch?v=e4Oide9BsH8)
+  - [Minh họa giải thuật Radix Sort](https://www.youtube.com/watch?v=EhyaefzDy64)
 - Bài viết tiếng Anh:
-
+  - [Radix sort - Wikipedia](https://en.wikipedia.org/wiki/Radix_sort)
+  - [DSA Radix Sort - W3Schools](https://www.w3schools.com/dsa/dsa_algo_radixsort.php)
+  - [Radix Sort – Data Structures and Algorithms Tutorials - GeeksforGeeks](https://www.geeksforgeeks.org/radix-sort/)
+  - [VisuAlgo](https://visualgo.net/en/sorting?slide=16)
 - Video tiếng Anh:
+  - [Visualization of Radix sort](https://www.youtube.com/watch?v=mVRHvZF8xtg)
+  - [Radix Sort By Abdul Bari](https://www.youtube.com/watch?v=6du1LrLbDpA)
+  - [Radix Sort | GeeksforGeeks](https://www.youtube.com/watch?v=nu4gDuFabIM)
+  - [Radix Sort Algorithm Introduction in 5 Minutes](https://www.youtube.com/watch?v=XiuSW_mEn7g)
 
 ## Sắp xếp đếm phân phối (Counting sort)
 
