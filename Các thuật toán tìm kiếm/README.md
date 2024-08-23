@@ -60,7 +60,27 @@
 
 ## Tìm kiếm nhị phân (Binary search)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Thuật toán tìm kiếm nhị phân - VNOI Wiki](https://wiki.vnoi.info/algo/basic/Binary-Search)
+  - [Tìm kiếm nhị phân - Wikipedia](https://vi.wikipedia.org/wiki/T%C3%ACm_ki%E1%BA%BFm_nh%E1%BB%8B_ph%C3%A2n)
+  - [Thuật Toán Tìm Kiếm Nhị Phân](https://blog.28tech.com.vn/c-thuat-toan-tim-kiem-nhi-phan)
+- Video tiếng Việt:
+  - [Thuật Toán Tìm Kiếm Nhị Phân | Hàm Lower_bound và Upper_bound Trong Thư Viện STL](https://www.youtube.com/watch?v=dB2DWSKGLj8)
+  - [Tìm kiếm nhị phân, chặt nhị phân với Thầy giáo dạy đội tuyển Quốc gia](https://www.youtube.com/watch?v=kMh-bdfa9xs)
+  - [Thuật Toán Tìm Kiếm Nhị Phân (Binary Search)](https://www.youtube.com/watch?v=kfJCPlIpZL4)
+- Bài viết tiếng Anh:
+  - [Binary Search - TopCoder](https://www.topcoder.com/thrive/articles/Binary%20Search)
+  - [Binary search - Wikipedia](https://en.wikipedia.org/wiki/Binary_search)
+  - [DSA Binary Search - W3Schools](https://www.w3schools.com/dsa/dsa_algo_binarysearch.php)
+  - [Binary Search Algorithm – Iterative and Recursive Implementation](https://www.geeksforgeeks.org/binary-search/)
+  - [Binary Search - USACO Guide](https://usaco.guide/silver/binary-search?lang=cpp)
+- Video tiếng Anh:
+  - [How Binary Search Makes Computers Much, Much Faster](https://www.youtube.com/watch?v=KXJSjte_OAI)
+  - [Binary Search Iterative Method - Abdul Bari](https://www.youtube.com/watch?v=C2apEw9pgtw)
+  - [Binary Search Algorithm - Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk)
+  - [Binary Search tutorial (C++ and Python)](https://www.youtube.com/watch?v=GU7DpgHINWQ)
+  - [Binary search in 4 minutes](https://www.youtube.com/watch?v=fDKIpRe8GW4)
+  - [Binary Search Algorithm in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc)
 
 ## Tìm kiếm tam phân (Ternary search)
 
