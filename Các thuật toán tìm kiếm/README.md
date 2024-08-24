@@ -84,7 +84,22 @@
 
 ## Tìm kiếm tam phân (Ternary search)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Tìm kiếm tam phân - Ternary Search - VNOI Wiki](https://wiki.vnoi.info/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search)
+  - [C++: Tìm kiếm tam phân (Ternary Search)](https://v1study.com/c-plus-plus-tham-khao-tim-kiem-tam-phan-ternary-search.html)
+  - [Thuật toán tìm kiếm tam phân](https://lmsang1986.violet.vn/entry/show/entry_id/7018542)
+- Video tiếng Việt:
+  - [Tìm kiếm tam phân (Ternary search)](https://www.youtube.com/watch?v=3US8YDfKXHk)
+- Bài viết tiếng Anh:
+  - [Ternary search - Wikipedia](https://en.wikipedia.org/wiki/Ternary_search)
+  - [Ternary Search - cp-algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
+  - [Ternary Search - HackerEarth](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/)
+  - [Ternary Search - GeeksforGeeks](https://www.geeksforgeeks.org/ternary-search/)
+- Video tiếng Anh:
+  - [Ternary Search | Code Tutorial](https://www.youtube.com/watch?v=JaO8cU9WlWg)
+  - [Ternary Search in 4 min (Python)](https://www.youtube.com/watch?v=o3HPRpbGlbI)
+  - [Ternary Search](https://www.youtube.com/playlist?list=PL-Jc9J83PIiGiFr2WFAiS9nEssqEoCKC4)
+  - [Ternary Search | Ternary Search with example](https://www.youtube.com/watch?v=WyWL1PBNvb8)
 
 ## Tìm kiếm nhảy (Jump search)
 
