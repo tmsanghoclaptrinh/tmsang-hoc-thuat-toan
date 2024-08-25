@@ -120,4 +120,17 @@
 
 ## Tìm kiếm nội suy (Interpolation search)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Thuật Toán Interpolation Search](https://phattrienphanmem123az.com/thuat-toan-lap-trinh/thuat-toan-interpolation-search.html)
+  - [Thuật toán tìm tiếm nội suy (Interpolation Search)](https://freetuts.net/tim-kiem-noi-suy-interpolation-search-2922.html)
+- Video tiếng Việt:
+  - [Interpolation Search - Thuật toán tìm kiếm nội suy](https://www.youtube.com/watch?v=FMdJrQHYO-g)
+  - [Bạn có nghĩ tìm kiếm nội suy là thuật toán tìm kiếm tốt nhất hiện nay không](https://www.youtube.com/watch?v=PRMSr0qQ_js)
+- Bài viết tiếng Anh:
+  - [Interpolation search - Wikipedia](https://en.wikipedia.org/wiki/Interpolation_search)
+  - [Interpolation Search - GeeksforGeeks](https://www.geeksforgeeks.org/interpolation-search/)
+  - [Interpolation Search - TopCoder](https://www.topcoder.com/thrive/articles/interpolation-search)
+- Video tiếng Anh:
+  - [Learn Interpolation search in 8 minutes](https://www.youtube.com/watch?v=YSVS5GG1JuI)
+  - [Interpolation Search algorithm (with Example & CODE)](https://www.youtube.com/watch?v=hF9iJEPegNc)
+  - [Visualization of Interpolation Search](https://www.youtube.com/watch?v=DlCPTPQD6Mw)
