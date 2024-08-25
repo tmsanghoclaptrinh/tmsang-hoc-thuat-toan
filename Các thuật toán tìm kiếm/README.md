@@ -103,7 +103,20 @@
 
 ## Tìm kiếm nhảy (Jump search)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Thuật Toán Jump Search](https://phattrienphanmem123az.com/thuat-toan-lap-trinh/thuat-toan-jump-search.html)
+  - [Thuật toán Jump Search – Giới thiệu chi tiết và code ví dụ trên nhiều ngôn ngữ lập trình](https://cafedev.vn/thuat-toan-jump-search-gioi-thieu-chi-tiet-va-code-vi-du-tren-nhieu-ngon-ngu-lap-trinh/)
+- Video tiếng Việt:
+  - [Thuật Toán Tìm Kiếm Nhảy (Jump Search)](https://www.youtube.com/watch?v=abUqgjwjymA)
+- Bài viết tiếng Anh:
+  - [Jump search - Wikipedia](https://en.wikipedia.org/wiki/Jump_search)
+  - [Jump Search - GeeksforGeeks](https://www.geeksforgeeks.org/jump-search/)
+  - [Jump Search algorithm](https://www.tutorialspoint.com/data_structures_algorithms/jump_search_algorithm.htm)
+  - [What is the difference between Binary Search and Jump Search? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-the-difference-between-binary-search-and-jump-search/)
+- Video tiếng Anh:
+  - [What is Jump Search and how does it work (with CODE)](https://www.youtube.com/watch?v=wNOoyZ45SmQ)
+  - [Jump Search | GeeksforGeeks](https://www.youtube.com/watch?v=63kS6ZkMpkA)
+  - [Jump Search in C++ | Code Tutorial](https://www.youtube.com/watch?v=kDGBHwwdPhA)
 
 ## Tìm kiếm nội suy (Interpolation search)
 
