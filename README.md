@@ -37,7 +37,7 @@
 - [Kỹ thuật lập trình](#kỹ-thuật-lập-trình)
 - [Các thuật toán sắp xếp](#các-thuật-toán-sắp-xếp)
 - [Các thuật toán tìm kiếm](#các-thuật-toán-tìm-kiếm)
-- [Cấu trúc dữ liệu](#cấu-trúc-dữ-liệu)
+- [Cấu trúc dữ liệu (Data Structures)](#cấu-trúc-dữ-liệu-data-structures)
 - [Tham lam](#tham-lam)
 - [Quy hoạch động](#quy-hoạch-động)
 - [Thiết kế giải thuật](#thiết-kế-giải-thuật)
@@ -142,17 +142,40 @@
 
 ## [Các thuật toán tìm kiếm](/Các%20thuật%20toán%20tìm%20kiếm/README.md)
 
-Đang cập nhật
-
 - [Tìm kiếm tuần tự (Linear search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-tuần-tự-linear-search)
 - [Tìm kiếm nhị phân (Binary search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-nhị-phân-binary-search)
 - [Tìm kiếm tam phân (Ternary search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-tam-phân-ternary-search)
 - [Tìm kiếm nhảy (Jump search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-nhảy-jump-search)
 - [Tìm kiếm nội suy (Interpolation search)](/Các%20thuật%20toán%20tìm%20kiếm/README.md#tìm-kiếm-nội-suy-interpolation-search)
 
-## Cấu trúc dữ liệu
+## [Cấu trúc dữ liệu (Data Structures)](/Cấu%20trúc%20dữ%20liệu/README.md)
 
-- Đang cập nhật
+Đang cập nhật
+
+- [Tổng quan về cấu trúc dữ liệu](/Cấu%20trúc%20dữ%20liệu/README.md#tổng-quan-về-cấu-trúc-dữ-liệu)
+- [Mảng (Array) và Danh sách liên kết (Linked list)](/Cấu%20trúc%20dữ%20liệu/README.md#mảng-array-và-danh-sách-liên-kết-linked-list)
+- [Dynamic Array](/Cấu%20trúc%20dữ%20liệu/README.md#dynamic-array)
+- [Ngăn xếp (Stack)](/Cấu%20trúc%20dữ%20liệu/README.md#ngăn-xếp-stack)
+- [Hàng đợi (Queue)](/Cấu%20trúc%20dữ%20liệu/README.md#hàng-đợi-queue)
+- [Set và Multiset](/Cấu%20trúc%20dữ%20liệu/README.md#set-và-multiset)
+- [Hàng đợi ưu tiên (Priority Queue)](/Cấu%20trúc%20dữ%20liệu/README.md#hàng-đợi-ưu-tiên-priority-queue)
+- [Mảng cộng dồn và mảng hiệu](/Cấu%20trúc%20dữ%20liệu/README.md#mảng-cộng-dồn-và-mảng-hiệu)
+- [Deque và tìm min max trên đoạn tịnh tiến](/Cấu%20trúc%20dữ%20liệu/README.md#deque-và-tìm-min-max-trên-đoạn-tịnh-tiến)
+- [Heap](/Cấu%20trúc%20dữ%20liệu/README.md#heap)
+- [Bảng băm (Hash table)](/Cấu%20trúc%20dữ%20liệu/README.md#bảng-băm-hash-table)
+- [Disjoint Set Union (DSU)](/Cấu%20trúc%20dữ%20liệu/README.md#disjoint-set-union-dsu)
+- [Cây Phân Đoạn (Segment Tree - Interval Tree)](/Cấu%20trúc%20dữ%20liệu/README.md#cây-phân-đoạn-segment-tree---interval-tree)
+- [Chia căn](/Cấu%20trúc%20dữ%20liệu/README.md#chia-căn)
+- [Fenwick Tree (Binary Indexed Tree)](/Cấu%20trúc%20dữ%20liệu/README.md#fenwick-tree-binary-indexed-tree)
+- [Heavy Light Decomposition (HLD)](/Cấu%20trúc%20dữ%20liệu/README.md#heavy-light-decomposition-hld)
+- [Persistent Data Structures](/Cấu%20trúc%20dữ%20liệu/README.md#persistent-data-structures)
+- [Lowest Common Ancestor (LCA) - Binary Lifting](/Cấu%20trúc%20dữ%20liệu/README.md#lowest-common-ancestor-lca---binary-lifting)
+- [Bài toán RMQ & bài toán LCA](/Cấu%20trúc%20dữ%20liệu/README.md#bài-toán-rmq--bài-toán-lca)
+- [Trie](/Cấu%20trúc%20dữ%20liệu/README.md#trie)
+- [Suffix Array](/Cấu%20trúc%20dữ%20liệu/README.md#suffix-array)
+- [Palindrome Tree](/Cấu%20trúc%20dữ%20liệu/README.md#palindrome-tree)
+- [Skip List](/Cấu%20trúc%20dữ%20liệu/README.md#skip-list)
+- [Range Tree](/Cấu%20trúc%20dữ%20liệu/README.md#range-tree)
 
 ## Tham lam
 
