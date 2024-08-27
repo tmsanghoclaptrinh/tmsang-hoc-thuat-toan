@@ -85,7 +85,39 @@
 
 ## Mảng (Array) và Danh sách liên kết (Linked list)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Mảng và danh sách liên kết](https://wiki.vnoi.info/algo/data-structures/array-vs-linked-lists)
+  - [Xử lý mảng trong C++ và những điều cần lưu ý](https://stringee.com/vi/blog/post/xu-ly-mang-trong-c)
+  - [Mảng 1 chiều trong C++ (Arrays)](https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban/mang-1-chieu-trong-c-arrays-1377)
+  - [Mảng - Array - Slide Đại học Công nghệ - Đại học Quốc gia (UET)](https://uet.vnu.edu.vn/~sonpb/THCS4/Lecture05_Mang.pdf)
+  - [Danh sách liên kết - Wikipedia](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_li%C3%AAn_k%E1%BA%BFt)
+  - [Danh Sách Liên Kết - Linked List](https://blog.28tech.com.vn/danh-sach-lien-ket-linked-list)
+  - [Ôn tập struct và bộ nhớ động Linked Lists - Slide Đại học Công nghệ - Đại học Quốc gia (UET)](https://uet.vnu.edu.vn/~tqlong/2018ltnc/Support-Lec9&10-LinkedLists.pdf)
+- Video tiếng Việt:
+  - [Array - Mảng](https://www.youtube.com/watch?v=IRoOEsNqgzM)
+  - [Mảng Một Chiều Và Các Bài Toán Quen Thuộc Về Mảng Trong Ngôn Ngữ Lập Trình C](https://www.youtube.com/watch?v=DrKvp90X0Uo)
+  - [Giới thiệu Linked list](https://www.youtube.com/watch?v=XduwHI8bbcA)
+  - [Linked list phần 2](https://www.youtube.com/watch?v=ZaG5n_6ehIw)
+  - [Linked list phần 3: CODE](https://www.youtube.com/watch?v=OJz-DuvFd24)
+  - [Danh sách liên kết và cây nhị phân](https://www.youtube.com/playlist?list=PLux-_phi0Rz1k7dQ7iWAw4xDD-KBHcW0F)
+  - [Danh Sách Liên Kết Đơn Ngôn Ngữ Lập Trình C++](https://www.youtube.com/watch?v=mdG5TEiJTx8)
+- Bài viết tiếng Anh:
+  - [Linked list - Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+  - [VisuAlgo](https://visualgo.net/en/list?slide=1)
+  - [Linked List Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/linked-list-data-structure/)
+  - [DSA Linked Lists - W3Schools](https://www.w3schools.com/dsa/dsa_theory_linkedlists.php)
+  - [Linked list cheatsheet for coding interviews](https://www.techinterviewhandbook.org/algorithms/linked-list/)
+  - [Singly Linked List - HackerEarth](https://www.hackerearth.com/practice/data-structures/linked-list/singly-linked-list/tutorial/)
+- Video tiếng Anh:
+  - [CS50x 2024 - Lecture 2 - Arrays](https://www.youtube.com/watch?v=4vU4aEFmTSo)
+  - [An Overview of Arrays and Memory](https://www.youtube.com/watch?v=pmN9ExDf3yQ)
+  - [Arrays in C++](https://www.youtube.com/watch?v=ENDaJi08jCU)
+  - [CS50x 2024 - Lecture 5 - Data Structures](https://www.youtube.com/watch?v=0euvEdPwQnQ)
+  - [Introduction to Linked List](https://www.youtube.com/watch?v=R9PTBwOzceo)
+  - [Introduction to Linked Lists](https://www.youtube.com/watch?v=WwfhLC16bis)
+  - [Data Structures: Linked Lists](https://www.youtube.com/watch?v=njTh_OwMljA)
+  - [Linked Lists for Technical Interviews](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
+  - [Linked List - Implementation in C/C++](https://www.youtube.com/watch?v=vcQIFT79_50)
 
 ## Dynamic Array
 
