@@ -121,7 +121,29 @@
 
 ## Dynamic Array
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Cấp phát mảng động (Dynamically allocating arrays)](https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban/cap-phat-mang-dong-dynamically-allocating-arrays-2743)
+  - [Cấp Phát Mảng Động](https://blog.28tech.com.vn/c-cap-phat-mang-dong)
+  - [Con trỏ và Mảng động - Slide Đại học Công nghệ - Đại học Quốc gia (UET)](https://uet.vnu.edu.vn/~diepht/s12_int2202/lect10_pointer.pdf)
+  - [Vector Trong C++](https://blog.28tech.com.vn/stl-vector-trong-c)
+  - [Sử dụng vector trong lập trình C++ - giải bài toán lập trình muôn thủa](https://viblo.asia/p/su-dung-vector-trong-lap-trinh-c-giai-bai-toan-lap-trinh-muon-thua-Az45bnGQ5xY)
+- Video tiếng Việt:
+  - [Implement DynamicArray](https://www.youtube.com/watch?v=MtSDY_kuM7o)
+  - [Cấp phát mảng động](https://www.youtube.com/watch?v=vn4Q8hDz_OQ)
+  - [Mảng động-dynamic array](https://www.youtube.com/watch?v=g_25amR5vM8)
+  - [Con Trỏ Trong Ngôn Ngữ C | Truyền Tham Chiếu | Cấp Phát Động](https://www.youtube.com/watch?v=9kaUEMbXEk4)
+- Bài viết tiếng Anh:
+  - Mục ***5.1 Dynamic Arrays*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+  - [Dynamic array - Wikipedia](https://en.wikipedia.org/wiki/Dynamic_array)
+  - [How do Dynamic arrays work? - GeeksforGeeks](https://www.geeksforgeeks.org/how-do-dynamic-arrays-work/)
+  - [Difference between Static Arrays and Dynamic Arrays - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-static-arrays-and-dynamic-arrays/)
+- Video tiếng Anh:
+  - [Data Structures and Dynamic Arrays - MIT OpenCourseWare](https://www.youtube.com/watch?v=CHhwJjR0mZA&t=16s)
+  - [Dynamic Arrays - Bro Code](https://www.youtube.com/watch?v=jzJlq35dQII)
+  - [The Simple and Elegant Idea behind Efficient Dynamic Arrays](https://www.youtube.com/watch?v=Ij7NQ-0mIVA)
+  - [Static Arrays vs. Dynamic Arrays](https://www.youtube.com/watch?v=qTb1sZX74K0)
+  - [Dynamic Arrays in C++ (std::vector)](https://www.youtube.com/watch?v=PocJ5jXv8No)
+  - [Optimizing the usage of std::vector in C++](https://www.youtube.com/watch?v=HcESuwmlHEY)
 
 ## Ngăn xếp (Stack)
 
