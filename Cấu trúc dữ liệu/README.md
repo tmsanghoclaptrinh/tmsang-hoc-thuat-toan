@@ -86,7 +86,7 @@
 ## Mảng (Array) và Danh sách liên kết (Linked list)
 
 - Bài viết tiếng Việt:
-  - [Mảng và danh sách liên kết](https://wiki.vnoi.info/algo/data-structures/array-vs-linked-lists)
+  - [Mảng và danh sách liên kết - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/array-vs-linked-lists)
   - [Xử lý mảng trong C++ và những điều cần lưu ý](https://stringee.com/vi/blog/post/xu-ly-mang-trong-c)
   - [Mảng 1 chiều trong C++ (Arrays)](https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban/mang-1-chieu-trong-c-arrays-1377)
   - [Mảng - Array - Slide Đại học Công nghệ - Đại học Quốc gia (UET)](https://uet.vnu.edu.vn/~sonpb/THCS4/Lecture05_Mang.pdf)
@@ -147,7 +147,27 @@
 
 ## Ngăn xếp (Stack)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Stack (ngăn xếp) - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/Stack)
+  - [Ngăn xếp - Wikipedia](https://vi.wikipedia.org/wiki/Ng%C4%83n_x%E1%BA%BFp)
+  - [Stack - Cấu trúc dữ liệu ngăn xếp](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/stack-cau-truc-du-lieu-ngan-xep-4271)
+- Video tiếng Việt:
+  - [Stack - Ông Dev](https://www.youtube.com/watch?v=BxxG5aFEtBE)
+  - [Stack Implementations - Ông Dev](https://www.youtube.com/watch?v=bLafmb5KeWE)
+  - [Stack Code - Ông Dev](https://www.youtube.com/watch?v=_v4kcYNJDLQ)
+  - [Cách Hoạt Động của CTDL Ngăn Xếp](https://www.youtube.com/watch?v=MQZ1TH0l7sk)
+  - [Memory layout in C: Một chương trình C được tổ chức trong memory như thế nào? Heap và Stack là gì?](https://www.youtube.com/watch?v=9890mLEpECg)
+- Bài viết tiếng Anh:
+  - [Stack (abstract data type) - Wikipedia](https://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)
+  - [DSA Stacks - W3Schools](https://www.w3schools.com/dsa/dsa_data_stacks.php)
+  - [Stack Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
+  - [Basics of Stacks - HackerEarth](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/tutorial/)
+- Video tiếng Anh:
+  - [Introduction to Stacks](https://www.youtube.com/watch?v=I37kGX-nZEI)
+  - [Learn Stack data structures in 10 minutes](https://www.youtube.com/watch?v=KInG04mAjO0)
+  - [Data structures: Introduction to stack](https://www.youtube.com/watch?v=F1F2imiOJfk)
+  - [Pointers and dynamic memory - stack vs heap](https://www.youtube.com/watch?v=_8-ht2AKyH4)
+  - [Introduction to Stacks and Queues - CS Dojo](https://www.youtube.com/watch?v=A3ZUpyrnCbM)
 
 ## Hàng đợi (Queue)
 
