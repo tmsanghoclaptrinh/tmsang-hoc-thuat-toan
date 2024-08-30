@@ -171,7 +171,30 @@
 
 ## Hàng đợi (Queue)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Hàng đợi - Wikipedia](https://vi.wikipedia.org/wiki/H%C3%A0ng_%C4%91%E1%BB%A3i)
+  - [Stack và Queue thì ứng dụng được gì vào dự án thực tế???](https://viblo.asia/p/stack-va-queue-thi-ung-dung-duoc-gi-vao-du-an-thuc-te-r1QLxB8o4Aw)
+  - [Cấu trúc dữ liệu và thuật toán | Hàng đợi (Queue)](https://www.tailieubkhn.com/2023/08/cau-truc-du-lieu-va-thuat-toan-hang-doi-queue.html)
+  - [Một số dạng hàng đợi](https://tek4.vn/khoa-hoc/cau-truc-du-lieu-va-thuat-toan/mot-so-dang-hang-doi)
+  - [Queue và Deque](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/queue-va-deque-4272)
+- Video tiếng Việt:
+  - [Cấu Trúc Dữ Liệu Hàng Đợi Trong C++ | Cách Hoạt Động Của Hàng Đợi (Queue)](https://www.youtube.com/watch?v=gYG70ULXbW4)
+  - [Cài Đặt Hàng Đợi Bằng Danh Sách Liên Kết Và Mảng 1 Chiều](https://www.youtube.com/watch?v=Y4JgOv6N_WY)
+  - [Queue - Ông Dev](https://www.youtube.com/watch?v=qpqSiYjS9-4)
+  - [Queue Implementations - Ông Dev](https://www.youtube.com/watch?v=EFdvAXaPYVY)
+  - [Queue Code - Ông Dev](https://www.youtube.com/watch?v=frMLRE88cmg)
+- Bài viết tiếng Anh:
+  - [Queue (abstract data type) - Wikipedia](https://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29)
+  - [DSA Queues - W3Schools](https://www.w3schools.com/dsa/dsa_data_queues.php)
+  - [Queue Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/queue-data-structure/)
+  - [Basics of Queues - HackerEarth](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tutorial/)
+- Video tiếng Anh:
+  - [Queues in 3 minutes](https://www.youtube.com/watch?v=D6gu-_tmEpQ)
+  - [Data structures: Array implementation of Queue](https://www.youtube.com/watch?v=okr-XE8yTO8)
+  - [Data structures: Linked List implementation of Queue](https://www.youtube.com/watch?v=A5_XdiK4J8A)
+  - [Learn Queue data structures in 10 minutes](https://www.youtube.com/watch?v=nqXaPZi99JI)
+  - [Introduction to Stacks and Queues - CS Dojo](https://www.youtube.com/watch?v=A3ZUpyrnCbM)
+  - [What is a Message Queue?](https://www.youtube.com/watch?v=xErwDaOc-Gs)
 
 ## Set và Multiset
 
