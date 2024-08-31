@@ -198,7 +198,32 @@
 
 ## Set và Multiset
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [[STL]. Set Trong C++](https://blog.28tech.com.vn/stl-set-trong-c)
+  - [[STL]. Các Hàm Thông Dụng Của Set Trong C++](https://blog.28tech.com.vn/stl-cac-ham-thong-dung-cua-set-trong-c)
+  - [[STL]. Multiset Trong C++](https://blog.28tech.com.vn/stl-multiset-trong-c)
+  - [[STL]. Unordered_set Trong C++](https://blog.28tech.com.vn/stl-unorderedset-trong-c)
+  - [Thư viện STL C++ (phần 2) - Tập hợp (Set) và một số ứng dụng](https://viblo.asia/p/bai-15-thu-vien-stl-c-phan-2-tap-hop-set-va-mot-so-ung-dung-bWrZnQynKxw)
+  - [Multiset trong C++ là gì](https://laptrinhcanban.com/cpp/lap-trinh-cpp-co-ban/multiset-trong-cpp/multiset-trong-cpp-la-gi/)
+- Video tiếng Việt:
+  - [Cấu Trúc Dữ Liệu Set Trong C++ | Multiset | Unordered_set](https://youtu.be/lQ0KTlXDRR0?si=ZKWZ7OA46MoQpjyC)
+  - [Set,Multiset và Unordered_set trong thư viện STL của C++](https://www.youtube.com/watch?v=VA8xzJzuEoA)
+  - [Hướng Dẫn Bài Tập Áp Dụng Set Và Map Trong C++](https://www.youtube.com/watch?v=JcSs5ryBAKg)
+- Bài viết tiếng Anh:
+  - Mục ***5.2.1 Sets and Multisets*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+  - [What is the difference between set and multiset in STL? - Quora](https://www.quora.com/What-is-the-difference-between-set-and-multiset-in-STL)
+  - [Difference Between set, multiset, unordered_set, unordered_multiset in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-set-multiset-unordered_set-unordered_multiset-in-cpp/)
+  - [Set (abstract data type) - Wikipedia](https://en.wikipedia.org/wiki/Set_%28abstract_data_type%29)
+  - [Set in C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/set-in-cpp-stl/)
+  - [Multiset in C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/multiset-in-cpp-stl/)
+- Video tiếng Anh:
+  - [std::set In C++](https://www.youtube.com/watch?v=1YpxRmsDuls)
+  - [Multiset In C++](https://www.youtube.com/watch?v=xxA2QjKj73w)
+  - [std::unordered_set In C++](https://youtu.be/Yevgn0yu5mI?si=FqPbJnAGh6PFhlxn)
+  - [std::unordered_multiset In C++](https://www.youtube.com/watch?v=hmc6ck5IsRQ)
+  - [C++ Programming Language Tutorial | Set in C++ STL | GeeksforGeeks](https://www.youtube.com/watch?v=YuZPHhniZtw)
+  - [C++ Programming Language Tutorial | Multiset in C++ STL | GeeksforGeeks](https://www.youtube.com/watch?v=xelzlR_OGnI)
+  - [C++ STL Tutorial: Sets and MultiSet](https://www.youtube.com/watch?v=PKE_Y9_gHMo)
 
 ## Hàng đợi ưu tiên (Priority Queue)
 
