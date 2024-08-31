@@ -227,7 +227,26 @@
 
 ## Hàng đợi ưu tiên (Priority Queue)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Tổng quan về Priority Queue](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/tong-quan-ve-priority-queue-4384)
+  - [Priority Queue (hàng đợi ưu tiên) là gì? Hướng dẫn cách thiết lập mức độ ưu tiên cho hàng đợi cuộc gọi](https://duhunggroups.com/priority-queue-hang-doi-uu-tien-la-gi-huong-dan-cach-thiet-lap-muc-do-uu-tien-cho-hang-doi-cuoc-goi/)
+  - [Sử dụng thư viện STL trong C++ : Priority Queue](https://hoccungchuyengia.com/su-dung-thu-vien-stl-trong-c-priority-queue/)
+- Video tiếng Việt:
+  - [Cấu Trúc Dữ Liệu Hàng Đợi Ưu Tiên | Priority_queue trong C++](https://www.youtube.com/watch?v=DRcAJNhtwbY)
+  - [Heap Và Hàng Đợi Ưu Tiên (Priority Queue)](https://www.youtube.com/watch?v=KGukb-Z1ebA)
+  - [Heap (Đống) - Priority Queue (Hàng đợi ưu tiên)](https://www.youtube.com/watch?v=BXYotZVWBm4)
+- Bài viết tiếng Anh:
+  - Mục ***5.2.3 Priority Queues*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+  - [Priority queue - Wikipedia](https://en.wikipedia.org/wiki/Priority_queue)
+  - [What is Priority Queue | Introduction to Priority Queue - GeeksforGeeks](https://www.geeksforgeeks.org/priority-queue-set-1-introduction/)
+  - [Priority Queue in C++ Standard Template Library (STL) - GeeksforGeeks](https://www.geeksforgeeks.org/priority-queue-in-cpp-stl/)
+- Video tiếng Anh:
+  - [Heap - Heap Sort - Heapify - Priority Queues - Abdul Bari](https://www.youtube.com/watch?v=HqPJF2L5h9U)
+  - [Priority Queue Introduction](https://www.youtube.com/watch?v=wptevk0bshY)
+  - [Priority Queue](https://www.youtube.com/watch?v=NlEwbC6Nt0c)
+  - [Learn Priority Queue data structures in 5 minutes](https://www.youtube.com/watch?v=7z_HXFZqXqc)
+  - [Heaps, heapsort, and priority queues - Inside code](https://www.youtube.com/watch?v=pLIajuc31qk)
+  - [Priority Queue in C++ STL | GeeksforGeeks](https://www.youtube.com/watch?v=vc7i0bBuQEM)
 
 ## Mảng cộng dồn và mảng hiệu
 
