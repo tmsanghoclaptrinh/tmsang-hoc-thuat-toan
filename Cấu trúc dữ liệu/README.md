@@ -250,7 +250,29 @@
 
 ## Mảng cộng dồn và mảng hiệu
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Mảng cộng dồn và mảng hiệu - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/prefix-sum-and-difference-array.md)
+  - [Quy hoạch động 5.5: Mảng tổng tiền tố và Mảng hiệu (phần 1)](https://viblo.asia/p/quy-hoach-dong-55-mang-tong-tien-to-va-mang-hieu-phan-1-r1QLx6104Aw)
+  - [Quy hoạch động 5.5: Mảng tổng tiền tố và Mảng hiệu (phần 2)](https://viblo.asia/p/quy-hoach-dong-55-mang-tong-tien-to-va-mang-hieu-phan-2-GAWVpaRo405)
+- Video tiếng Việt:
+  - [Mảng Cộng Dồn Trên Mảng 1 Chiều Và 2 Chiều | Truy Vấn Tổng Trên Đoạn](https://www.youtube.com/watch?v=KxQkpu842rc)
+  - [Mảng Cộng Dồn (Prefix Sum) Phần 1](https://www.youtube.com/watch?v=F68H8ESSOIs)
+  - [Mảng Cộng Dồn (Prefix Sum) Phần 2](https://www.youtube.com/watch?v=FhWsl8bhpqA)
+  - [Mảng Cộng Dồn (Prefix Sum) Phần 3](https://youtu.be/zi0E7Zsj1qM?si=kmctFZpzu7b_KWT-)
+- Bài viết tiếng Anh:
+  - [Prefix sum array and difference array](https://wcipeg.com/wiki/Prefix_sum_array_and_difference_array)
+  - [Introduction to Prefix Sums - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
+  - [More on Prefix Sums - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
+  - [Prefix Sum Array – Implementation and Applications in Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/)
+  - [An Introduction To Difference Arrays - Codeforces Blog](https://codeforces.com/blog/entry/78762)
+  - [Difference Array | Range update query in O(1) - GeeksforGeeks](https://www.geeksforgeeks.org/difference-array-range-update-query-o1/)
+- Video tiếng Anh:
+  - [Prefix Sums - Problems, Code in C++ & Python](https://www.youtube.com/watch?v=PhgtNY_-CiY)
+  - [Prefix Sum Algorithm | Prefix Sum Array | Difference Array | Range Sum QueryO(1)](https://www.youtube.com/watch?v=pVS3yhlzrlQ)
+  - [Prefix and Partial Sums](https://www.youtube.com/playlist?list=PLolmUFFwpoZXikmXzvaiKXJInVoA6_dpw)
+  - [Subarray Sum Equals K - Prefix Sums - Leetcode 560 - Python](https://www.youtube.com/watch?v=fFVZt-6sgyo)
+  - [Prefix Sum Array Explained](https://www.youtube.com/watch?v=7pJo_rM0z_s)
+  - [Difference Array | Range update in O(1)](https://www.youtube.com/watch?v=R-PBfqsRGP0)
 
 ## Deque và tìm min max trên đoạn tịnh tiến
 
