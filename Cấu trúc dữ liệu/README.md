@@ -276,7 +276,25 @@
 
 ## Deque và tìm min max trên đoạn tịnh tiến
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Deque - hàng đợi hai đầu - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/Deque)
+  - [Hàng đợi hai đầu (deque) và Bài toán tìm max-min trong đoạn tịnh tiến - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/deque-min-max)
+  - [Deque và Tìm min - max trên đoạn tịnh tiến](https://viblo.asia/p/deque-va-tim-min-max-tren-doan-tinh-tien-maGK7Bda5j2)
+  - [Queue và Deque](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/queue-va-deque-4272)
+- Video tiếng Việt:
+  - [Cấu Trúc Dữ Liệu Hàng Đợi Hai Đầu | Deque In C++](https://www.youtube.com/watch?v=MoD_cqJ9s6g)
+  - [stack - deque (Tìm số nhỏ/lớn hơn gần nhất, tìm max min trên đoạn tịnh tiến) [C++]](https://www.youtube.com/watch?v=85S-YtmEuDo)
+- Bài viết tiếng Anh:
+  - [std::deque](https://cplusplus.com/reference/deque/deque/)
+  - [Deque in C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/deque-cpp-stl/)
+  - [Double-ended queue - Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
+- Video tiếng Anh:
+  - [std::deque In C++](https://www.youtube.com/watch?v=uGWeixb7HMo)
+  - [Deque - Data Structure](https://www.youtube.com/watch?v=5VDQxLAlfu0)
+  - [Double-Ended Queue in Data Structure](https://www.youtube.com/watch?v=OnlgK0gjtB8)
+  - [Deque In Data Structure | Introduction To Deque With Example](https://www.youtube.com/watch?v=OBftGLwEdEw)
+  - [Sliding Window Maximum using Deque](https://www.youtube.com/watch?v=4JstGzs6Q9I)
+  - [Deque Animation](https://www.youtube.com/watch?v=xC4m6O7VDJU)
 
 ## Heap
 
