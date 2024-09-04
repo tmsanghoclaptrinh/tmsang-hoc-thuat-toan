@@ -298,7 +298,28 @@
 
 ## Heap
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Binary Heap - VNOI Wiki](https://wiki.vnoi.info/translate/wcipeg/Binary-Heap)
+  - [Đống (cấu trúc dữ liệu) - Wikipedia](https://vi.wikipedia.org/wiki/%C4%90%E1%BB%91ng_%28c%E1%BA%A5u_tr%C3%BAc_d%E1%BB%AF_li%E1%BB%87u%29)
+  - [Heap và priority_queue của C++](https://viblo.asia/p/heap-va-priority-queue-cua-c-gAm5ymYX5db)
+- Video tiếng Việt:
+  - [Heap (Đống) - Priority Queue (Hàng đợi ưu tiên)](https://www.youtube.com/watch?v=BXYotZVWBm4)
+  - [Heap Và Hàng Đợi Ưu Tiên (Priority Queue)](https://www.youtube.com/watch?v=KGukb-Z1ebA)
+- Bài viết tiếng Anh:
+  - [Binary heap](https://wcipeg.com/wiki/Binary_heap)
+  - [Heap (data structure) - Wikipedia](https://en.wikipedia.org/wiki/Heap_%28data_structure%29)
+  - [Introduction to Heap - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-heap/)
+  - [Heap Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/heap-data-structure/)
+  - [Heaps/Priority Queues - HackerEarth](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/tutorial/)
+  - [VisuAlgo](https://visualgo.net/en/heap?slide=1)
+- Video tiếng Anh:
+  - [Heap - Heap Sort - Heapify - Priority Queues - Abdul Bari](https://www.youtube.com/watch?v=HqPJF2L5h9U)
+  - [Heaps in 3 minutes - Intro](https://www.youtube.com/watch?v=0wPlzMU-k00)
+  - [Heaps in 6 minutes — Methods](https://www.youtube.com/watch?v=pAU21g-jBiE)
+  - [Heaps, heapsort, and priority queues - Inside code](https://www.youtube.com/watch?v=pLIajuc31qk)
+  - [Data Structures: Heaps - HackerRank](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
+  - [Heaps and Heap Sort - MIT OpenCourseWare](https://www.youtube.com/watch?v=B7hVxCmfPtM)
+  - [What Is a Binary Heap? - Spanning Tree](https://www.youtube.com/watch?v=AE5I0xACpZs)
 
 ## Bảng băm (Hash table)
 
