@@ -323,7 +323,43 @@
 
 ## Bảng băm (Hash table)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Bảng băm (Hash Table) - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/hash-table)
+  - [Bảng băm - Wikipedia](https://vi.wikipedia.org/wiki/B%E1%BA%A3ng_b%C4%83m)
+  - [Bảng băm – Hash tables](https://nguyenvanhieu.vn/bang-bam-hash-tables/)
+  - [Bảng băm (Hash table)](https://cuuduongthancong.com/atc/1371/bai-3-bang-bam-%28hash-table%29)
+  - [Tìm hiểu về hash table](https://viblo.asia/p/tim-hieu-ve-hash-table-RnB5p0gY5PG)
+- Video tiếng Việt:
+  - [Giới thiệu về hash table (bảng băm)](https://www.youtube.com/watch?v=OpItfJ_5l_4)
+  - [Cài đặt hash tables - xử lý va chạm bằng linked list](https://www.youtube.com/watch?v=GQs3FhwEmy0)
+  - [Ứng dụng hash làm từ điển (Simple Dictionary)](https://www.youtube.com/watch?v=tRYXvuYcCBs)
+  - [Hash table, hash function](https://www.youtube.com/watch?v=uKIFNzqX2a8)
+  - [Hashtable Separate Chaining](https://www.youtube.com/watch?v=kBS3xQTVzVg)
+  - [Hashtable Open Addressing](https://www.youtube.com/watch?v=UhBql4zi_nk)
+  - [Hashtable Linear Probing](https://www.youtube.com/watch?v=i9e3pqoav5Q)
+  - [Hashtable Quadratic Probing](https://www.youtube.com/watch?v=0AW6TJM9yFA)
+  - [Hashtable Double Hashing](https://www.youtube.com/watch?v=Ix1PJgPvdVc)
+  - [Hashtable Open Addressing Removal](https://www.youtube.com/watch?v=dHTVTsJ6kDM)
+  - [Hashtable Open Addressing Code](https://www.youtube.com/watch?v=7zjm0IaVOIs)
+  - [Hash function (Hàm băm) - Nghe tên kinh dị phết nhưng ý nghĩa thì là gì?](https://www.youtube.com/watch?v=vOmBRzAgH8I)
+- Bài viết tiếng Anh:
+  - [Basics of Hash Tables - HackerEarth](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+  - [Hash table - Wikipedia](https://en.wikipedia.org/wiki/Hash_table)(https://www.youtube.com/watch?v=vOmBRzAgH8I)
+  - [Hash Table Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/hash-table-data-structure/)
+  - [Hashing in Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/hashing-data-structure/)
+  - [DSA Hash Tables - W3Schools](https://www.w3schools.com/dsa/dsa_theory_hashtables.php)
+  - [VisuAlgo](https://visualgo.net/en/hashtable?slide=1)
+  - [Hash Table Data structure
+](https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm)
+- Video tiếng Anh:
+  - [Hash tables in 4 minutes](https://www.youtube.com/watch?v=knV86FlSXJ8)
+  - [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
+  - [Learn Hash Tables in 13 minutes](https://www.youtube.com/watch?v=FsfRsGFHuv4)
+  - [Hashing - MIT OpenCourseWare](https://www.youtube.com/watch?v=Nu8YGneFCWE)
+  - [Data Structures: Hash Tables - HackerRank](https://www.youtube.com/watch?v=shs0KM3wKv8)
+  - [CS50 2019 - Lecture 5 - Hash Table](https://www.youtube.com/watch?v=btT4bCOvqjs)
+  - [Understanding and implementing a Hash Table (in C)](https://www.youtube.com/watch?v=2Ti5yvumFTU)
+  - [Hash Tables - CS50 Shorts](https://www.youtube.com/watch?v=nvzVHwrrub0)
 
 ## Disjoint Set Union (DSU)
 
