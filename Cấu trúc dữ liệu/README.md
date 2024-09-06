@@ -363,7 +363,35 @@
 
 ## Disjoint Set Union (DSU)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Disjoint Set Union - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/disjoint-set-union)
+  - [Tổng quan về Disjoint Sets Union và cách xây dựng DSU](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/tong-quan-ve-disjoint-sets-union-va-cach-xay-dung-dsu-4385)
+  - [Cấu trúc dữ liệu cho các tập hợp không giao nhau - Wikipedia](https://vi.wikipedia.org/wiki/C%E1%BA%A5u_tr%C3%BAc_d%E1%BB%AF_li%E1%BB%87u_cho_c%C3%A1c_t%E1%BA%ADp_h%E1%BB%A3p_kh%C3%B4ng_giao_nhau)
+  - [Disjoint Set Union (DSU)](https://hackmd.io/@jalsol/DSU)
+  - [Cấu trúc các tập không giao nhau – Disjoint Set Union (DSU)](https://codedream.edu.vn/disjoint-set-union-dsu/)
+- Video tiếng Việt:
+  - [Cấu Trúc Dữ Liệu Các Tập Hợp Rời Nhau | Disjoint Set Union DSU | Union Find](https://www.youtube.com/watch?v=fWLCQAwDt-0)
+  - [DSU Disjoint Sets Union](https://www.youtube.com/watch?v=N-cfIxbDJe8)
+- Bài viết tiếng Anh:
+  - [Disjoint Set Union - cp-algorithms](https://cp-algorithms.com/data_structures/disjoint_set_union.html)
+  - [Disjoint Set Union - USACO Guide](https://usaco.guide/gold/dsu?lang=cpp)
+  - [Disjoint Set Union (Union Find) - HackerEarth](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/)
+  - [Disjoint Set Union - CodeChef](https://www.codechef.com/learn/course/dsu)
+  - [Introduction to Disjoint Set Data Structure | DSU - CodeForces Blog](https://codeforces.com/blog/entry/120381)
+  - [Disjoint-set data structure - Wikipedia](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+  - [Introduction to Disjoint Set (Union-Find Algorithm) - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-disjoint-set-data-structure-or-union-find-algorithm/)
+  - [Disjoint Set Data Structures - GeeksforGeeks](https://www.geeksforgeeks.org/disjoint-set-data-structures/)
+- Video tiếng Anh:
+  - [Disjoint Set Data Structure - Union Find Tutorial](https://www.youtube.com/watch?v=PGZ64ob440I)
+  - [Disjoint Sets Data Structure - Weighted Union and Collapsing Find - Abdul Bari](https://www.youtube.com/watch?v=wU6udHRIkcc)
+  - [Union Find in 5 minutes](https://www.youtube.com/watch?v=ayW5B2W9hfo)
+  - [Disjoint Set | Union by Rank | Union by Size | Path Compression](https://www.youtube.com/watch?v=aBxjDBC4M1U)
+  - [Disjoint Set | UNION and FIND](https://www.youtube.com/watch?v=eTaWFhPXPz4)
+  - [Union Find Introduction](https://www.youtube.com/watch?v=ibjEGG7ylHk)
+  - [Union Find Kruskal's Algorithm](https://www.youtube.com/watch?v=JZBQLXgSGfs)
+  - [Union Find - Union and Find Operations](https://www.youtube.com/watch?v=0jNmHPfA_yE)
+  - [Union Find Path Compression](https://www.youtube.com/watch?v=VHRhJWacxis)
+  - [Union Find Code](https://www.youtube.com/watch?v=KbFlZYCpONw)
 
 ## Cây Phân Đoạn (Segment Tree - Interval Tree)
 
