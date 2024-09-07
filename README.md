@@ -164,7 +164,7 @@
 - [Heap](/Cấu%20trúc%20dữ%20liệu/README.md#heap)
 - [Bảng băm (Hash table)](/Cấu%20trúc%20dữ%20liệu/README.md#bảng-băm-hash-table)
 - [Disjoint Set Union (DSU)](/Cấu%20trúc%20dữ%20liệu/README.md#disjoint-set-union-dsu)
-- [Cây Phân Đoạn (Segment Tree - Interval Tree)](/Cấu%20trúc%20dữ%20liệu/README.md#cây-phân-đoạn-segment-tree---interval-tree)
+- [Cây Phân Đoạn (Segment Tree)](/Cấu%20trúc%20dữ%20liệu/README.md#cây-phân-đoạn-segment-tree)
 - [Chia căn](/Cấu%20trúc%20dữ%20liệu/README.md#chia-căn)
 - [Fenwick Tree (Binary Indexed Tree)](/Cấu%20trúc%20dữ%20liệu/README.md#fenwick-tree-binary-indexed-tree)
 - [Heavy Light Decomposition (HLD)](/Cấu%20trúc%20dữ%20liệu/README.md#heavy-light-decomposition-hld)
