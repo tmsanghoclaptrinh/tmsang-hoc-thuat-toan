@@ -430,7 +430,29 @@
 
 ## Chia căn
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Chia căn (sqrt decomposition) và ứng dụng: Phần 1 - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/sqrt-decomposition)
+  - [Chia căn (sqrt decomposition) và ứng dụng: Phần 2 - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/mo-algorithm)
+  - [Chia căn - Mới - Phần I - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/sqrt-decomposition-I-new)
+  - [Chia căn - Mới - Phần II - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/sqrt-decomposition-II-new)
+- Video tiếng Việt:
+  - [Chia căn - Chiếc phao cứu sinh cho thí sinh](https://www.youtube.com/watch?v=APuPyh94vD0)
+- Bài viết tiếng Anh:
+  - [Sqrt Decomposition - cp-algorithms](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
+  - [Sqrt Tree - cp-algorithms](https://cp-algorithms.com/data_structures/sqrt-tree.html)
+  - [Square Root Decomposition - USACO Guide](https://usaco.guide/plat/sqrt?lang=cpp)
+  - [An alternative sorting order for Mo's algorithm - Codeforces Blog](https://codeforces.com/blog/entry/61203)
+  - [[Tutorial] Two ways to apply Mo's Algorithm on Trees - Codeforces Blog](https://codeforces.com/blog/entry/68271)
+  - [[Tutorial] Square root decomposition and applications - Codeforces Blog](https://codeforces.com/blog/entry/83248)
+  - [Square Root (Sqrt) Decomposition Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/square-root-sqrt-decomposition-algorithm/)
+- Video tiếng Anh:
+  - [Square Root Decomposition, Mo's Algorithm](https://www.youtube.com/watch?v=BJhzd_VG61k)
+  - [Square Root Decomposition - Introduction](https://www.youtube.com/watch?v=tuxMRkKuP8Y)
+  - [RMQSQ - Spoj](https://www.youtube.com/watch?v=NreaqzAKvg0)
+  - [Mo's Algorithm - Square Root Decomposition](https://www.youtube.com/watch?v=0Cu9Kg7RJYg)
+  - [DQueary - SPOJ](https://www.youtube.com/watch?v=XPedtcrgA4E)
+  - [Easily Solve Range Query Interview Problems with Square Root Decomposition/Mo's Algorithm](https://www.youtube.com/watch?v=U4YmISZViSs)
+  - [Simplest Explanation of Square Root Decomposition](https://www.youtube.com/watch?v=IxZVN7JtUDM)
 
 ## Fenwick Tree (Binary Indexed Tree)
 
