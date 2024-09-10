@@ -483,7 +483,17 @@
 
 ## Heavy Light Decomposition (HLD)
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Heavy-Light Decomposition (HLD) - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/heavy-light-decomposition)
+- Bài viết tiếng Anh:
+  - [Heavy-Light Decomposition - USACO Guide](https://usaco.guide/plat/hld?lang=cpp)
+  - [Heavy-light decomposition - cp-algorithms](https://cp-algorithms.com/graph/hld.html)
+  - [Hybrid Tutorial #-1: Heavy-Light Decomposition - Codeforces Blog](https://codeforces.com/blog/entry/81317)
+  - [Introduction to Heavy Light Decomposition - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-heavy-light-decomposition/)
+- Video tiếng Anh:
+  - [Hybrid Tutorial #-1: Heavy-Light Decomposition](https://www.youtube.com/watch?v=_G_LMuLWMaI)
+  - [Heavy light decomposition: The hardest competitive programming algorithm](https://www.youtube.com/watch?v=1PvT2d9lgqY)
+  - [USACO Crash Course: Heavy Light Decomposition!](https://www.youtube.com/watch?v=AeBrkNQhJhc)
 
 ## Persistent Data Structures
 
