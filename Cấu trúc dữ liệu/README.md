@@ -497,7 +497,18 @@
 
 ## Persistent Data Structures
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Persistent Data Structures - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/persistent-data-structures)
+- Bài viết tiếng Anh:
+  - [Persistent Data Structures - USACO Guide](https://usaco.guide/adv/persistent?lang=cpp)
+  - [Persistent Data Structures - MIT](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/2165d83010dc7633bce397ea75f889f9_lec05_1999.pdf)
+  - [Persistent data structure - Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
+  - [Persistent data structures - GeeksforGeeks](https://www.geeksforgeeks.org/persistent-data-structures/)
+- Video tiếng Anh:
+  - [Persistent Data Structures - MIT OpenCourseWare](https://www.youtube.com/watch?v=T0yzrZL1py0)
+  - [Retroactive Data Structures - MIT OpenCourseWare](https://youtu.be/WqCWghETNDc?si=9J6eyCmkaBYrO-ZK)
+  - [AlgorithmsThread 5: Persistent Data Structures](https://www.youtube.com/watch?v=m3uEG4NgJx8)
+  - ["Visualizing Persistent Data Structures" by Dann Toliver](https://youtu.be/2XH_q494U3U?si=o3-Amye0Q1fBxO3q)
 
 ## Lowest Common Ancestor (LCA) - Binary Lifting
 
