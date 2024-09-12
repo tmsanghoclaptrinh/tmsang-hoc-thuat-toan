@@ -512,7 +512,26 @@
 
 ## Lowest Common Ancestor (LCA) - Binary Lifting
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Lowest Common Ancestor (LCA) - Binary Lifting - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/lca-binlift.md)
+  - [Bài toán: "Tổ tiên chung gần nhất" - LCA](https://storage-vnportal.vnpt.vn/lci-ubnd-responsive/sitefolders/thptchuyen-laocai/tin-hoc/chuyen-de-lca.pdf)
+  - [Bài toán RMQ và bài toán LCA](http://chuyen-vonguyengiapqb.edu.vn/tin-tuc-thong-bao/to-chuyen-mon/tin/bai-toan-rmq-va-bai-toan-lca.html)
+- Video tiếng Việt:
+  - [LCA - GSPVHCUTE](https://www.youtube.com/watch?v=KT8sdIdLbXo)
+  - [LCA Playlist](https://www.youtube.com/playlist?list=PLXvr7Y9rsSjLsbsAjd5TRNQxfQFWQ_FZx)
+- Bài viết tiếng Anh:
+  - [Lowest Common Ancestor - Binary Lifting - cp-algorithms](https://cp-algorithms.com/graph/lca_binary_lifting.html)
+  - [LCA in a tree using Binary Lifting Technique - GeeksforGeeks](https://www.geeksforgeeks.org/lca-in-a-tree-using-binary-lifting-technique/)
+  - [Binary Lifting Guide for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/binary-lifting-guide-for-competitive-programming/)
+  - [Binary Jumping - USACO Guide](https://usaco.guide/plat/binary-jump?lang=cpp)
+  - [Lowest common ancestor - Wikipedia](https://en.wikipedia.org/wiki/Lowest_common_ancestor)
+- Video tiếng Anh:
+  - [LCA – Lowest Common Ancestor](https://www.youtube.com/watch?v=dOAxrhAUIhA)
+  - [Microsoft Coding Interview Question and Answer: Lowest Common Ancestor - CS Dojo](https://www.youtube.com/watch?v=GnliEfQo114)
+  - [Lowest Common Ancestor of a Binary Search Tree - Leetcode 235 - Python](https://www.youtube.com/watch?v=gs2LMfuOR9k)
+  - [Lowest Common Ancestor (LCA) Problem | Eulerian path method](https://www.youtube.com/watch?v=sD1IoalFomA)
+  - [Lowest Common Ancestor Binary Tree](https://www.youtube.com/watch?v=13m9ZCB8gjw)
+  - [Lowest Common Ancestor Binary Search Tree](https://www.youtube.com/watch?v=TIoCCStdiFo)
 
 ## Bài toán RMQ & bài toán LCA
 
