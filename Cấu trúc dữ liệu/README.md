@@ -561,7 +561,32 @@
 
 ## Trie
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Trie - VNOI Wiki](https://wiki.vnoi.info/vi/algo/string/trie)
+  - [Trie Tree (phần 1) - Xử lý xâu kí tự](https://viblo.asia/p/trie-tree-phan-1-xu-ly-xau-ki-tu-5pPLk96n4RZ)
+  - [Trie Tree (phần 2) - Trie nhị phân](https://viblo.asia/p/trie-tree-phan-2-trie-nhi-phan-zXRJ8m3qLGq)
+  - [Trie - HowKteam](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/trie-4329)
+  - [Trie - Wikipedia](https://vi.wikipedia.org/wiki/Trie)
+- Video tiếng Việt:
+  - [TRIE | Cây tiền tố [C++] | Phần 1 : Lý thuyết - Cài đặt cơ bản bằng mảng](https://www.youtube.com/watch?v=wFv5IgbChEQ)
+  - [TRIE | Cây tiền tố [C++] | Phần 2 : Lý thuyết - Cài đặt cơ bản bằng con trỏ](https://www.youtube.com/watch?v=KluARqDIKVE)
+  - [Trie - AutoComplete](https://www.youtube.com/watch?v=EEVHUE5MtDE)
+- Bài viết tiếng Anh:
+  - [Trie Data Structure Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-trie-data-structure-and-algorithm-tutorials/)
+  - [Trie Data Structure | Insert and Search - GeeksforGeeks](https://www.geeksforgeeks.org/trie-insert-and-search/)
+  - [Trie | Delete - GeeksforGeeks](https://www.geeksforgeeks.org/trie-delete/)
+  - [Advantages of Trie Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/advantages-trie-data-structure/)
+  - [Trie (Keyword Tree) - HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/tutorial/)
+  - [Trie - Wikipedia](https://en.wikipedia.org/wiki/Trie)
+- Video tiếng Anh:
+  - [Tries - CS50 Shorts](https://www.youtube.com/watch?v=MC-iQHFdEDI)
+  - [Trie Data Structure (EXPLAINED)](https://www.youtube.com/watch?v=-urNrIAQnNo)
+  - [Implement Trie (Prefix Tree) - Leetcode 208](https://www.youtube.com/watch?v=oobqoCJlHA0)
+  - [TRIE in Coding Interviews](https://www.youtube.com/watch?v=MyiHeqtwOWQ)
+  - [Data Structures: Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg)
+  - [Basics of trie](https://www.youtube.com/watch?v=6PX6wqDQE20)
+  - [The Trie Data Structure (Prefix Tree)](https://www.youtube.com/watch?v=3CbFFVHQrk4)
+  - [Trie Data Structure](https://www.youtube.com/watch?v=AXjmTQ8LEoI)
 
 ## Suffix Array
 
