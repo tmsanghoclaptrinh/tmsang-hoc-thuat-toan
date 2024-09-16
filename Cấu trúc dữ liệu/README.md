@@ -590,7 +590,23 @@
 
 ## Suffix Array
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Mảng hậu tố (Suffix Array) - VNOI Wiki](https://wiki.vnoi.info/algo/string/suffix-array)
+  - [Bàn về mảng hậu tố (Suffix Array)](https://blogthuattoan.blogspot.com/2014/06/ban-ve-mang-hau-to-suffix-array.html)
+- Bài viết tiếng Anh:
+  - [Suffix Array - cp-algorithms](https://cp-algorithms.com/string/suffix-array.html)
+  - [Suffix Array - USACO Guide](https://usaco.guide/adv/suffix-array?lang=cpp)
+  - [Suffix array - Wikipedia](https://en.wikipedia.org/wiki/Suffix_array)
+  - [Suffix Array | Set 1 (Introduction) - GeeksforGeeks](https://www.geeksforgeeks.org/suffix-array-set-1-introduction/)
+  - [Suffix arrays – a programming contest approach - Đại học Stanford](https://web.stanford.edu/class/cs97si/suffix-array.pdf)
+  - [Suffix Arrays - HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/tutorial/)
+  - [SuffixArrays - Đại học Yale](https://www.cs.yale.edu/homes/aspnes/pinewiki/SuffixArrays.html)
+  - [Suffix Array- LCP and Finding Unique Substring - TopCoder](https://www.topcoder.com/thrive/articles/suffix-array-lcp-and-finding-unique-substring)
+  - [VisuAlgo](https://visualgo.net/en/suffixarray?slide=1)
+- Video tiếng Anh:
+  - [Suffix array playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsCQ_Educ7GCNs3mvzpXhHW5)
+  - [Advanced Data Structures: Suffix Arrays](https://www.youtube.com/watch?v=IzMxbboPcqQ)
+  - [Suffix Array | Set 1 | Introduction (Explanation) | GeeksforGeeks](https://www.youtube.com/watch?v=uxA__b23t2w)
 
 ## Palindrome Tree
 
