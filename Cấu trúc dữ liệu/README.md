@@ -54,7 +54,6 @@
 - [Bài toán RMQ & bài toán LCA](#bài-toán-rmq--bài-toán-lca)
 - [Trie](#trie)
 - [Suffix Array](#suffix-array)
-- [Palindrome Tree](#palindrome-tree)
 - [Skip List](#skip-list)
 - [Range Tree](#range-tree)
 
@@ -608,13 +607,26 @@
   - [Advanced Data Structures: Suffix Arrays](https://www.youtube.com/watch?v=IzMxbboPcqQ)
   - [Suffix Array | Set 1 | Introduction (Explanation) | GeeksforGeeks](https://www.youtube.com/watch?v=uxA__b23t2w)
 
-## Palindrome Tree
-
-Đang cập nhật
-
 ## Skip List
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Skip Lists - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/Skip-Lists)
+  - [Linked lists - 7. Skip Lists](https://viblo.asia/p/chuong-3-linked-lists-7-skip-lists-Ny0VG9g5JPA)
+  - [Skip List – Đối thủ của cây cân bằng](https://katatunix.wordpress.com/2008/08/28/skip-list-d%E1%BB%91i-th%E1%BB%A7-c%E1%BB%A7a-cay-can-b%E1%BA%B1ng/)
+  - [Sử dụng Skiplist làm index cho MemSQL](https://newsletter.grokking.org/p/103-s-d-ng-skiplist-lam-index-cho-memsql-219217)
+- Bài viết tiếng Anh:
+  - [Skip List – Efficient Search, Insert and Delete in Linked List - GeeksforGeeks](https://www.geeksforgeeks.org/skip-list/)
+  - [Skip Lists](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3/html/SkipList.html)
+  - [Skip Lists - CMSC 420](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/skiplists.pdf)
+  - [Skip list - Wikipedia](https://en.wikipedia.org/wiki/Skip_list)
+- Video tiếng Anh:
+  - [Skip List Explained | Advanced Data Structure](https://www.youtube.com/watch?v=ol-FaNLXlR0)
+  - [Skip Lists - Algorithms Lab](https://www.youtube.com/watch?v=NDGpsfwAaqo)
+  - [Randomization: Skip Lists - MIT OpenCourseWare](https://www.youtube.com/watch?v=2g9OSRKJuzM)
+  - [Skip Lists EXPLAINED | Insertion and Deletion](https://www.youtube.com/watch?v=1G8h3u6Thzs)
+  - [Skip List](https://www.youtube.com/watch?v=UGaOXaXAM5M)
+  - [Skip List || How does skip list work](https://www.youtube.com/watch?v=YZ5ef_HiHJ8)
+  - [Inserting and Removing from a Skip List](https://www.youtube.com/watch?v=Q9MdwzewSZg)
 
 ## Range Tree
 

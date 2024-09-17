@@ -173,7 +173,6 @@
 - [Bài toán RMQ & bài toán LCA](/Cấu%20trúc%20dữ%20liệu/README.md#bài-toán-rmq--bài-toán-lca)
 - [Trie](/Cấu%20trúc%20dữ%20liệu/README.md#trie)
 - [Suffix Array](/Cấu%20trúc%20dữ%20liệu/README.md#suffix-array)
-- [Palindrome Tree](/Cấu%20trúc%20dữ%20liệu/README.md#palindrome-tree)
 - [Skip List](/Cấu%20trúc%20dữ%20liệu/README.md#skip-list)
 - [Range Tree](/Cấu%20trúc%20dữ%20liệu/README.md#range-tree)
 
