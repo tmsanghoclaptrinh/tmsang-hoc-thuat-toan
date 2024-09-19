@@ -150,8 +150,6 @@
 
 ## [Cấu trúc dữ liệu (Data Structures)](/Cấu%20trúc%20dữ%20liệu/README.md)
 
-Đang cập nhật
-
 - [Tổng quan về cấu trúc dữ liệu](/Cấu%20trúc%20dữ%20liệu/README.md#tổng-quan-về-cấu-trúc-dữ-liệu)
 - [Mảng (Array) và Danh sách liên kết (Linked list)](/Cấu%20trúc%20dữ%20liệu/README.md#mảng-array-và-danh-sách-liên-kết-linked-list)
 - [Dynamic Array](/Cấu%20trúc%20dữ%20liệu/README.md#dynamic-array)

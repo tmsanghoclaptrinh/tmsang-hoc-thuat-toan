@@ -632,29 +632,10 @@
 
 - Bài viết tiếng Việt:
   - [Range Tree - Thầy Lê Minh Hoàng](https://wiki.vnoi.info/algo/data-structures/rangetree.pdf)
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-- Video tiếng Việt:
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
 - Bài viết tiếng Anh:
   - [Range tree - Wikipedia](https://en.wikipedia.org/wiki/Range_tree)
   - [Range Trees](https://www.cs.umd.edu/class/fall2020/cmsc420-0201/Lects/lect17-range-tree.pdf)
-  - []()
-  - []()
-  - []()
-  - []()
 - Video tiếng Anh:
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
+  - [Orthogonal Range Queries: Range Trees and Kd-Trees](https://www.youtube.com/playlist?list=PLubYOWSl9mIsOJW-u2ZusOJzZvhNi0xks)
+  - [Range Trees - MIT OpenCourseWare](https://www.youtube.com/watch?v=xVka6z1hu-I)
+  - [Range Trees (2D)](https://www.youtube.com/watch?v=3_WDHE2FuOk)
