@@ -174,9 +174,9 @@
 - [Skip List](/Cấu%20trúc%20dữ%20liệu/README.md#skip-list)
 - [Range Tree](/Cấu%20trúc%20dữ%20liệu/README.md#range-tree)
 
-## Tham lam
+## [Tham lam](/Tham%20lam/README.md)
 
-- Đang cập nhật 
+- [Tham lam](/Tham%20lam/README.md#tham-lam)
 
 ## Quy hoạch động
 
