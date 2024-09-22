@@ -84,7 +84,24 @@
 
 ## Quy hoạch động Bitmask
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+    - [Quy hoạch động Bitmask - VNOI Wiki](https://wiki.vnoi.info/algo/dp/dp-bitmask)
+    - [Quy hoạch động Bitmask](https://viblo.asia/p/quy-hoach-dong-bitmask-Yym40r85L91)
+- Video tiếng Việt:
+    - [Chữa 2 bài dp bitmask cơ bản](https://www.youtube.com/watch?v=rnDh3vdC7WA)
+    - [dp bitmask part 2](https://www.youtube.com/watch?v=zTLjFAOeE50)
+    - [DP Bitmask](https://www.youtube.com/playlist?list=PLXvr7Y9rsSjJHHvdh05kJWXmyhSFmJs6v)
+- Bài viết tiếng Anh:
+    - [Dynamic Programming and Bit Masking - HackerEarth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)
+    - [Count Ways To Assign Unique Cap To Every Person - GeeksforGeeks](https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/)
+    - [DP with Bitmasks](https://cp.cyberlabs.club/docs/roadmap/advanced/dp-with-bitmasks/)
+    - [Bitmask DP - USACO Guide](https://usaco.guide/gold/dp-bitmasks?lang=cpp)
+    - [Introduction to DP with Bitmasking](https://codeforces.com/blog/entry/81516)
+- Video tiếng Anh:
+    - [DP with Bitmasks](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g)
+    - [Dynamic Programming with Bitmask Made Simple | All Subform explained | Bitmask DP Practice problems](https://www.youtube.com/watch?v=JvsGLRxK4NQ)
+    - [Dynamic Programming with Bitmasks](https://www.youtube.com/watch?v=bjucBkxrMBs)
+    - [Dynamic Programming Bootcamp](https://www.youtube.com/playlist?list=PLAj_13N2fk-RA6wvOUmWOyUeL9zmWFJoI)
 
 ## Quy hoạch động Chia để trị
 
