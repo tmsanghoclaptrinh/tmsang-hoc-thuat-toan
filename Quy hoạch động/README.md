@@ -105,7 +105,15 @@
 
 ## Quy hoạch động Chia để trị
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+    - [Quy hoạch động chia để trị (Divide and Conquer DP) - VNOI Wiki](https://wiki.vnoi.info/algo/dp/dpdnc)
+- Bài viết tiếng Anh:
+    - [Divide and Conquer DP - cp-algorithms](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
+    - [Divide & Conquer - DP - USACO Guide](https://usaco.guide/plat/DC-DP?lang=cpp)
+    - [Divide and Conquer Optimization in Dynamic Programming - GeeksforGeeks](https://www.geeksforgeeks.org/divide-and-conquer-optimization-in-dynamic-programming/)
+- Video tiếng Anh:
+    - [Divide & Conquer Algorithm In 3 Minutes](https://www.youtube.com/watch?v=YOh6hBtX5l0)
+    - [Divide & Conquer Dynamic Programming Optimisation, CSES Subarray Squares](https://www.youtube.com/watch?v=Ec3fSWk9JOw)
 
 ## Tối ưu hóa quy hoạch động
 
