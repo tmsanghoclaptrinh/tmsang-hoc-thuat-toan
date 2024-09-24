@@ -61,6 +61,7 @@
     - [Kỹ thuật Quy hoạch động (Dynamic Programming)](https://www.youtube.com/watch?v=75pne6MTALk)
     - [Dp (Quy hoạch động) cơ bản 1](https://www.youtube.com/watch?v=OChChuFjQw4)
     - [Dp (quy hoạch động) cơ bản 2](https://www.youtube.com/watch?v=MR_JkaHNcUg)
+    - [Học Quy Hoạch Động cùng thầy giáo dạy đội tuyển Quốc gia trong 2 tiếng bằng 2 năm học ngoài](https://www.youtube.com/watch?v=bciCg8BWfDI)
 - Bài viết tiếng Anh:
     - [Dynamic Programming: From Novice to Advanced - TopCoder](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced)
     - [Dynamic Programming - W3Schools](https://www.w3schools.com/dsa/dsa_ref_dynamic_programming.php)
@@ -146,4 +147,19 @@
 
 ## Quy hoạch động trên cây
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+    - [Quy hoạch động trên cây - VNOI Wiki](https://wiki.vnoi.info/vi/algo/dp/treedp%20)
+    - [Quy hoạch động trên cây](https://viblo.asia/p/quy-hoach-dong-tren-cay-LzD5d9B4KjY)
+    - [Quy hoạch động trên cây (DP on tree)](https://hackmd.io/@hatakaze/dpontreeuwu)
+- Bài viết tiếng Anh:
+    - [DP on Trees - Introduction - USACO Guide](https://usaco.guide/gold/dp-trees?lang=cpp)
+    - [DP on Trees - Combining Subtrees - USACO Guide](https://usaco.guide/adv/comb-sub?lang=cpp)
+    - [DP on Trees Tutorial - Codeforces Blog](https://codeforces.com/blog/entry/20935)
+    - [Introduction to Dynamic Programming on Trees - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-dynamic-programming-on-trees/)
+    - [DP on Trees for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/dp-on-trees-for-competitive-programming/)
+- Video tiếng Anh:
+    - [DP on Trees(Beginner to advanced)](https://www.youtube.com/playlist?list=PLb3g_Z8nEv1j_BC-fmZWHFe6jmU_zv-8s)
+    - [Codeforces DP on Trees Course](https://www.youtube.com/playlist?list=PLzVLIdIx9dQxCKaiktxELrtXtnItgAAIr)
+    - [DP on Trees | Dynamic Programming](https://www.youtube.com/playlist?list=PLEI-q7w3s9gQkpM1_u1s9yFAeh2-WzBw2)
+    - [DP On Trees - Codeforces, Appleman & Tree, Sanyam Bhayia | Dynamic Programming](https://www.youtube.com/watch?v=38yRq24Zpu4)
+    - [Dynamic programming on Trees Introduction and Identification](https://www.youtube.com/watch?v=qZ5zayHSH2g)

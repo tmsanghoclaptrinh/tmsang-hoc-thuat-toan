@@ -180,8 +180,6 @@
 
 ## [Quy hoạch động](/Quy%20hoạch%20động/README.md)
 
-Đang cập nhật
-
 - [Quy hoạch động cơ bản](/Quy%20hoạch%20động/README.md#quy-hoạch-động-cơ-bản)
 - [Quy hoạch động Bitmask](/Quy%20hoạch%20động/README.md#quy-hoạch-động-bitmask)
 - [Quy hoạch động Chia để trị](/Quy%20hoạch%20động/README.md#quy-hoạch-động-chia-để-trị)
