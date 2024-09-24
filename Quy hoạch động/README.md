@@ -117,7 +117,9 @@
 
 ## Tối ưu hóa quy hoạch động
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+    - [Một số kĩ thuật tối ưu hoá thuật toán Quy Hoạch Động - VNOI Wiki](https://wiki.vnoi.info/algo/dp/Mot-so-ky-thuat-toi-uu-hoa-thuat-toan-Quy-Hoach-Dong)
+    - [Tối ưu quy hoạch động 1 chiều - VNOI Wiki](https://wiki.vnoi.info/vnoi-magazine/2023/1d1d-dp-optimization)
 
 ## Kỹ thuật bao lồi
 
