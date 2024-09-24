@@ -123,7 +123,26 @@
 
 ## Kỹ thuật bao lồi
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+    - [Kĩ thuật bao lồi (Convex Hull Trick) - VNOI Wiki](https://wiki.vnoi.info/translate/wcipeg/Convex-Hull-Trick)
+- Video tiếng Việt:
+    - [Quy hoạch động bao lồi - ACQUIRE (USACO Mar08)](https://www.youtube.com/watch?v=lzVeq8lmTlA)
+    - [Bao lồi - Bùi Việt Dũng](https://www.youtube.com/watch?v=ZibwAtfVnZU)
+- Bài viết tiếng Anh:
+    - [Convex hull trick](https://wcipeg.com/wiki/Convex_hull_trick)
+    - [Convex Hull Trick - USACO Guide](https://usaco.guide/plat/convex-hull-trick?lang=cpp)
+    - [[Tutorial] Convex Hull Trick — Geometry being useful - Codeforces Blog](https://codeforces.com/blog/entry/63823)
+    - [Dynamic Programming Optimizations - Codeforces Blog](https://codeforces.com/blog/entry/8219)
+    - [Fully Persistent Convex Hull Trick - Codeforces Blog](https://codeforces.com/blog/entry/51684)
+    - [[Tutorial] DP Optimization: Convex Hull Trick](https://www.yohandi.me/blog/convex-hull-trick/)
+    - [Convex Hull Trick](https://jeffreyxiao.me/blog/convex-hull-trick)
+    - [Convex hull trick and Li Chao tree - cp-algorithms](https://cp-algorithms.com/geometry/convex_hull_trick.html)
+- Video tiếng Anh:
+    - [Convex Hull Optimization](https://www.youtube.com/watch?v=OrH2ah4ylv4)
+    - [Dynamic Programming Optimizations (Segment Tree, Convex Hull Trick)](https://www.youtube.com/watch?v=KX_-7AqcnEU)
+    - [Convex Hull Trick - Dynamic Programming Optimisation](https://www.youtube.com/watch?v=HnZKQJtGeHs)
+    - [Convex Hull Trick(CHT) For Competitive Programming](https://www.youtube.com/watch?v=u-kNMIVNbjo)
+    - [Convex Hull Trick Visualisation](https://www.youtube.com/watch?v=qTE1OSUNR3w)
 
 ## Quy hoạch động trên cây
 
