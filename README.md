@@ -187,9 +187,22 @@
 - [Kỹ thuật bao lồi](/Quy%20hoạch%20động/README.md#kỹ-thuật-bao-lồi)
 - [Quy hoạch động trên cây](/Quy%20hoạch%20động/README.md#quy-hoạch-động-trên-cây)
 
-## Thiết kế giải thuật
+## [Thiết kế giải thuật](/Thiết%20kế%20giải%20thuật/README.md)
 
-- Đang cập nhật
+Đang cập nhật
+
+- [Bit-Parallel Algorithms](/Thiết%20kế%20giải%20thuật/README.md#bit-parallel-algorithms)
+  - [Hamming Distances](/Thiết%20kế%20giải%20thuật/README.md#hamming-distances)
+  - [Counting Subgrids](/Thiết%20kế%20giải%20thuật/README.md#counting-subgrids)
+  - [Reachability in Graphs](/Thiết%20kế%20giải%20thuật/README.md#reachability-in-graphs)
+- [Amortized Analysis](/Thiết%20kế%20giải%20thuật/README.md#amortized-analysis)
+  - [Two Pointers Method](/Thiết%20kế%20giải%20thuật/README.md#two-pointers-method)
+  - [Nearest Smaller Elements](/Thiết%20kế%20giải%20thuật/README.md#nearest-smaller-elements)
+  - [Sliding Window Minimum](/Thiết%20kế%20giải%20thuật/README.md#sliding-window-minimum)
+- [Finding Minimum Values](/Thiết%20kế%20giải%20thuật/README.md#finding-minimum-values)
+  - [Ternary Search](/Thiết%20kế%20giải%20thuật/README.md#ternary-search)
+  - [Convex Functions](/Thiết%20kế%20giải%20thuật/README.md#convex-functions)
+  - [Minimizing Sums](/Thiết%20kế%20giải%20thuật/README.md#minimizing-sums)
 
 ## Range Queries
 
