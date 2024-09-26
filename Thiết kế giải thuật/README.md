@@ -73,7 +73,8 @@
 
 ### Reachability in Graphs
 
-Đang cập nhật
+- Bài viết tiếng Anh:
+    - Mục ***8.1.3 Reachability in Graphs*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
 
 ## Amortized Analysis
 
