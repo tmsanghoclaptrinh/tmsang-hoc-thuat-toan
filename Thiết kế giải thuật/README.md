@@ -80,7 +80,35 @@
 
 ### Two Pointers Method
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+    - [Kĩ thuật hai con trỏ - VNOI Wiki](https://wiki.vnoi.info/algo/basic/two-pointers)
+    - [Kỹ thuật 2 con trỏ (Two-pointer)](https://codedream.edu.vn/ky-thuat-2-con-tro-two-pointer/)
+    - [Tổng quan về kĩ thuật Two Pointers](https://hackmd.io/@vuquelam28/HJrCyQE2_)
+    - [Hai con trỏ](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/hai-con-tro-4294)
+    - [Kỹ thuật 2 con trỏ & Bài tập vận dụng](https://hackmd.io/@hda/SkejOs2gn)
+- Video tiếng Việt:
+    - [Kỹ thuật Hai Con Trỏ | Two Pointers Trong C++](https://www.youtube.com/watch?v=PPyw2vp6SIU)
+    - [Hai con trỏ (Two pointers) - 1](https://www.youtube.com/watch?v=nk317NPlBJ4)
+    - [Hai con trỏ (Two pointers) - 2](https://www.youtube.com/watch?v=s-ULxuOkllw)
+    - [Giải các bài toán về mảng với kỹ thuật 2 con trỏ](https://www.youtube.com/watch?v=WsKoCy83wvc)
+    - [Khái niệm thuật toán và kỹ thuật | Kỹ thuật hai con trỏ ( two pointers)](https://www.youtube.com/watch?v=VVaLBG1-z2Q)
+    - [Kỹ thuật two pointers](https://www.youtube.com/watch?v=ussLEUIBpv8)
+- Bài viết tiếng Anh:
+    - Mục ***8.2.1 Two Pointers Method*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Two Pointers Technique - GeeksforGeeks](https://www.geeksforgeeks.org/two-pointers-technique/)
+    - [When should I use two pointer approach? - GeeksforGeeks](https://www.geeksforgeeks.org/when-should-i-use-two-pointer-approach/)
+    - [Two Pointers - USACO Guide](https://usaco.guide/silver/two-pointers?lang=cpp)
+    - [The Two Pointer Technique](https://algodaily.com/lessons/using-the-two-pointer-technique)
+    - [What is Two Pointer Approach?](https://takeuforward.org/data-structure/what-is-two-pointer-approach/)
+- Video tiếng Anh:
+    - [How to Use the Two Pointer Technique](https://www.youtube.com/watch?v=-gjxg6Pln50)
+    - [Visual introduction Two Pointer Algorithm](https://www.youtube.com/watch?v=On03HWe2tZM)
+    - [What is the Two-Pointers Technique & How to use it?](https://www.youtube.com/watch?v=VEPCm3BCtik)
+    - [Two Pointer Algorithm | Two Sum Problem | Solve DS Problems in O(N) Time](https://www.youtube.com/watch?v=2wVjt3yhGwg)
+    - [Two Pointers : Popular Interview Problems](https://www.youtube.com/playlist?list=PLpIkg8OmuX-LtRw7om1-EV6aJMRKjbSSR)
+    - [Two Pointers in Coding Interviews](https://www.youtube.com/watch?v=QwN-weNSrAg)
+    - [Two Pointers Technique](https://www.youtube.com/watch?v=xZ4AfXHQ1VQ)
+    - [Two Pointer Approach - CP TacTics](https://www.youtube.com/watch?v=ymKrGndnTis)
 
 ### Nearest Smaller Elements
 
