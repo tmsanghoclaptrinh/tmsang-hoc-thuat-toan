@@ -112,7 +112,15 @@
 
 ### Nearest Smaller Elements
 
-Đang cập nhật
+- Bài viết tiếng Anh:
+    - Mục ***8.2.2 Nearest Smaller Elements*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Stacks - USACO Guide](https://usaco.guide/gold/stacks?lang=cpp)
+    - [Find the nearest smaller numbers on left side in an array - GeeksforGeeks](https://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/)
+- Video tiếng Anh:
+    - [Nearest Smaller Element on Left & Right side of an Array | Stack](https://www.youtube.com/watch?v=_RtghJnM1Qo)
+    - [Nearest Smaller Elements | Monotonic Stack Part 1 | Stack](https://www.youtube.com/watch?v=Z3FtVBHQIj4)
+    - [Left Nearest Smaller Element Without Stack in O(N)](https://www.youtube.com/watch?v=NIiK0ycMkmE)
+    - [[CSES][Sorting and Searching] Nearest Smaller Values](https://www.youtube.com/watch?v=fM_vHHzHR1o)
 
 ### Sliding Window Minimum
 
