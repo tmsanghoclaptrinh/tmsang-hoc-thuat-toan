@@ -123,8 +123,13 @@
     - [[CSES][Sorting and Searching] Nearest Smaller Values](https://www.youtube.com/watch?v=fM_vHHzHR1o)
 
 ### Sliding Window Minimum
-
-Đang cập nhật
+- Bài viết tiếng Anh:
+    - Mục ***8.2.3 Sliding Window Minimum*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Minimum in sliding window: two different but similar solutions - Codeforces Blog](https://codeforces.com/blog/entry/71687)
+    - [Sliding window minimum/maximum algorithm](https://www.nayuki.io/page/sliding-window-minimum-maximum-algorithm)
+- Video tiếng Anh:
+    - [Sliding Window](https://www.youtube.com/playlist?list=PLot-Xpze53leOBgcVsJBEGrHPd_7x_koV)
+    - [Minimum Window Substring | 2 Pointers and Sliding Window Playlist](https://www.youtube.com/watch?v=WJaij9ffOIY)
 
 ## Finding Minimum Values
 
