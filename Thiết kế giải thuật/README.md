@@ -136,25 +136,43 @@
 ### Ternary Search
 
 - Bài viết tiếng Việt:
-  - [Tìm kiếm tam phân - Ternary Search - VNOI Wiki](https://wiki.vnoi.info/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search)
-  - [C++: Tìm kiếm tam phân (Ternary Search)](https://v1study.com/c-plus-plus-tham-khao-tim-kiem-tam-phan-ternary-search.html)
-  - [Thuật toán tìm kiếm tam phân](https://lmsang1986.violet.vn/entry/show/entry_id/7018542)
+    - [Tìm kiếm tam phân - Ternary Search - VNOI Wiki](https://wiki.vnoi.info/translate/emaxx/Tim-kiem-tam-phan-Ternary-Search)
+    - [C++: Tìm kiếm tam phân (Ternary Search)](https://v1study.com/c-plus-plus-tham-khao-tim-kiem-tam-phan-ternary-search.html)
+    - [Thuật toán tìm kiếm tam phân](https://lmsang1986.violet.vn/entry/show/entry_id/7018542)
 - Video tiếng Việt:
-  - [Tìm kiếm tam phân (Ternary search)](https://www.youtube.com/watch?v=3US8YDfKXHk)
+    - [Tìm kiếm tam phân (Ternary search)](https://www.youtube.com/watch?v=3US8YDfKXHk)
 - Bài viết tiếng Anh:
-  - [Ternary search - Wikipedia](https://en.wikipedia.org/wiki/Ternary_search)
-  - [Ternary Search - cp-algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
-  - [Ternary Search - HackerEarth](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/)
-  - [Ternary Search - GeeksforGeeks](https://www.geeksforgeeks.org/ternary-search/)
+    - Mục ***8.3.1 Ternary Search*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Ternary search - Wikipedia](https://en.wikipedia.org/wiki/Ternary_search)
+    - [Ternary Search - cp-algorithms](https://cp-algorithms.com/num_methods/ternary_search.html)
+    - [Ternary Search - HackerEarth](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/)
+    - [Ternary Search - GeeksforGeeks](https://www.geeksforgeeks.org/ternary-search/)
 - Video tiếng Anh:
-  - [Ternary Search | Code Tutorial](https://www.youtube.com/watch?v=JaO8cU9WlWg)
-  - [Ternary Search in 4 min (Python)](https://www.youtube.com/watch?v=o3HPRpbGlbI)
-  - [Ternary Search](https://www.youtube.com/playlist?list=PL-Jc9J83PIiGiFr2WFAiS9nEssqEoCKC4)
-  - [Ternary Search | Ternary Search with example](https://www.youtube.com/watch?v=WyWL1PBNvb8)
+    - [Ternary Search | Code Tutorial](https://www.youtube.com/watch?v=JaO8cU9WlWg)
+    - [Ternary Search in 4 min (Python)](https://www.youtube.com/watch?v=o3HPRpbGlbI)
+    - [Ternary Search](https://www.youtube.com/playlist?list=PL-Jc9J83PIiGiFr2WFAiS9nEssqEoCKC4)
+    - [Ternary Search | Ternary Search with example](https://www.youtube.com/watch?v=WyWL1PBNvb8)
 
 ### Convex Functions
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+    - [Convex sets và convex functions](https://machinelearningcoban.com/2017/03/12/convexity/)
+- Video tiếng Việt:
+    - [Convex Sets và Convex Functions](https://www.youtube.com/watch?v=2QF6aTGDyms)
+- Bài viết tiếng Anh:
+    - Mục ***8.3.2 Convex Functions*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+    - [Convex function - Wikipedia](https://en.wikipedia.org/wiki/Convex_function)
+    - [Convex functions - Đại học Princeton](https://www.princeton.edu/~aaa/Public/Teaching/ORF523/S16/ORF523_S16_Lec7_gh.pdf)
+    - [Convex Function - Wolfram MathWorld](https://mathworld.wolfram.com/ConvexFunction.html)
+    - [Convex Function](https://www.sciencedirect.com/topics/computer-science/convex-function)
+    - [Convex functions - Đại học Stanford](https://see.stanford.edu/materials/lsocoee364a/03ConvexFunctions.pdf)
+- Video tiếng Anh:
+    - [Understanding Concave and Convex Functions](https://www.youtube.com/watch?v=nOFXLCCvtm0)
+    - [Convex functions - AUT literacy for assessments](https://www.youtube.com/watch?v=u8JrE9JlZPM)
+    - [Convex Functions - Constantine Caramanis](https://www.youtube.com/watch?v=FNiJJL-1xVw)
+    - [Convex Sets and Functions](https://www.youtube.com/playlist?list=PL29P6yGVxOlMukN14mxOMOGiqE2s7DOop)
+    - [Convex functions and Jensen's inequality](https://www.youtube.com/watch?v=4s0aNldT02Y)
+    - [Concave and Convex Functions](https://www.youtube.com/watch?v=s0dZVmPN3Ww)
 
 ### Minimizing Sums
 
