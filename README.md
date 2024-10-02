@@ -189,8 +189,6 @@
 
 ## [Thiết kế giải thuật](/Thiết%20kế%20giải%20thuật/README.md)
 
-Đang cập nhật
-
 - [Bit-Parallel Algorithms](/Thiết%20kế%20giải%20thuật/README.md#bit-parallel-algorithms)
   - [Hamming Distances](/Thiết%20kế%20giải%20thuật/README.md#hamming-distances)
   - [Counting Subgrids](/Thiết%20kế%20giải%20thuật/README.md#counting-subgrids)

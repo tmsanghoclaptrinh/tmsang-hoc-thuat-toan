@@ -176,4 +176,5 @@
 
 ### Minimizing Sums
 
-Đang cập nhật
+- Bài viết tiếng Anh:
+    - Mục ***8.3.3 Minimizing Sums*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
