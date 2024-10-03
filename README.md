@@ -202,9 +202,17 @@
   - [Convex Functions](/Thiết%20kế%20giải%20thuật/README.md#convex-functions)
   - [Minimizing Sums](/Thiết%20kế%20giải%20thuật/README.md#minimizing-sums)
 
-## Range Queries
+## [Range Queries](/Range%20Queries/README.md)
 
-- Đang cập nhật
+Đang cập nhật
+
+- [Queries on Static Arrays](/Range%20Queries/README.md#queries-on-static-arrays)
+  - [Sum Queries](/Range%20Queries/README.md#sum-queries)
+  - [Minimum Queries](/Range%20Queries/README.md#minimum-queries)
+- [Tree Structures](/Range%20Queries/README.md#tree-structures)
+  - [Binary Indexed Trees](/Range%20Queries/README.md#binary-indexed-trees)
+  - [Segment Trees](/Range%20Queries/README.md#segment-trees)
+  - [Additional Techniques](/Range%20Queries/README.md#additional-techniques)
 
 ## Đồ thị
 
