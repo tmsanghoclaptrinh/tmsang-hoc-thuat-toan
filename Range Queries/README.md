@@ -86,7 +86,31 @@
 
 ### Binary Indexed Trees
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Cây chỉ số nhị phân (Binary Indexed Tree) - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/fenwick)
+  - [Cây chỉ số nhị phân 2 chiều (BIT 2 chiều) - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/fenwick-2d)
+  - [Cấu trúc dữ liệu BIT – Binary Indexed Tree (Fenwick Tree)](https://viblo.asia/p/cau-truc-du-lieu-bit-binary-indexed-tree-fenwick-tree-Az45bWvNKxY)
+  - [Fenwick Tree - HowKteam](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/fenwick-tree-4328)
+- Video tiếng Việt:
+  - [BIT (Fenwick Tree) - Cây chỉ số nhị phân [C++] - YugiHacker](https://www.youtube.com/watch?v=KChpxPuKqoI)
+  - [Fenwick Tree - cây nhị phân nhưng không hề nhị phân - GSPVHCUTE](https://www.youtube.com/watch?v=lwWD73kR1IA)
+  - [Binary Indexed Tree](https://www.youtube.com/playlist?list=PLXvr7Y9rsSjLf5X0X2CpmEwDCmxToZFYx)
+- Bài viết tiếng Anh:
+    - Mục ***9.2.1 Binary Indexed Trees*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+  - [Fenwick Tree - cp-algorithms](https://cp-algorithms.com/data_structures/fenwick.html)
+  - [Binary Indexed Tree or Fenwick Tree - HackerEarth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/)
+  - [Fenwick tree - Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree)
+  - [Binary Indexed Tree or Fenwick Tree - GeeksforGeeks](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/)
+  - [Fenwick Tree (Binary Indexed Tree) for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/fenwick-tree-for-competitive-programming/)
+  - [Binary Indexed Trees - TopCoder](https://www.topcoder.com/thrive/articles/Binary%20Indexed%20Trees)
+  - [Understanding Fenwick Trees / Binary Indexed Trees - Codeforces Blog](https://codeforces.com/blog/entry/57292)
+  - [VisuAlgo](https://visualgo.net/en/fenwicktree?slide=1)
+- Video tiếng Anh:
+  - [Fenwick Tree or Binary Indexed Tree](https://www.youtube.com/watch?v=CWDQJGaN1gY)
+  - [Fenwick Tree (Binary Index Tree) - Quick Tutorial and Source Code Explanation](https://www.youtube.com/watch?v=uSFzHCZ4E-8)
+  - [Fenwick Tree range queries](https://www.youtube.com/watch?v=RgITNht_f4Q)
+  - [Binary Indexed Tree or Fenwick Tree | Construction and Operations | GeeksforGeeks](https://www.youtube.com/watch?v=4SNzC4uNmTA)
+  - [Tutorial: Binary Indexed Tree (Fenwick Tree)](https://www.youtube.com/watch?v=v_wj_mOAlig)
 
 ### Segment Trees
 
