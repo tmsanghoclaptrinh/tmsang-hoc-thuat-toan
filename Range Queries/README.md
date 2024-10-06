@@ -114,7 +114,38 @@
 
 ### Segment Trees
 
-Đang cập nhật
+- Bài viết tiếng Việt:
+  - [Cây Phân Đoạn (cơ bản) - VNOI Wiki](https://wiki.vnoi.info/vi/algo/data-structures/segment-tree-basic)
+  - [Tất tần tật về Cây Phân Đoạn (Segment Tree) - VNOI Wiki](https://wiki.vnoi.info/vi/algo/data-structures/segment-tree-extend)
+  - [Cài đặt cây phân đoạn hiệu quả (Efficient and easy segment trees) - VNOI Wiki](https://wiki.vnoi.info/translate/codeforces/Efficient-and-easy-segment-trees.md)
+  - [Cây Đoạn (Segment Tree) là gì?](https://viblo.asia/p/cay-doan-segment-tree-la-gi-018J2KXeLYK)
+  - [Cây phân đoạn (Segment tree)](https://vallicon.com/post/c%C3%A2y-ph%C3%A2n-%C4%91o%E1%BA%A1n-%28segment-tree%29-XavBpoRzr7A)
+  - [Cây phân đoạn nâng cao (Segment trees advanced)](https://vallicon.com/post/c%C3%A2y-ph%C3%A2n-%C4%91o%E1%BA%A1n-n%C3%A2ng-cao-%28segment-trees-advanced%29-layJpdDpG6v)
+  - [Segment Tree](https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/segment-tree-4321)
+- Video tiếng Việt:
+  - [Segment Tree (Cây phân đoạn) [C++] [2021] - YugiHacker](https://www.youtube.com/watch?v=9U1pChOERjg)
+  - [Segment Tree - Cây phân đoạn [C++] [2023], Đoạn con có tổng lớn nhất, Tìm nhị phân trên segment tree](https://www.youtube.com/watch?v=dRc5ySKB67U)
+  - [Segment Tree - Lazy propagation [C++] [2023], Cây phân đoạn, cập nhật lười, cập nhật bậc thang](https://www.youtube.com/watch?v=ft6BOlOtsrI)
+  - [Cài Đặt Segment Tree (Cây phân đoạn) trên C++](https://www.youtube.com/watch?v=y60m6KUgnmM)
+- Bài viết tiếng Anh:
+  - Mục ***9.2.2 Segment Trees*** trong cuốn [Guide to Competitive Programming](https://drive.google.com/file/d/1-V14oys49VJM6oipdcaIGcLzakaR_Hkn/view)
+  - [Segment Tree - cp-algorithms](https://cp-algorithms.com/data_structures/segment_tree.html)
+  - [Segment tree](https://wcipeg.com/wiki/Segment_tree)
+  - [Efficient and easy segment trees - Codeforces Blog](https://codeforces.com/blog/entry/18051)
+  - [Segment tree - Wikipedia](https://en.wikipedia.org/wiki/Segment_tree)
+  - [Segment Tree - GeeksforGeeks](https://www.geeksforgeeks.org/segment-tree-data-structure/)
+  - [Segment Trees - HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
+  - [VisuAlgo](https://visualgo.net/en/segmenttree?slide=1)
+- Video tiếng Anh:
+  - [Segment Tree Range Minimum Query](https://www.youtube.com/watch?v=ZBHKZF5w4YU)
+  - [Lazy Propagation Segment Tree](https://www.youtube.com/watch?v=xuoQdt5pHj0)
+  - [Segment tree](https://www.youtube.com/playlist?list=PLTenPTx8NQDJniUgCDAydREd8h2Bbi_NX)
+  - [Segment Tree: CodeNCode](https://www.youtube.com/playlist?list=PL5DyztRVgtRWt0Kgy7fCN9OSPgr6AI3DO)
+  - [Segment Tree Concepts and Questions](https://www.youtube.com/playlist?list=PLpIkg8OmuX-K1qUIQToCllUO0UIKXt8dB)
+  - [Segment Tree - Level 3](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFY1445K_x1M_O3j9kr3FII)
+  - [Segment Trees - The Best Introduction in 10 mins](https://www.youtube.com/watch?v=Ic7OO3Uw6J0)
+  - [Segment Tree: Build and Query | Live Coding](https://www.youtube.com/watch?v=-dUiRtJ8ot0)
+  - [Lazy Propagation in Segment Tree | Point and Range Updates | Live Coding](https://www.youtube.com/watch?v=rwXVCELcrqU)
 
 ### Additional Techniques
 
