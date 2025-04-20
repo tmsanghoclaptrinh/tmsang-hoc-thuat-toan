@@ -19,6 +19,10 @@
   <a href="https://dev.to/tmsanghoclaptrinh"><img src="https://img.shields.io/badge/dev.to-tmsanghoclaptrinh-white"></a>
 </p>
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tmsanghoclaptrinh/tmsang-hoc-thuat-toan&type=Date)](https://www.star-history.com/#tmsanghoclaptrinh/tmsang-hoc-thuat-toan&Date)
+
 ### Series video "Lên trình Thuật toán - Lập trình thi đấu": 
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/AgwnOQbJVvU)](https://www.youtube.com/watch?v=AgwnOQbJVvU&list=PLqfkD788zZGCjhbJsmyhInVAhHBSV8Gqg&index=1)
